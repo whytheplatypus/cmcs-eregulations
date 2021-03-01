@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strings"
 )
 
 type CFRDoc struct {
@@ -28,14 +29,15 @@ type Subchapter struct {
 }
 
 type Part struct {
-	Sections []Section `xml:"SECTION"`
-	Subparts []Subpart `xml:"SUBPART"`
+	//Sections []Section `xml:"SECTION"`
+	//Subparts []Subpart `xml:"SUBPART"`
+	Children *Children `xml:",any" json:"children"`
 	Header   string    `xml:"HD"`
 }
 
 type Subpart struct {
 	Header   string    `xml:"HD"`
-	Children *Children `xml:",any"`
+	Children *Children `xml:",any" json:"children"`
 }
 
 type Children struct {
@@ -44,6 +46,12 @@ type Children struct {
 
 func (c *Children) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	switch start.Name.Local {
+	case "SUBPART":
+		child := Subpart{}
+		if err := d.DecodeElement(&child, &start); err != nil {
+			return err
+		}
+		c.Kids = append(c.Kids, child)
 	case "SUBJGRP":
 		child := SubjectGroup{}
 		if err := d.DecodeElement(&child, &start); err != nil {
@@ -67,9 +75,13 @@ func (c *Children) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	return nil
 }
 
+func (c *Children) MarshalJSON() ([]byte, error) {
+	return json.Marshal(c.Kids)
+}
+
 type SubjectGroup struct {
 	XMLName  xml.Name
-	Sections []Section `xml:"SECTION"`
+	Sections []Section `xml:"SECTION" json:"children"`
 	Header   string    `xml:"HD"`
 }
 
@@ -128,10 +140,18 @@ func main() {
 		log.Fatal(err)
 	}
 
-	json, err := json.MarshalIndent(doc, "", "    ")
-	if err != nil {
-		log.Fatal(err)
-	}
+	for _, chap := range doc.Title.Chapters {
+		for _, subchap := range chap.Subchaps {
+			for _, part := range subchap.Parts {
+				if strings.Contains(part.Header, "433") {
+					json, err := json.MarshalIndent(part, "", "    ")
+					if err != nil {
+						log.Fatal(err)
+					}
 
-	fmt.Println(string(json))
+					fmt.Println(string(json))
+				}
+			}
+		}
+	}
 }
