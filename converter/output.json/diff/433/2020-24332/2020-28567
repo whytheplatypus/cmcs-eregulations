@@ -1,0 +1,58 @@
+{
+    "433-139-b-3-i": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                17, 
+                31
+            ], 
+            [
+                [
+                    "delete", 
+                    35, 
+                    50
+                ], 
+                [
+                    "insert", 
+                    35, 
+                    "preventive pediatric services, including early and periodic screening, diagnosis and treatment services provided for under part 441, subpart B, of this chapter, that are covered under the State plan;"
+                ]
+            ], 
+            [
+                "delete", 
+                53, 
+                255
+            ]
+        ]
+    }, 
+    "433-139-b-3-ii-B": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    7
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "For child support enforcement services beginning February 9, 2018, the"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    123, 
+                    125
+                ], 
+                [
+                    "insert", 
+                    123, 
+                    "100"
+                ]
+            ]
+        ]
+    }
+}

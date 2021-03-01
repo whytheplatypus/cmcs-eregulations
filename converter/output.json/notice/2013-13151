@@ -1,0 +1,34 @@
+{
+    "amendments": [], 
+    "cfr_parts": [
+        "433"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2327-CN"
+    ], 
+    "document_number": "2013-13151", 
+    "effective_on": "2013-06-03", 
+    "footnotes": {}, 
+    "fr_citation": "78 FR 32991", 
+    "fr_url": "https://www.federalregister.gov/documents/2013/06/03/2013-13151/medicaid-program-increased-federal-medical-assistance-percentage-changes-under-the-affordable-care", 
+    "fr_volume": 78, 
+    "meta": {
+        "start_page": 32991
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES", 
+    "primary_docket": null, 
+    "publication_date": "2013-06-03", 
+    "regulation_id_numbers": [
+        "0938-AR38"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Increased Federal Medical Assistance Percentage Changes Under the Affordable Care Act of 2010; Correction", 
+    "versions": {
+        "433": {
+            "left": "2013-07599", 
+            "right": "2013-13151"
+        }
+    }
+}

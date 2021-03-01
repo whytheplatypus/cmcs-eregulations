@@ -1,0 +1,2445 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "433", 
+            "instruction": "For the reasons set forth in the preamble, the Centers for Medicare & Medicaid Services amends 42 CFR chapter IV as set forth below: "
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "433", 
+            "instruction": "1. The authority citation for part 433 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-50-a-1-i", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) A unit of government is a State, a city, a county, a special purpose district, or other governmental unit in the State that: has taxing authority, has direct access to tax revenues, is a State university teaching hospital with direct appropriations from the State treasury, or is an Indian tribe as defined in Section 4 of the Indian Self-Determination and Education Assistance Act, as amended [25 U.S.C. 450b].", 
+                                "text": "(i) A unit of government is a State, a city, a county, a special purpose district, or other governmental unit in the State that: has taxing authority, has direct access to tax revenues, is a State university teaching hospital with direct appropriations from the State treasury, or is an Indian tribe as defined in Section 4 of the Indian Self-Determination and Education Assistance Act, as amended [25 U.S.C. 450b].", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii-A", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "ii", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) The health care provider has generally applicable taxing authority; or", 
+                                "text": "(A) The health care provider has generally applicable taxing authority; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii-B", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "ii", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) The health care provider has direct access to generally applicable tax revenues. This means the health care provider is able to directly access funding as an integral part of a unit of government with taxing authority which is legally obligated to fund the health care provider's expenses, liabilities, and deficits, so that a contractual arrangement with the State or local government is not the primary or sole basis for the health care provider to receive tax revenues;", 
+                                "text": "(B) The health care provider has direct access to generally applicable tax revenues. This means the health care provider is able to directly access funding as an integral part of a unit of government with taxing authority which is legally obligated to fund the health care provider's expenses, liabilities, and deficits, so that a contractual arrangement with the State or local government is not the primary or sole basis for the health care provider to receive tax revenues;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii-C", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "ii", 
+                                    "C"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(C) The health care provider receives appropriated funding as a State university teaching hospital providing supervised teaching experiences to graduate medical school interns and residents enrolled in a State university in the State; or", 
+                                "text": "(C) The health care provider receives appropriated funding as a State university teaching hospital providing supervised teaching experiences to graduate medical school interns and residents enrolled in a State university in the State; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii-D-1-p1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "ii", 
+                                    "D", 
+                                    "1", 
+                                    "p1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(<E T=\"03\">a</E>) Carrying out health programs of the IHS, including health services which are eligible for reimbursement by Medicaid, under a contract or compact entered into between the Tribal organization and the Indian Health Service pursuant to the Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended, and", 
+                                "text": "(a) Carrying out health programs of the IHS, including health services which are eligible for reimbursement by Medicaid, under a contract or compact entered into between the Tribal organization and the Indian Health Service pursuant to the Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended, and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii-D-1-p2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "ii", 
+                                    "D", 
+                                    "1", 
+                                    "p2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(<E T=\"03\">b</E>) Either the recognized governing body of an Indian tribe, or an entity which is formed solely by, wholly owned or comprised of, and exclusively controlled by Indian tribes.", 
+                                "text": "(b) Either the recognized governing body of an Indian tribe, or an entity which is formed solely by, wholly owned or comprised of, and exclusively controlled by Indian tribes.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii-D-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-50-a-1-ii-D-1-p1", 
+                                    "433-50-a-1-ii-D-1-p2"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "ii", 
+                                    "D", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(<E T=\"03\">1</E>) If the entity is a Tribal organization, it is\u2014", 
+                                "text": "(1) If the entity is a Tribal organization, it is\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii-D", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-50-a-1-ii-D-1"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "ii", 
+                                    "D"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(D) The health care provider is an Indian Tribe or Tribal organization (as those terms are defined in Section 4 of the Indian Self-Determination and Education Assistance Act (ISDEAA); 25 U.S.C. 450b) and meets the following criteria:", 
+                                "text": "(D) The health care provider is an Indian Tribe or Tribal organization (as those terms are defined in Section 4 of the Indian Self-Determination and Education Assistance Act (ISDEAA); 25 U.S.C. 450b) and meets the following criteria:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-50-a-1-ii-A", 
+                                    "433-50-a-1-ii-B", 
+                                    "433-50-a-1-ii-C", 
+                                    "433-50-a-1-ii-D"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) A health care provider may be considered a unit of government only when it is operated by a unit of government as demonstrated by a showing of the following:", 
+                                "text": "(ii) A health care provider may be considered a unit of government only when it is operated by a unit of government as demonstrated by a showing of the following:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-50-a-1-i", 
+                                    "433-50-a-1-ii"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Section 1902(a)(2) and section 1903(w)(7)(G) of the Act, which require States to share in the cost of medical assistance expenditures and permit State and local units of government to participate in the financing of the non-Federal portion of medical assistance expenditures.", 
+                                "text": "(1) Section 1902(a)(2) and section 1903(w)(7)(G) of the Act, which require States to share in the cost of medical assistance expenditures and permit State and local units of government to participate in the financing of the non-Federal portion of medical assistance expenditures.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Amend \u00a7\u2009433.50 by revising paragraph (a)(1) to read as follows: "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-51-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Funds from units of government may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c) of this section.", 
+                                "text": "(a) Funds from units of government may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51-b-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Identifies the relevant category of expenditures under the State plan;", 
+                                "text": "(1) Identifies the relevant category of expenditures under the State plan;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Explains whether the contributing unit of government is within the scope of the exception to limitations on provider-related taxes and donations;", 
+                                "text": "(2) Explains whether the contributing unit of government is within the scope of the exception to limitations on provider-related taxes and donations;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51-b-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Demonstrates the actual expenditures incurred by the contributing unit of government in providing services to eligible individuals receiving medical assistance or in administration of the State plan; and", 
+                                "text": "(3) Demonstrates the actual expenditures incurred by the contributing unit of government in providing services to eligible individuals receiving medical assistance or in administration of the State plan; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51-b-4", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Is subject to periodic State audit and review.", 
+                                "text": "(4) Is subject to periodic State audit and review.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-51-b-1", 
+                                    "433-51-b-2", 
+                                    "433-51-b-3", 
+                                    "433-51-b-4"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) The funds from units of government are appropriated directly to the State or local Medicaid agency, or are transferred from other units of government (including Indian tribes) to the State or local agency and are under its administrative control, or are certified by the contributing unit of government as representing expenditures eligible for FFP under this section. Certified public expenditures must be expenditures within the meaning of 45 CFR 95.13 that are supported by auditable documentation in a form approved by the Secretary that, at a minimum\u2014", 
+                                "text": "(b) The funds from units of government are appropriated directly to the State or local Medicaid agency, or are transferred from other units of government (including Indian tribes) to the State or local agency and are under its administrative control, or are certified by the contributing unit of government as representing expenditures eligible for FFP under this section. Certified public expenditures must be expenditures within the meaning of 45 CFR 95.13 that are supported by auditable documentation in a form approved by the Secretary that, at a minimum\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) The funds from units of government are not Federal funds, or are Federal funds authorized by Federal law to be used to match other Federal funds.", 
+                                "text": "(c) The funds from units of government are not Federal funds, or are Federal funds authorized by Federal law to be used to match other Federal funds.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-51-a", 
+                                    "433-51-b", 
+                                    "433-51-c"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "51"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 433.51 Funds from units of government as the State share of financial participation."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "3. Section 433.51 is revised to read as follows: "
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "447", 
+            "instruction": "1. The authority citation for part 447 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-206-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Scope.</E> This section applies to payments made to health care providers that are operated by units of government as defined in \u00a7\u2009433.50(a)(1) of this chapter.", 
+                                "text": "(a) Scope. This section applies to payments made to health care providers that are operated by units of government as defined in \u00a7\u2009433.50(a)(1) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Indian Health Services facilities and tribal facilities that are funded through the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638);", 
+                                "text": "(1) Indian Health Services facilities and tribal facilities that are funded through the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638);", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-2-p1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "2", 
+                                    "p1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "Health Plans (PIHPs), and Prepaid Ambulatory Health Plans (PAHPs) which are organized and operating in accordance with the provisions of 42 CFR 438;", 
+                                "text": "Health Plans (PIHPs), and Prepaid Ambulatory Health Plans (PAHPs) which are organized and operating in accordance with the provisions of 42 CFR 438;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-b-2-p1"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Managed Care Organizations (MCOs), Prepaid Inpatient", 
+                                "text": "(2) Managed Care Organizations (MCOs), Prepaid Inpatient", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-3-p1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "3", 
+                                    "p1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "Health Clinics (RHCs) reimbursed in accordance with Section 1902(bb) of the Act; and", 
+                                "text": "Health Clinics (RHCs) reimbursed in accordance with Section 1902(bb) of the Act; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-b-3-p1"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Federally Qualified Health Centers (FQHCs) and Rural", 
+                                "text": "(3) Federally Qualified Health Centers (FQHCs) and Rural", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) The aggregate DSH limit using the Federal share of the DSH limit under section 1923(f) of the Act.", 
+                                "text": "(i) The aggregate DSH limit using the Federal share of the DSH limit under section 1923(f) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-ii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) The hospital-specific DSH limit in section 1923(g) of the Act.", 
+                                "text": "(ii) The hospital-specific DSH limit in section 1923(g) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-a-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) All health care providers that are operated by units of government are limited to reimbursement not in excess of the individual health care provider's cost of providing covered Medicaid services to eligible Medicaid recipients.", 
+                                "text": "(1) All health care providers that are operated by units of government are limited to reimbursement not in excess of the individual health care provider's cost of providing covered Medicaid services to eligible Medicaid recipients.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-a-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Reasonable methods of identifying and allocating costs to Medicaid will be determined by the Secretary in accordance with sections 1902, 1903, and 1905 of the Act, as well as 45 CFR 92.22 and Medicare cost principles when applicable.", 
+                                "text": "(2) Reasonable methods of identifying and allocating costs to Medicaid will be determined by the Secretary in accordance with sections 1902, 1903, and 1905 of the Act, as well as 45 CFR 92.22 and Medicare cost principles when applicable.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-a-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "a", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Institutional governmentally-operated health care providers (i.e., hospitals, nursing facilities, and ICFs/MR) are required to provide the State with data extracted from primary source documents as well as copies of the source documents. These source documents would include the health care provider's Medicare cost report (or Medicaid cost report for intermediate nursing facility care and ICFs/MR consistent with Medicare cost reporting principles, and audited financial statements that will be used in conjunction with information provided by the States' Medicaid Management Information System (MMIS).", 
+                                "text": "(3) Institutional governmentally-operated health care providers (i.e., hospitals, nursing facilities, and ICFs/MR) are required to provide the State with data extracted from primary source documents as well as copies of the source documents. These source documents would include the health care provider's Medicare cost report (or Medicaid cost report for intermediate nursing facility care and ICFs/MR consistent with Medicare cost reporting principles, and audited financial statements that will be used in conjunction with information provided by the States' Medicaid Management Information System (MMIS).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-a-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "a", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Medicaid costs for non-institutional governmentally-operated health care providers must be supported by auditable documentation in a form approved by the Secretary that is consistent with \u00a7\u2009433.51(b)(1) through (b)(4) of this chapter.", 
+                                "text": "(4) Medicaid costs for non-institutional governmentally-operated health care providers must be supported by auditable documentation in a form approved by the Secretary that is consistent with \u00a7\u2009433.51(b)(1) through (b)(4) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-b-4-iii-a-1", 
+                                    "447-206-b-4-iii-a-2", 
+                                    "447-206-b-4-iii-a-3", 
+                                    "447-206-b-4-iii-a-4"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">General rules.</E>", 
+                                "text": "(a) General rules.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-d-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "d", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) In accordance with paragraph (c) of this section, each provider must submit annually a cost report to the Medicaid agency that reflects the individual provider's cost of serving Medicaid recipients during the year.", 
+                                "text": "(1) In accordance with paragraph (c) of this section, each provider must submit annually a cost report to the Medicaid agency that reflects the individual provider's cost of serving Medicaid recipients during the year.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-d-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "d", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) States may utilize most recently filed cost reports to develop interim rates and may trend those interim rates by an applicable health care-related index. Interim reconciliations must be performed by reconciling the interim Medicaid payment rates to the filed cost report for the spending year in which interim payment rates were made.", 
+                                "text": "(2) States may utilize most recently filed cost reports to develop interim rates and may trend those interim rates by an applicable health care-related index. Interim reconciliations must be performed by reconciling the interim Medicaid payment rates to the filed cost report for the spending year in which interim payment rates were made.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-d-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "d", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Final reconciliation must be performed annually by reconciling any interim payments to the finalized cost report for the spending year in which any interim payment rates were made.", 
+                                "text": "(3) Final reconciliation must be performed annually by reconciling any interim payments to the finalized cost report for the spending year in which any interim payment rates were made.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-d-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "d", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Non-institutional governmentally-operated health care providers must utilize a cost report, approved by the Secretary, beginning in their Medicaid State plan rate year 2009. Interim rates set by States for purposes of Medicaid payments funded by certified public expenditures in Medicaid State plan rate year 2009 must be calculated based on cost data from at least one quarter of their Medicaid State plan rate year 2008 documented in accordance with the cost report approved by the Secretary. Existing certified public expenditure methodologies can be used to make Medicaid payments during Medicaid State plan rate year 2008.", 
+                                "text": "(4) Non-institutional governmentally-operated health care providers must utilize a cost report, approved by the Secretary, beginning in their Medicaid State plan rate year 2009. Interim rates set by States for purposes of Medicaid payments funded by certified public expenditures in Medicaid State plan rate year 2009 must be calculated based on cost data from at least one quarter of their Medicaid State plan rate year 2008 documented in accordance with the cost report approved by the Secretary. Existing certified public expenditure methodologies can be used to make Medicaid payments during Medicaid State plan rate year 2008.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-d", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-b-4-iii-d-1", 
+                                    "447-206-b-4-iii-d-2", 
+                                    "447-206-b-4-iii-d-3", 
+                                    "447-206-b-4-iii-d-4"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) <E T=\"03\">Use of certified public expenditures.</E> This paragraph applies when States use a cost reimbursement methodology funded by certified public expenditures.", 
+                                "text": "(d) Use of certified public expenditures. This paragraph applies when States use a cost reimbursement methodology funded by certified public expenditures.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-e", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "e"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(e) <E T=\"03\">Payments not funded by certified public expenditures.</E> This paragraph applies to payments made to providers operated by units of government that are not funded by certified public expenditures. In accordance with paragraph (c) of this section, each provider must submit annually a cost report to the Medicaid agency that reflects the individual provider's cost of serving Medicaid recipients during the year. The Medicaid agency must review the cost report to determine that costs on the report were properly allocated to Medicaid and verify that Medicaid payments to the provider during the year did not exceed the provider's cost.", 
+                                "text": "(e) Payments not funded by certified public expenditures. This paragraph applies to payments made to providers operated by units of government that are not funded by certified public expenditures. In accordance with paragraph (c) of this section, each provider must submit annually a cost report to the Medicaid agency that reflects the individual provider's cost of serving Medicaid recipients during the year. The Medicaid agency must review the cost report to determine that costs on the report were properly allocated to Medicaid and verify that Medicaid payments to the provider during the year did not exceed the provider's cost.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-f", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "f"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(f) <E T=\"03\">Overpayments.</E> If, under paragraph (d) or (e) of this section, it is determined that a governmentally-operated health care provider received an overpayment, amounts related to the overpayment will be properly credited to the Federal government, in accordance with part 433, subpart F of this chapter.", 
+                                "text": "(f) Overpayments. If, under paragraph (d) or (e) of this section, it is determined that a governmentally-operated health care provider received an overpayment, amounts related to the overpayment will be properly credited to the Federal government, in accordance with part 433, subpart F of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-g-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "g", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) <E T=\"03\">Initial Compliance for Institutional Govermentally-Operated Health Care Providers.</E> For each State, compliance with the Medicaid cost limit described in paragraph (c) of this section applicable to institutional governmentally-operated health care providers begins with the Medicaid State plan rate year 2008. A State's review of Medicaid payments made to institutional governmentally-operated health care providers to ensure compliance with the Medicaid cost limit during Medicaid State plan rate year 2008 must be completed no later than the last day of federal fiscal year 2010 (September 30, 2010). The State must submit to CMS a summary report of the findings of this review by the last day of calendar year of 2010 (December 31, 2010). For any cost reports that are not finalized, the State should use the \u201cas filed\u201d cost report and indicate such in the summary report to CMS. The State should then submit a corrected summary report to CMS within 30 days of the finalization of the cost report.", 
+                                "text": "(1) Initial Compliance for Institutional Govermentally-Operated Health Care Providers. For each State, compliance with the Medicaid cost limit described in paragraph (c) of this section applicable to institutional governmentally-operated health care providers begins with the Medicaid State plan rate year 2008. A State's review of Medicaid payments made to institutional governmentally-operated health care providers to ensure compliance with the Medicaid cost limit during Medicaid State plan rate year 2008 must be completed no later than the last day of federal fiscal year 2010 (September 30, 2010). The State must submit to CMS a summary report of the findings of this review by the last day of calendar year of 2010 (December 31, 2010). For any cost reports that are not finalized, the State should use the \u201cas filed\u201d cost report and indicate such in the summary report to CMS. The State should then submit a corrected summary report to CMS within 30 days of the finalization of the cost report.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-g-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "g", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) <E T=\"03\">Initial Compliance for Non-Institutional Governmentally-Operated Health Care Providers.</E> For each State, compliance with the cost limit described in paragraph (c) of this section applicable to non-institutional governmentally-operated health care providers begins with the Medicaid State plan rate year 2009. A State's review of Medicaid payments made to non-institutional governmentally-operated health care providers to ensure compliance with the Medicaid cost limit during Medicaid State plan rate year 2009 must be completed no later than the last day of federal fiscal year 2011 (September 30, 2011). The State must submit to CMS a summary report of the findings of this review by the last day of calendar year of 2011 (December 31, 2011).", 
+                                "text": "(2) Initial Compliance for Non-Institutional Governmentally-Operated Health Care Providers. For each State, compliance with the cost limit described in paragraph (c) of this section applicable to non-institutional governmentally-operated health care providers begins with the Medicaid State plan rate year 2009. A State's review of Medicaid payments made to non-institutional governmentally-operated health care providers to ensure compliance with the Medicaid cost limit during Medicaid State plan rate year 2009 must be completed no later than the last day of federal fiscal year 2011 (September 30, 2011). The State must submit to CMS a summary report of the findings of this review by the last day of calendar year of 2011 (December 31, 2011).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-g-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "g", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) <E T=\"03\">Ongoing Compliance for Institutional and Non-Institutional Governmentally-Operated Health Care Providers.</E> Each subsequent State review of Medicaid payments made to governmentally-operated health care providers, after the Medicaid State plan rate years identified in paragraphs (g)(1) and (g)(2) of this section, must be performed annually and completed by the last day of the federal fiscal year ending two years from the Medicaid State plan rate year under review. Each State must submit a summary report to CMS demonstrating the results of the State's review of Medicaid payments to ensure compliance with the Medicaid cost limit applicable to governmentally-operated health care providers by the last day of the calendar year ending two years from the Medicaid State Plan rate year under review.", 
+                                "text": "(3) Ongoing Compliance for Institutional and Non-Institutional Governmentally-Operated Health Care Providers. Each subsequent State review of Medicaid payments made to governmentally-operated health care providers, after the Medicaid State plan rate years identified in paragraphs (g)(1) and (g)(2) of this section, must be performed annually and completed by the last day of the federal fiscal year ending two years from the Medicaid State plan rate year under review. Each State must submit a summary report to CMS demonstrating the results of the State's review of Medicaid payments to ensure compliance with the Medicaid cost limit applicable to governmentally-operated health care providers by the last day of the calendar year ending two years from the Medicaid State Plan rate year under review.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-g", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-b-4-iii-g-1", 
+                                    "447-206-b-4-iii-g-2", 
+                                    "447-206-b-4-iii-g-3"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "g"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(g) <E T=\"03\">Compliance dates.</E> Initial compliance dates have been separately established for institutional and non-institutional Medicaid providers operated by units of government. Following initial compliance dates, ongoing compliance will be consistent for all providers operated by units of government. A State must comply with the Medicaid cost limit described in paragraph (c) of this section in accordance with the timeframes and requirements in paragraphs (g)(1) through (g)(3) of this section.", 
+                                "text": "(g) Compliance dates. Initial compliance dates have been separately established for institutional and non-institutional Medicaid providers operated by units of government. Following initial compliance dates, ongoing compliance will be consistent for all providers operated by units of government. A State must comply with the Medicaid cost limit described in paragraph (c) of this section in accordance with the timeframes and requirements in paragraphs (g)(1) through (g)(3) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) For any cost reports that are not finalized at the time the State performs the review of Medicaid payments to institutional governmentally-operated health care providers, the State should use the \u201cas filed\u201d cost report and indicate such in the summary report to CMS. The State should then submit a corrected summary report to CMS within 30 days of the finalization of the cost report.", 
+                                "text": "(i) For any cost reports that are not finalized at the time the State performs the review of Medicaid payments to institutional governmentally-operated health care providers, the State should use the \u201cas filed\u201d cost report and indicate such in the summary report to CMS. The State should then submit a corrected summary report to CMS within 30 days of the finalization of the cost report.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4-iii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-b-4-iii-a", 
+                                    "447-206-b-4-iii-d", 
+                                    "447-206-b-4-iii-e", 
+                                    "447-206-b-4-iii-f", 
+                                    "447-206-b-4-iii-g", 
+                                    "447-206-b-4-iii-i"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4", 
+                                    "iii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iii) The aggregate DSH limit for institutions for mental disease (IMDs) under section 1923(h) of the Act.", 
+                                "text": "(iii) The aggregate DSH limit for institutions for mental disease (IMDs) under section 1923(h) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-b-4-i", 
+                                    "447-206-b-4-ii", 
+                                    "447-206-b-4-iii"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) <E T=\"03\">Disproportionate share hospital payments.</E> The limitation in paragraph (c) of this section does not apply to payment adjustments made under section 1923 of the Act that are made under a State plan to hospitals found to serve a disproportionate number of low-income patients with special needs as provided in section 1902(a)(13)(A)(iv) of the Act. Disproportionate share hospital (DSH) payments are subject to the following limits:", 
+                                "text": "(4) Disproportionate share hospital payments. The limitation in paragraph (c) of this section does not apply to payment adjustments made under section 1923 of the Act that are made under a State plan to hospitals found to serve a disproportionate number of low-income patients with special needs as provided in section 1902(a)(13)(A)(iv) of the Act. Disproportionate share hospital (DSH) payments are subject to the following limits:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-b-1", 
+                                    "447-206-b-2", 
+                                    "447-206-b-3", 
+                                    "447-206-b-4"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Exceptions.</E> The limitation in paragraph (c) of this section does not apply to:", 
+                                "text": "(b) Exceptions. The limitation in paragraph (c) of this section does not apply to:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-206", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-206-a", 
+                                    "447-206-b"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "206"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 447.206 Cost limit for providers operated by units of government."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Section 447.206 is added to read as follows: "
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-207-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "207", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Payment methodologies must permit the provider to receive and retain the full amount of the total computable payment for services furnished under the approved State plan (or the approved provisions of a waiver or demonstration if applicable). The Secretary will determine compliance with this provision by examining any associated transactions that are related to the provider's total computable payment to ensure that the State's claimed expenditure, which serves as the basis for Federal Financial Participation, is equal to the State's net expenditure, and that the full amount of the non-Federal share of the payment has been satisfied.", 
+                                "text": "(a) Payment methodologies must permit the provider to receive and retain the full amount of the total computable payment for services furnished under the approved State plan (or the approved provisions of a waiver or demonstration if applicable). The Secretary will determine compliance with this provision by examining any associated transactions that are related to the provider's total computable payment to ensure that the State's claimed expenditure, which serves as the basis for Federal Financial Participation, is equal to the State's net expenditure, and that the full amount of the non-Federal share of the payment has been satisfied.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-207-b-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "207", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Use of Medicaid revenues to fund payments that are normal operating expenses of conducting business, such as payments related to taxes (including permissible health-care related taxes), fees, or business relationships with governments unrelated to Medicaid in which there is no connection to Medicaid payment.", 
+                                "text": "(1) Use of Medicaid revenues to fund payments that are normal operating expenses of conducting business, such as payments related to taxes (including permissible health-care related taxes), fees, or business relationships with governments unrelated to Medicaid in which there is no connection to Medicaid payment.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-207-b-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "207", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Payments authorized by Sections 701(d) and 705 of the Benefits Improvement Act of 2000 (BIPA).", 
+                                "text": "(2) Payments authorized by Sections 701(d) and 705 of the Benefits Improvement Act of 2000 (BIPA).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-207-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-207-b-1", 
+                                    "447-207-b-2"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "207", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Exceptions.</E> Provisions of paragraph (a) of this section specifically do not pertain to:", 
+                                "text": "(b) Exceptions. Provisions of paragraph (a) of this section specifically do not pertain to:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-207", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-207-a", 
+                                    "447-207-b"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "207"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 447.207 Retention of payments."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "3. Section 447.207 is added to read as follows: "
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-271-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "271", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) The agency may not pay a provider more for inpatient hospital services under Medicaid than the provider's customary charges to the general public for the services.", 
+                                "text": "(a) The agency may not pay a provider more for inpatient hospital services under Medicaid than the provider's customary charges to the general public for the services.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-271-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "271", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) [Reserved]", 
+                                "text": "(b) [Reserved]", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-271", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-271-a", 
+                                    "447-271-b"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "271"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 447.271 Upper limits based on customary charges."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "4. Section \u00a7\u2009447.271 is revised to read as follows: "
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-272-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) State government operated facilities (that is, all facilities that are operated by the State) as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "text": "(1) State government operated facilities (that is, all facilities that are operated by the State) as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Non-State government operated facilities (that is, all governmentally operated facilities that are not operated by the State) as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "text": "(2) Non-State government operated facilities (that is, all governmentally operated facilities that are not operated by the State) as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-a-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "a", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Privately operated facilities, that is, all facilities that are not operated by a unit of government as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "text": "(3) Privately operated facilities, that is, all facilities that are not operated by a unit of government as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-272-a-1", 
+                                    "447-272-a-2", 
+                                    "447-272-a-3"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Scope.</E> This section applies to rates set by the agency to pay for inpatient services furnished by hospitals, nursing facilities, and ICFs/MR within one of the following categories:", 
+                                "text": "(a) Scope. This section applies to rates set by the agency to pay for inpatient services furnished by hospitals, nursing facilities, and ICFs/MR within one of the following categories:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-b-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) For privately operated facilities, upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "text": "(1) For privately operated facilities, upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) For State government operated facilities and for non-State government operated facilities, upper payment limit refers to the individual health care provider's Medicaid cost as defined at \u00a7\u2009447.206.", 
+                                "text": "(2) For State government operated facilities and for non-State government operated facilities, upper payment limit refers to the individual health care provider's Medicaid cost as defined at \u00a7\u2009447.206.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-b-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Except as provided in paragraph (c) of this section, aggregate Medicaid payments to the group of privately operated facilities described in paragraph (a) of this section may not exceed the upper payment limit described in paragraph (b)(1) of this section.", 
+                                "text": "(3) Except as provided in paragraph (c) of this section, aggregate Medicaid payments to the group of privately operated facilities described in paragraph (a) of this section may not exceed the upper payment limit described in paragraph (b)(1) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-b-4", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Except as provided in paragraph (c) of this section, Medicaid payments to State government operated facilities and non-State government operated facilities must not exceed the individual health care provider's Medicaid cost as documented in accordance with \u00a7\u2009447.206.", 
+                                "text": "(4) Except as provided in paragraph (c) of this section, Medicaid payments to State government operated facilities and non-State government operated facilities must not exceed the individual health care provider's Medicaid cost as documented in accordance with \u00a7\u2009447.206.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-272-b-1", 
+                                    "447-272-b-2", 
+                                    "447-272-b-3", 
+                                    "447-272-b-4"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">General rules.</E>", 
+                                "text": "(b) General rules.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-c-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "c", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Indian Health Services and tribal facilities.</E> The limitation in paragraph (b) of this section does not apply to Indian Health Services facilities and tribal facilities that are funded through the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638).", 
+                                "text": "(1) Indian Health Services and tribal facilities. The limitation in paragraph (b) of this section does not apply to Indian Health Services facilities and tribal facilities that are funded through the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-c-2-i", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "c", 
+                                    "2", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) The aggregate DSH limit using the Federal share of the DSH limit under section 1923(f) of the Act.", 
+                                "text": "(i) The aggregate DSH limit using the Federal share of the DSH limit under section 1923(f) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-c-2-ii", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "c", 
+                                    "2", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) The hospital-specific DSH limit in section 1923(g) of the Act.", 
+                                "text": "(ii) The hospital-specific DSH limit in section 1923(g) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-c-2-iii", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "c", 
+                                    "2", 
+                                    "iii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iii) The aggregate DSH limit for institutions for mental disease (IMDs) under section 1923(h) of the Act.", 
+                                "text": "(iii) The aggregate DSH limit for institutions for mental disease (IMDs) under section 1923(h) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-c-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-272-c-2-i", 
+                                    "447-272-c-2-ii", 
+                                    "447-272-c-2-iii"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "c", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) <E T=\"03\">Disproportionate share hospitals.</E> The limitation in paragraph (b) of this section does not apply to payment adjustments made under section 1923 of the Act that are made under a State plan to hospitals found to serve a disproportionate number of low-income patients with special needs as provided in section 1902(a)(13)(A)(iv) of the Act. Disproportionate share hospital (DSH) payments are subject to the following limits:", 
+                                "text": "(2) Disproportionate share hospitals. The limitation in paragraph (b) of this section does not apply to payment adjustments made under section 1923 of the Act that are made under a State plan to hospitals found to serve a disproportionate number of low-income patients with special needs as provided in section 1902(a)(13)(A)(iv) of the Act. Disproportionate share hospital (DSH) payments are subject to the following limits:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-c-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "c", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The limitation in paragraph (b) of this section does not apply to payments authorized by Sections 701(d) and 705 of the Benefits Improvement Protection Act of 2000 (BIPA).", 
+                                "text": "(3) The limitation in paragraph (b) of this section does not apply to payments authorized by Sections 701(d) and 705 of the Benefits Improvement Protection Act of 2000 (BIPA).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-272-c-1", 
+                                    "447-272-c-2", 
+                                    "447-272-c-3"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) <E T=\"03\">Exceptions\u2014", 
+                                "text": "(c) Exceptions\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-d-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "d", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) For State government operated and non-State government operated hospitals, nursing facilities and ICFs/MR \u201c Medicaid State plan rate year 2008.", 
+                                "text": "(1) For State government operated and non-State government operated hospitals, nursing facilities and ICFs/MR \u201c Medicaid State plan rate year 2008.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-d-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "d", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) For all other facilities\u2014March 13, 2001.", 
+                                "text": "(2) For all other facilities\u2014March 13, 2001.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-d", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-272-d-1", 
+                                    "447-272-d-2"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) <E T=\"03\">Compliance dates.</E> Except as permitted under paragraph (e) of this section, a State must comply with the upper payment limit described in paragraph (b) of this section by one of the following dates:", 
+                                "text": "(d) Compliance dates. Except as permitted under paragraph (e) of this section, a State must comply with the upper payment limit described in paragraph (b) of this section by one of the following dates:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. Section 447.272 is amended by revising paragraphs (a) through (d) to read as follows: "
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-321-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) State government operated facilities (that is, all facilities that are operated by the State) as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "text": "(1) State government operated facilities (that is, all facilities that are operated by the State) as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Non-State government operated facilities (that is, all governmentally operated facilities that are not operated by the State) as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "text": "(2) Non-State government operated facilities (that is, all governmentally operated facilities that are not operated by the State) as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-a-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "a", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Privately operated facilities that is, all facilities that are not operated by a unit of government as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "text": "(3) Privately operated facilities that is, all facilities that are not operated by a unit of government as defined at \u00a7\u2009433.50(a) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-321-a-1", 
+                                    "447-321-a-2", 
+                                    "447-321-a-3"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Scope.</E> This section applies to rates set by the agency to pay for outpatient services furnished by hospitals and clinics within one of the following categories:", 
+                                "text": "(a) Scope. This section applies to rates set by the agency to pay for outpatient services furnished by hospitals and clinics within one of the following categories:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) For privately operated facilities, upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "text": "(1) For privately operated facilities, upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) For State government operated facilities and for non-State government operated facilities, upper payment limit refers to the individual health care provider's Medicaid cost as defined at \u00a7\u2009447.206.", 
+                                "text": "(2) For State government operated facilities and for non-State government operated facilities, upper payment limit refers to the individual health care provider's Medicaid cost as defined at \u00a7\u2009447.206.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Except as provided in paragraph (c) of this section, aggregate Medicaid payments to the group of privately operated facilities within one of the categories described in paragraph (a) of this section may not exceed the upper payment limit described in paragraph (b)(1) of this section.", 
+                                "text": "(3) Except as provided in paragraph (c) of this section, aggregate Medicaid payments to the group of privately operated facilities within one of the categories described in paragraph (a) of this section may not exceed the upper payment limit described in paragraph (b)(1) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b-4", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Except as provided in paragraph (c) of this section, Medicaid payments to State government operated facilities and non-State government operated facilities must not exceed the individual health care provider's Medicaid cost as documented in accordance with \u00a7\u2009447.206.", 
+                                "text": "(4) Except as provided in paragraph (c) of this section, Medicaid payments to State government operated facilities and non-State government operated facilities must not exceed the individual health care provider's Medicaid cost as documented in accordance with \u00a7\u2009447.206.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-321-b-1", 
+                                    "447-321-b-2", 
+                                    "447-321-b-3", 
+                                    "447-321-b-4"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">General rules.</E>", 
+                                "text": "(b) General rules.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-c-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "c", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Indian Health Services and tribal facilities.</E> The limitation in paragraph (b) of this section does not apply to Indian Health Services facilities and tribal facilities that are funded through the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638).", 
+                                "text": "(1) Indian Health Services and tribal facilities. The limitation in paragraph (b) of this section does not apply to Indian Health Services facilities and tribal facilities that are funded through the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-c-2-i", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "c", 
+                                    "2", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) The aggregate DSH limit using the Federal share of the DSH limit under section 1923(f) of the Act.", 
+                                "text": "(i) The aggregate DSH limit using the Federal share of the DSH limit under section 1923(f) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-c-2-ii", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "c", 
+                                    "2", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) The hospital-specific DSH limit in section 1923(g) of the Act.", 
+                                "text": "(ii) The hospital-specific DSH limit in section 1923(g) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-c-2-iii", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "c", 
+                                    "2", 
+                                    "iii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iii) The aggregate DSH limit for institutions for mental disease (IMDs) under section 1923(h) of the Act.", 
+                                "text": "(iii) The aggregate DSH limit for institutions for mental disease (IMDs) under section 1923(h) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-c-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-321-c-2-i", 
+                                    "447-321-c-2-ii", 
+                                    "447-321-c-2-iii"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "c", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) <E T=\"03\">Disproportionate share hospitals.</E> The limitation in paragraph (b) of this section does not apply to payment adjustments made under section 1923 of the Act that are made under a State plan to hospitals found to serve a disproportionate number of low-income patients with special needs as provided in section 1902(a)(13)(A)(iv) of the Act. Disproportionate share hospital (DSH) payments are subject to the following limits:", 
+                                "text": "(2) Disproportionate share hospitals. The limitation in paragraph (b) of this section does not apply to payment adjustments made under section 1923 of the Act that are made under a State plan to hospitals found to serve a disproportionate number of low-income patients with special needs as provided in section 1902(a)(13)(A)(iv) of the Act. Disproportionate share hospital (DSH) payments are subject to the following limits:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-c-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "c", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The limitation in paragraph (b) of this section does not apply to payments authorized by Sections 701(d) and 705 of the Benefits Improvement Protection Act of 2000 (BIPA).", 
+                                "text": "(3) The limitation in paragraph (b) of this section does not apply to payments authorized by Sections 701(d) and 705 of the Benefits Improvement Protection Act of 2000 (BIPA).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-321-c-1", 
+                                    "447-321-c-2", 
+                                    "447-321-c-3"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) <E T=\"03\">Exceptions\u2014", 
+                                "text": "(c) Exceptions\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-d-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "d", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) For State government operated and non-State government operated hospitals\u2014Medicaid State plan rate year 2008.", 
+                                "text": "(1) For State government operated and non-State government operated hospitals\u2014Medicaid State plan rate year 2008.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-d-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "d", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) For State government operated and non-State government operated clinics\u2014Medicaid State plan rate year 2009.", 
+                                "text": "(2) For State government operated and non-State government operated clinics\u2014Medicaid State plan rate year 2009.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-d-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "d", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) For all other facilities\u2014March 13, 2001.", 
+                                "text": "(3) For all other facilities\u2014March 13, 2001.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-d", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-321-d-1", 
+                                    "447-321-d-2", 
+                                    "447-321-d-3"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) <E T=\"03\">Compliance dates.</E> Except as permitted under paragraph (e) of this section, a State must comply with the upper payment limit described in paragraph (b) of this section by one of the following dates:", 
+                                "text": "(d) Compliance dates. Except as permitted under paragraph (e) of this section, a State must comply with the upper payment limit described in paragraph (b) of this section by one of the following dates:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "6. Section 447.321 is amended by revising paragraphs (a) through (d) to read as follows: "
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "457", 
+            "instruction": "1. The authority for part 457 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-220-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Funds from units of government may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c) of this section.", 
+                                "text": "(a) Funds from units of government may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220-b-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Identifies the relevant category of expenditures under the State plan;", 
+                                "text": "(1) Identifies the relevant category of expenditures under the State plan;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Explains whether the contributing unit of government is within the scope of the exception to limitations on provider-related taxes and donations;", 
+                                "text": "(2) Explains whether the contributing unit of government is within the scope of the exception to limitations on provider-related taxes and donations;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220-b-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Demonstrates the actual expenditures incurred by the contributing unit of government in providing services to eligible individuals receiving medical assistance or in administration of the State plan; and", 
+                                "text": "(3) Demonstrates the actual expenditures incurred by the contributing unit of government in providing services to eligible individuals receiving medical assistance or in administration of the State plan; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220-b-4", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Is subject to periodic State audit and review.", 
+                                "text": "(4) Is subject to periodic State audit and review.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "457-220-b-1", 
+                                    "457-220-b-2", 
+                                    "457-220-b-3", 
+                                    "457-220-b-4"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) The funds from units of government are appropriated directly to the State or local Medicaid agency, or are transferred from other units of government (including Indian tribes) to the State or local agency and are under its administrative control, or are certified by the contributing unit of government as representing expenditures eligible for FFP under this section. Certified public expenditures must be expenditures within the meaning of 45 CFR 95.13 that are supported by auditable documentation in a form approved by the Secretary that, at a minimum\u2014", 
+                                "text": "(b) The funds from units of government are appropriated directly to the State or local Medicaid agency, or are transferred from other units of government (including Indian tribes) to the State or local agency and are under its administrative control, or are certified by the contributing unit of government as representing expenditures eligible for FFP under this section. Certified public expenditures must be expenditures within the meaning of 45 CFR 95.13 that are supported by auditable documentation in a form approved by the Secretary that, at a minimum\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) The funds from units of government are not Federal funds, or are Federal funds authorized by Federal law to be used to match other Federal funds.", 
+                                "text": "(c) The funds from units of government are not Federal funds, or are Federal funds authorized by Federal law to be used to match other Federal funds.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "457-220-a", 
+                                    "457-220-b", 
+                                    "457-220-c"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "220"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 457.220 Funds from units of government as the State share of financial participation."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Section 457.220 is revised to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "3. Amend \u00a7\u2009457.628 by\u2014 "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "A. Republishing the introductory text to the section. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-628-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "628", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) HHS regulations in \u00a7\u2009433.50 through \u00a7\u2009433.74 of this chapter (sources of non-Federal share and Health Care-Related Taxes and Provider-Related Donations) and \u00a7\u2009447.207 of this chapter (Retention of payments) apply to States' SCHIP programs in the same manner as they apply to States' Medicaid programs.", 
+                                "text": "(a) HHS regulations in \u00a7\u2009433.50 through \u00a7\u2009433.74 of this chapter (sources of non-Federal share and Health Care-Related Taxes and Provider-Related Donations) and \u00a7\u2009447.207 of this chapter (Retention of payments) apply to States' SCHIP programs in the same manner as they apply to States' Medicaid programs.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Revising paragraph (a). "
+        }
+    ], 
+    "cfr_parts": [
+        "433", 
+        "447", 
+        "457"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2258-FC"
+    ], 
+    "document_number": "07-2657", 
+    "effective_on": "2007-07-30", 
+    "footnotes": {}, 
+    "fr_citation": "72 FR 29747", 
+    "fr_url": "https://www.federalregister.gov/documents/2007/05/29/07-2657/medicaid-program-cost-limit-for-providers-operated-by-units-of-government-and-provisions-to-ensure", 
+    "fr_volume": 72, 
+    "meta": {
+        "start_page": 29747
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES ", 
+    "primary_docket": null, 
+    "publication_date": "2007-05-29", 
+    "regulation_id_numbers": [
+        "0938-A057"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Cost Limit for Providers Operated by Units of Government and Provisions To Ensure the Integrity of Federal-State Financial Partnership ", 
+    "versions": {
+        "433": {
+            "left": "E6-17033", 
+            "right": "07-2657"
+        }
+    }
+}

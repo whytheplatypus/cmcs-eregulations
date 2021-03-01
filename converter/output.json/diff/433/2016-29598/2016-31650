@@ -1,0 +1,83 @@
+{
+    "433-152-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    53, 
+                    58
+                ], 
+                [
+                    "insert", 
+                    53, 
+                    "that the Medicaid agency will\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-152-b-1": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    44
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Meet the requirements of the Office of Child Support Enforcement"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    49, 
+                    119
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "cooperative agreements under 45 CFR part 306; and"
+                ]
+            ]
+        ]
+    }, 
+    "433-152-b-1-i": {
+        "op": "deleted"
+    }, 
+    "433-152-b-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-152-b-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    7
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Provide reimbursement to the IV-D agency only for those child support services performed that are not reimbursable by the Office of Child Support Enforcement under title IV-D of the Act and that are necessary for the collection of amounts for the"
+                ]
+            ], 
+            [
+                "delete", 
+                17, 
+                285
+            ]
+        ]
+    }
+}

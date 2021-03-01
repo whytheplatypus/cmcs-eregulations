@@ -1,0 +1,177 @@
+{
+    "433-10-c-5-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    178, 
+                    188
+                ], 
+                [
+                    "insert", 
+                    178, 
+                    "1933(g)"
+                ]
+            ]
+        ]
+    }, 
+    "433-10-c-5-iii": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                4
+            ], 
+            [
+                "insert", 
+                4, 
+                [
+                    "433-10-c-5-iii-E"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                61, 
+                "or for a shorter period for which funding is available under section 1933 of "
+            ], 
+            [
+                "insert", 
+                65, 
+                "Act, the "
+            ], 
+            [
+                "delete", 
+                288, 
+                308
+            ]
+        ]
+    }, 
+    "433-10-c-5-iii-D": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    115, 
+                    127
+                ], 
+                [
+                    "insert", 
+                    115, 
+                    "deficit, or a prorated"
+                ]
+            ], 
+            [
+                "insert", 
+                135, 
+                "of such deficit, if the Total Projected Deficit is greater than the Total Projected Surplus. Except as described in paragraph (c)(5)(iii)(E) of this section, the amount "
+            ]
+        ]
+    }, 
+    "433-10-c-5-iii-E": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "iii", 
+                "E"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(E) If the Total Projected Deficit determined under paragraph (c)(5)(iii)(C) of this section is greater than the Total Projected Surplus determined under paragraph (c)(5)(iii)(B) of this section, each State with a projected deficit will receive an additional allocation amount equal to the amount of the Total Projected Surplus multiplied by the amount of the projected deficit for such State as a percentage of the Total Projected Deficit. The amount to be reallocated from each State with a projected surplus will be equal to the amount of the projected surplus.", 
+            "text": "(E) If the Total Projected Deficit determined under paragraph (c)(5)(iii)(C) of this section is greater than the Total Projected Surplus determined under paragraph (c)(5)(iii)(B) of this section, each State with a projected deficit will receive an additional allocation amount equal to the amount of the Total Projected Surplus multiplied by the amount of the projected deficit for such State as a percentage of the Total Projected Deficit. The amount to be reallocated from each State with a projected surplus will be equal to the amount of the projected surplus.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-v": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-10-c-5-v-p1"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                19, 
+                "in paragraph (c)(5) "
+            ], 
+            [
+                [
+                    "delete", 
+                    27, 
+                    43
+                ], 
+                [
+                    "insert", 
+                    27, 
+                    "section"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    81, 
+                    100
+                ], 
+                [
+                    "insert", 
+                    81, 
+                    "the period for which funding authority is available under section 1933 of the Act."
+                ]
+            ]
+        ]
+    }, 
+    "433-10-c-5-v-p1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "v", 
+                "p1"
+            ], 
+            "node_type": "extract", 
+            "tagged_text": "(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program)", 
+            "text": "(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program)", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-20": {
+        "op": "deleted"
+    }, 
+    "433-Subpart-A": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                4
+            ], 
+            [
+                "delete", 
+                4, 
+                5
+            ], 
+            [
+                "equal", 
+                5, 
+                12
+            ]
+        ], 
+        "op": "modified"
+    }
+}

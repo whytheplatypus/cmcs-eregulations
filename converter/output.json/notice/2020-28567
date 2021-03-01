@@ -1,0 +1,2108 @@
+{
+    "amendments": [
+        {
+            "authority": "42 U.S.C. 1302.", 
+            "cfr_part": "433", 
+            "instruction": "1. The authority citation for part 433 is revised to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "2. Section 433.139 is amended by-"
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "a. Removing and reserving paragraph (b)(2); and"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-139-b-3-i", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "139", 
+                                    "b", 
+                                    "3", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) The claim is for preventive pediatric services, including early and periodic screening, diagnosis and treatment services provided for under part 441, subpart B, of this chapter, that are covered under the State plan; or", 
+                                "text": "(i) The claim is for preventive pediatric services, including early and periodic screening, diagnosis and treatment services provided for under part 441, subpart B, of this chapter, that are covered under the State plan; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-139-b-3-ii-B", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "139", 
+                                    "b", 
+                                    "3", 
+                                    "ii", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) For child support enforcement services beginning February 9, 2018, the provider certifies that before billing Medicaid, if the provider has billed a third party, the provider has waited 100 days from the date of the service and has not received payment from the third party.", 
+                                "text": "(B) For child support enforcement services beginning February 9, 2018, the provider certifies that before billing Medicaid, if the provider has billed a third party, the provider has waited 100 days from the date of the service and has not received payment from the third party.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "b. Revising paragraphs (b)(3)(i) and (b)(3)(ii)(B)."
+        }, 
+        {
+            "authority": "42 U.S.C. 1302.", 
+            "cfr_part": "438", 
+            "instruction": "3. The authority citation for part 438 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "438", 
+            "changes": [
+                [
+                    "438-3-s", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[text]", 
+                            "node": {
+                                "child_labels": [
+                                    "438-3-s-4", 
+                                    "438-3-s-5"
+                                ], 
+                                "label": [
+                                    "438", 
+                                    "3", 
+                                    "s"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(s) <E T=\"03\">Requirements for MCOs, PCCMs, PIHPs, or PAHPs that provide covered outpatient drugs.</E> Contracts that obligate MCOs, PCCMs, PIHPs, or PAHPs to provide coverage of covered outpatient drugs must include the following requirements:", 
+                                "text": "(s) Requirements for MCOs, PCCMs, PIHPs, or PAHPs that provide covered outpatient drugs. Contracts that obligate MCOs, PCCMs, PIHPs, or PAHPs to provide coverage of covered outpatient drugs must include the following requirements:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "438-3-s-4", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "438", 
+                                    "3", 
+                                    "s", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) The MCO, PCCM, PIHP, or PAHP must operate a drug utilization review program that complies with the requirements described in section 1927(g) of the Act and part 456, subpart K, of this chapter, as if such requirement applied to the MCO, PCCM, PIHP, or PAHP instead of the State.", 
+                                "text": "(4) The MCO, PCCM, PIHP, or PAHP must operate a drug utilization review program that complies with the requirements described in section 1927(g) of the Act and part 456, subpart K, of this chapter, as if such requirement applied to the MCO, PCCM, PIHP, or PAHP instead of the State.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "438-3-s-5", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "438", 
+                                    "3", 
+                                    "s", 
+                                    "5"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(5) The MCO, PCCM, PIHP, or PAHP must provide a detailed description of its drug utilization review program activities to the State on an annual basis.", 
+                                "text": "(5) The MCO, PCCM, PIHP, or PAHP must provide a detailed description of its drug utilization review program activities to the State on an annual basis.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "4. Section 438.3 is amended by revising paragraphs (s) introductory text and (s)(4) and (5) to read as follows:"
+        }, 
+        {
+            "authority": "42 U.S.C. 1302 and 1396r-8.", 
+            "cfr_part": "447", 
+            "instruction": "5. The authority citation for part 447 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "6. Section 447.502 is amended\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "a. In the definition of \u201cBundled sale\u201d by adding paragraph (3);"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "b. By adding the definition of \u201cCMS-authorized supplemental rebate agreement\u201d in alphabetical order;"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "c. By revising the definitions of \u201cInnovator multiple source drug\u201d, \u201cMultiple source drug\u201d, and \u201cSingle source drug\u201d;"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "d. By adding the definitions of \u201cValue-based purchasing (VBP) arrangement\u201d in alphabetical order; and"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "e. By revising the definition of \u201cWholesaler\u201d."
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "7. Section 447.502 is further amended, effective January 1, 2022, by\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "a. Adding the definitions of \u201cLine extension\u201d and \u201cNew formulation\u201d in alphabetical order; and"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-502-p1874389464", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "502", 
+                                    "p1874389464"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Oral solid dosage form</E> means, an orally administered dosage form that is not a liquid or gas at the time the drug enters the oral cavity.", 
+                                "text": "Oral solid dosage form means, an orally administered dosage form that is not a liquid or gas at the time the drug enters the oral cavity.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "b. Revising the definition of \u201cOral solid dosage form\u201d."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-504-b-2", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-b-3", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "447", 
+                                "504", 
+                                "b", 
+                                "2"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "8. Section 447.504 is amended by removing paragraph (b)(2) and redesignating paragraph (b)(3) as paragraph (b)(2)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-504-c-25", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "c", 
+                                    "25"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(25) Manufacturer coupons to a consumer redeemed by the manufacturer, agent, pharmacy or another entity acting on behalf of the manufacturer, but only to the extent that the manufacturer ensures the full value of the coupon is passed on to the consumer and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "text": "(25) Manufacturer coupons to a consumer redeemed by the manufacturer, agent, pharmacy or another entity acting on behalf of the manufacturer, but only to the extent that the manufacturer ensures the full value of the coupon is passed on to the consumer and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-c-26", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "c", 
+                                    "26"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(26) Manufacturer-sponsored programs that provide free goods, including but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures: the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "text": "(26) Manufacturer-sponsored programs that provide free goods, including but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures: the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-c-27", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "c", 
+                                    "27"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(27) Manufacturer-sponsored drug discount card programs, but only to the extent that the manufacturer ensures the full value of the discount is passed on to the consumer and the pharmacy, agent, or the other AMP-eligible entity does not receive any price concession.", 
+                                "text": "(27) Manufacturer-sponsored drug discount card programs, but only to the extent that the manufacturer ensures the full value of the discount is passed on to the consumer and the pharmacy, agent, or the other AMP-eligible entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-c-28", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "c", 
+                                    "28"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(28) Manufacturer-sponsored patient refund/rebate programs, to the extent that the manufacturer ensures that the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "text": "(28) Manufacturer-sponsored patient refund/rebate programs, to the extent that the manufacturer ensures that the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-c-29", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "c", 
+                                    "29"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(29) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession", 
+                                "text": "(29) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-e-13", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "e", 
+                                    "13"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(13) Manufacturer coupons to a consumer redeemed by the manufacturer, agent, pharmacy or another entity acting on behalf of the manufacturer, but only to the extent that the manufacturer ensures the full value of the coupon is passed on to the consumer and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession", 
+                                "text": "(13) Manufacturer coupons to a consumer redeemed by the manufacturer, agent, pharmacy or another entity acting on behalf of the manufacturer, but only to the extent that the manufacturer ensures the full value of the coupon is passed on to the consumer and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-e-14", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "e", 
+                                    "14"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(14) Manufacturer-sponsored programs that provide free goods, including, but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures: the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "text": "(14) Manufacturer-sponsored programs that provide free goods, including, but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures: the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-e-15", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "e", 
+                                    "15"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(15) Manufacturer-sponsored drug discount card programs, but only to the extent that the manufacturer ensures the full value of the discount is passed on to the consumer and the pharmacy, agent, or the other AMP-eligible entity does not receive any price concession.", 
+                                "text": "(15) Manufacturer-sponsored drug discount card programs, but only to the extent that the manufacturer ensures the full value of the discount is passed on to the consumer and the pharmacy, agent, or the other AMP-eligible entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-e-16", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "e", 
+                                    "16"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(16) Manufacturer-sponsored patient refund/rebate programs, to the extent that the manufacturer ensures the manufacturer provided a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "text": "(16) Manufacturer-sponsored patient refund/rebate programs, to the extent that the manufacturer ensures the manufacturer provided a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy agent, or other AMP-eligible entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-504-e-17", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "504", 
+                                    "e", 
+                                    "17"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(17) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy agent, or other AMP-eligible entity does not receive any price concession", 
+                                "text": "(17) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy agent, or other AMP-eligible entity does not receive any price concession", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "9. Section 447.504 is further amended, effective January 1, 2023, by revising paragraphs (c)(25) through (29) and paragraphs (e)(13) through (17) to read as follows:"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "10. Section 447.505 is amended\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-505-p1594866896", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "505", 
+                                    "p1594866896"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Best price</E> means, for a single source drug or innovator multiple source drug of a manufacturer (including the lowest price available to any entity for an authorized generic drug), the lowest price available from the manufacturer during the rebate period to any wholesaler, retailer, provider, health maintenance organization, nonprofit entity, or governmental entity in the United States in any pricing structure (including capitated payments) in the same quarter for which the AMP is computed. If a manufacturer offers a value-based purchasing arrangement (as defined at \u00a7\u2009447.502) to all states, the lowest price available from a manufacturer may include varying best price points for a single dosage form and strength as a result of that value based purchasing arrangement.", 
+                                "text": "Best price means, for a single source drug or innovator multiple source drug of a manufacturer (including the lowest price available to any entity for an authorized generic drug), the lowest price available from the manufacturer during the rebate period to any wholesaler, retailer, provider, health maintenance organization, nonprofit entity, or governmental entity in the United States in any pricing structure (including capitated payments) in the same quarter for which the AMP is computed. If a manufacturer offers a value-based purchasing arrangement (as defined at \u00a7\u2009447.502) to all states, the lowest price available from a manufacturer may include varying best price points for a single dosage form and strength as a result of that value based purchasing arrangement.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "a. Effective January 1, 2022, in paragraph (a), by revising the definition of \u201cBest price\u201d;"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-505-d-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "505", 
+                                    "d", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The manufacturer must adjust the best price for a rebate period if cumulative discounts, rebates, or other arrangements subsequently adjust the prices available, to the extent that such cumulative discounts, rebates, or other arrangements are not excluded from the determination of best price by statute or regulation.", 
+                                "text": "(3) The manufacturer must adjust the best price for a rebate period if cumulative discounts, rebates, or other arrangements subsequently adjust the prices available, to the extent that such cumulative discounts, rebates, or other arrangements are not excluded from the determination of best price by statute or regulation.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "b. Effective March 1, 2021, by revising paragraph (d)(3)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-505-c-8", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "505", 
+                                    "c", 
+                                    "8"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(8) Manufacturer-sponsored drug discount card programs, but only to the extent the manufacturer ensures that the full value of the discount is passed on to the consumer and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "text": "(8) Manufacturer-sponsored drug discount card programs, but only to the extent the manufacturer ensures that the full value of the discount is passed on to the consumer and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-505-c-9", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "505", 
+                                    "c", 
+                                    "9"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(9) Manufacturer coupons to a consumer redeemed by a consumer, agent, pharmacy, or another entity acting on behalf of the manufacturer; but only to the extent the manufacturer ensures that the full value of the coupon is passed on to the consumer, and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "text": "(9) Manufacturer coupons to a consumer redeemed by a consumer, agent, pharmacy, or another entity acting on behalf of the manufacturer; but only to the extent the manufacturer ensures that the full value of the coupon is passed on to the consumer, and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-505-c-10", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "505", 
+                                    "c", 
+                                    "10"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(10) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "text": "(10) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-505-c-11", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "505", 
+                                    "c", 
+                                    "11"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(11) Manufacturer-sponsored patient refund or rebate programs, to the extent that the manufacturer ensures the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "text": "(11) Manufacturer-sponsored patient refund or rebate programs, to the extent that the manufacturer ensures the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-505-c-12", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "505", 
+                                    "c", 
+                                    "12"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(12) Manufacturer-sponsored programs that provide free goods, including but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "text": "(12) Manufacturer-sponsored programs that provide free goods, including but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other entity does not receive any price concession.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "11. Section 447.505 is amended, effective January 1, 2023, by revising paragraphs (c)(8) through (12) to read as follows:"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "12. Section 447.506 is amended\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-506-p591625465", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "506", 
+                                    "p591625465"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Secondary manufacturer of an authorized generic drug</E> means a manufacturer that is authorized by the primary manufacturer to sell the drug.", 
+                                "text": "Secondary manufacturer of an authorized generic drug means a manufacturer that is authorized by the primary manufacturer to sell the drug.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "a. In paragraph (a) by revising the definition of \u201cSecondary manufacturer of an authorized generic drug\u201d; and"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-506-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "506", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Exclusion of authorized generic drugs from AMP by a primary manufacturer.</E> The primary manufacturer must exclude from its calculation of AMP any sales of authorized generic drugs to wholesalers for drugs distributed to retail community pharmacies when reporting the AMP of the brand name drug of that authorized generic drug.", 
+                                "text": "(b) Exclusion of authorized generic drugs from AMP by a primary manufacturer. The primary manufacturer must exclude from its calculation of AMP any sales of authorized generic drugs to wholesalers for drugs distributed to retail community pharmacies when reporting the AMP of the brand name drug of that authorized generic drug.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "b. By revising paragraph (b)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "13. Section 447.509 is amended\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-509-a-5", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "5"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(5) <E T=\"03\">Limit on rebate.</E> In no case will the total rebate amount exceed 100 percent of the AMP of the single source or multiple source innovator drug.", 
+                                "text": "(5) Limit on rebate. In no case will the total rebate amount exceed 100 percent of the AMP of the single source or multiple source innovator drug.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "a. Revising paragraph (a)(5);"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "b. In paragraph (a)(6) introductory text, by removing word \u201crebate\u201d and adding in its place the phrase \u201cbasic rebate\u201d; and"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-509-a-7-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "7", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) The total number of units of such dosage form and strength paid for under the State plan in the rebate period.", 
+                                "text": "(i) The total number of units of such dosage form and strength paid for under the State plan in the rebate period.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-7-ii-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "7", 
+                                    "ii", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) The AMP for the dosage form and strength of the drug for the period exceeds the base date AMP for such dosage form and strength, increased by the percentage by which the consumer price index for all urban consumers (United States city average) for the month before the month in which the rebate period begins exceeds such index associated with the base date AMP of the drug.", 
+                                "text": "(A) The AMP for the dosage form and strength of the drug for the period exceeds the base date AMP for such dosage form and strength, increased by the percentage by which the consumer price index for all urban consumers (United States city average) for the month before the month in which the rebate period begins exceeds such index associated with the base date AMP of the drug.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-7-ii-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "7", 
+                                    "ii", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) The base date AMP has the meaning of AMP set forth in sections 1927(c)(2)(A)(ii)(II), 1927(c)(2)(B) and 1927(c)(3)(C) of the Act.", 
+                                "text": "(B) The base date AMP has the meaning of AMP set forth in sections 1927(c)(2)(A)(ii)(II), 1927(c)(2)(B) and 1927(c)(3)(C) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-7-ii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-509-a-7-ii-A", 
+                                    "447-509-a-7-ii-B"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "7", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) The amount, if any, by which:", 
+                                "text": "(ii) The amount, if any, by which:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-7", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-509-a-7-i", 
+                                    "447-509-a-7-ii"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "7"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(7) <E T=\"03\">Additional rebate for noninnovator multiple source drugs.</E> In addition to the basic rebate described in paragraph (a)(6) of this section, for each dosage form and strength of a noninnovator multiple source drug, the rebate amount will be increased by an amount equal to the product of the following:", 
+                                "text": "(7) Additional rebate for noninnovator multiple source drugs. In addition to the basic rebate described in paragraph (a)(6) of this section, for each dosage form and strength of a noninnovator multiple source drug, the rebate amount will be increased by an amount equal to the product of the following:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-8", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "8"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(8) <E T=\"03\">Total rebate.</E> The total rebate amount for noninnovator multiple source drugs is equal to the basic rebate amount plus the additional rebate amount, if any.", 
+                                "text": "(8) Total rebate. The total rebate amount for noninnovator multiple source drugs is equal to the basic rebate amount plus the additional rebate amount, if any.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-9", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "9"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(9) <E T=\"03\">Limit on rebate.</E> In no case will the total rebate amount exceed 100 percent of the AMP for the noninnovator multiple source drug.", 
+                                "text": "(9) Limit on rebate. In no case will the total rebate amount exceed 100 percent of the AMP for the noninnovator multiple source drug.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "c. By adding paragraphs (a)(7), (8), and (9)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "14. Section 447.509 is further amended, effective January 1, 2022, by\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-509-a-4-ii", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[text]", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "4", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form, the rebate obligation for the rebate periods beginning on October 1, 2018 through December 31, 2021 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the amount computed under paragraph (a)(1) of this section plus the product of all of the following:", 
+                                "text": "(ii) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form, the rebate obligation for the rebate periods beginning on October 1, 2018 through December 31, 2021 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the amount computed under paragraph (a)(1) of this section plus the product of all of the following:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "a. By revising paragraphs (a)(4)(ii) introductory text;"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-509-a-4-iii", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "447", 
+                                "509", 
+                                "a", 
+                                "4", 
+                                "iv"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "b. By redesignating paragraph (a)(4)(iii) as paragraph (a)(4)(iv); and"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-509-a-4-iii-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "4", 
+                                    "iii", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) The AMP of the line extension of a single source drug or an innovator multiple source drug.", 
+                                "text": "(A) The AMP of the line extension of a single source drug or an innovator multiple source drug.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-4-iii-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "4", 
+                                    "iii", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) The highest additional rebate (calculated as a percentage of AMP) under this section for any strength of the original single source drug or innovator multiple source drug.", 
+                                "text": "(B) The highest additional rebate (calculated as a percentage of AMP) under this section for any strength of the original single source drug or innovator multiple source drug.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-4-iii-C", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "4", 
+                                    "iii", 
+                                    "C"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(C) The total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).", 
+                                "text": "(C) The total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-509-a-4-iii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-509-a-4-iii-A", 
+                                    "447-509-a-4-iii-B", 
+                                    "447-509-a-4-iii-C"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "509", 
+                                    "a", 
+                                    "4", 
+                                    "iii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iii) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug, provided that the initial single source drug or innovator multiple source drug is an oral solid dosage form, the rebate obligation for the rebate periods beginning on and after January 1, 2022 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the amount computed under paragraph (a)(1) of this section plus the product of all of the following:", 
+                                "text": "(iii) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug, provided that the initial single source drug or innovator multiple source drug is an oral solid dosage form, the rebate obligation for the rebate periods beginning on and after January 1, 2022 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the amount computed under paragraph (a)(1) of this section plus the product of all of the following:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "c. Adding a new paragraph (a)(4)(iii)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-510-b-1-vi", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "510", 
+                                    "b", 
+                                    "1", 
+                                    "vi"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(vi) The change is a result of a VBP arrangement, as defined in \u00a7\u2009447.502, requiring the manufacturer to make changes outside of the 12-quarter rule in this paragraph (b), when the outcome must be evaluated outside of the 12-quarter period.", 
+                                "text": "(vi) The change is a result of a VBP arrangement, as defined in \u00a7\u2009447.502, requiring the manufacturer to make changes outside of the 12-quarter rule in this paragraph (b), when the outcome must be evaluated outside of the 12-quarter period.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "15. Section 447.510 is amended by adding paragraph (b)(1)(vi) to read as follows:"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "16. Section 447.511 is amended, effective January 1, 2022\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "a. In paragraph (a) introductory text, by removing the phrase \u201cfollowing data:\u201d and adding in its place the phrase \u201cfollowing data and any subsequent changes to the data fields on the CMS-R-144 Medicaid Drug Rebate Invoice form:\u201d;"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-R-144-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "R", 
+                                    "144", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Data submitted to CMS.</E> On a quarterly basis, the State must submit drug utilization data to CMS, which will be the same information as submitted to the manufacturers on the CMS-R-144, as specified in paragraph (a) of this section. The state data submission will be due no later than 60 days after the end of each rebate period. In the event that a due date falls on a weekend or Federal holiday, the submission will be due on the first business day following that weekend or Federal holiday. Any adjustments to previously submitted data will be transmitted to the manufacturer and CMS in the same reporting period.", 
+                                "text": "(b) Data submitted to CMS. On a quarterly basis, the State must submit drug utilization data to CMS, which will be the same information as submitted to the manufacturers on the CMS-R-144, as specified in paragraph (a) of this section. The state data submission will be due no later than 60 days after the end of each rebate period. In the event that a due date falls on a weekend or Federal holiday, the submission will be due on the first business day following that weekend or Federal holiday. Any adjustments to previously submitted data will be transmitted to the manufacturer and CMS in the same reporting period.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "b. By revising paragraph (b); and"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-511-d-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "511", 
+                                    "d", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) The State Medicaid Director (SMD);", 
+                                "text": "(1) The State Medicaid Director (SMD);", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-511-d-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "511", 
+                                    "d", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) The Deputy State Medicaid Director (DSMD);", 
+                                "text": "(2) The Deputy State Medicaid Director (DSMD);", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-511-d-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "511", 
+                                    "d", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) An individual other than the SMD or DSMD, who has authority equivalent to an SMD or DSMD; or", 
+                                "text": "(3) An individual other than the SMD or DSMD, who has authority equivalent to an SMD or DSMD; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-511-d-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "511", 
+                                    "d", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) An individual with the directly delegated authority to perform the certification on behalf of an individual described in paragraphs (d)(1) through (3) of this section.", 
+                                "text": "(4) An individual with the directly delegated authority to perform the certification on behalf of an individual described in paragraphs (d)(1) through (3) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-R-144-d", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-511-d-1", 
+                                    "447-511-d-2", 
+                                    "447-511-d-3", 
+                                    "447-511-d-4"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "R", 
+                                    "144", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) <E T=\"03\">State data certification.</E> Each data submission in this section must be certified by one of the following:", 
+                                "text": "(d) State data certification. Each data submission in this section must be certified by one of the following:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-R-144-e", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "R", 
+                                    "144", 
+                                    "e"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(e) <E T=\"03\">State data certification language.</E> Each data submission by a state must include the following certification language: \u201cI hereby certify, to the best of my knowledge, that the state's data submission is complete and accurate at the time of this submission, and was prepared in accordance with the state's good faith, reasonable efforts based on existing guidance from CMS, section 1927 of the Act and applicable Federal regulations. I further certify that the state has transmitted data to CMS, including any adjustments to previous rebate periods, in the same reporting period as provided to the manufacturer. Further, the state certifies that it has applied any necessary edits to the data for both CMS and the manufacturer to avoid inaccuracies at both the NDC/line item and file/aggregate level. Such edits are to be applied in the same manner and in the same reporting period to both CMS and the manufacturer.\u201d", 
+                                "text": "(e) State data certification language. Each data submission by a state must include the following certification language: \u201cI hereby certify, to the best of my knowledge, that the state's data submission is complete and accurate at the time of this submission, and was prepared in accordance with the state's good faith, reasonable efforts based on existing guidance from CMS, section 1927 of the Act and applicable Federal regulations. I further certify that the state has transmitted data to CMS, including any adjustments to previous rebate periods, in the same reporting period as provided to the manufacturer. Further, the state certifies that it has applied any necessary edits to the data for both CMS and the manufacturer to avoid inaccuracies at both the NDC/line item and file/aggregate level. Such edits are to be applied in the same manner and in the same reporting period to both CMS and the manufacturer.\u201d", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "c. By adding paragraphs (d) and (e)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "17. Section 447.518 is amended, effective January 1, 2022, by\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-518-d", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "447", 
+                                "518", 
+                                "d", 
+                                "1"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "a. Redesignating the text of paragraph (d) as paragraph (d)(1); and"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-518-d-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "518", 
+                                    "d", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) A State participating in VBP arrangements approved under a CMS-authorized supplemental rebate agreement (SRA) must report data described in paragraph (d)(3) of this section on an annual basis.", 
+                                "text": "(2) A State participating in VBP arrangements approved under a CMS-authorized supplemental rebate agreement (SRA) must report data described in paragraph (d)(3) of this section on an annual basis.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-518-d-3-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "518", 
+                                    "d", 
+                                    "3", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) State.", 
+                                "text": "(i) State.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-518-d-3-ii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "518", 
+                                    "d", 
+                                    "3", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) National drug code(s) (for drugs covered under the CMS-authorized VBP SRA).", 
+                                "text": "(ii) National drug code(s) (for drugs covered under the CMS-authorized VBP SRA).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-518-d-3-iii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "518", 
+                                    "d", 
+                                    "3", 
+                                    "iii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iii) Product's FDA list name.", 
+                                "text": "(iii) Product's FDA list name.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-518-d-3-iv", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "518", 
+                                    "d", 
+                                    "3", 
+                                    "iv"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iv) Number of prescriptions.", 
+                                "text": "(iv) Number of prescriptions.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-518-d-3-v", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "518", 
+                                    "d", 
+                                    "3", 
+                                    "v"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(v) Cost to the State to administer the CMS-authorized VBP SRA (for example, systems changes, tracking outcomes, etc.).", 
+                                "text": "(v) Cost to the State to administer the CMS-authorized VBP SRA (for example, systems changes, tracking outcomes, etc.).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-518-d-3-vi", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "518", 
+                                    "d", 
+                                    "3", 
+                                    "vi"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(vi) Total savings generated by the supplemental rebate due to the CMS-authorized VBP SRA.", 
+                                "text": "(vi) Total savings generated by the supplemental rebate due to the CMS-authorized VBP SRA.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-518-d-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "447-518-d-3-i", 
+                                    "447-518-d-3-ii", 
+                                    "447-518-d-3-iii", 
+                                    "447-518-d-3-iv", 
+                                    "447-518-d-3-v", 
+                                    "447-518-d-3-vi"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "518", 
+                                    "d", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Within 60 days of the end of each year, the State must submit all of the following data, including cumulative data to date:", 
+                                "text": "(3) Within 60 days of the end of each year, the State must submit all of the following data, including cumulative data to date:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "b. Adding paragraphs (d)(2) and (3)."
+        }, 
+        {
+            "authority": "42 U.S.C. 1302.", 
+            "cfr_part": "456", 
+            "instruction": "18. The authority citation for part 456 is revised to read as follows:"
+        }, 
+        {
+            "cfr_part": "456", 
+            "instruction": "19. Section 456.703 is amended by\u2014"
+        }, 
+        {
+            "cfr_part": "456", 
+            "changes": [
+                [
+                    "456-703-h", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "456", 
+                                "703", 
+                                "i"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "a. Redesignating paragraph (h) as paragraph (i); and"
+        }, 
+        {
+            "cfr_part": "456", 
+            "changes": [
+                [
+                    "456-703-h-1-i-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "i", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) Days' supply for patients not currently receiving opioid therapy for initial prescription fills;", 
+                                "text": "(A) Days' supply for patients not currently receiving opioid therapy for initial prescription fills;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-i-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "i", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) Quantity of prescription dispensed for initial and subsequent prescription fills;", 
+                                "text": "(B) Quantity of prescription dispensed for initial and subsequent prescription fills;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-i-C", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "i", 
+                                    "C"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(C) Therapeutically-duplicative initial and subsequent opioid prescription fills; and", 
+                                "text": "(C) Therapeutically-duplicative initial and subsequent opioid prescription fills; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-i-D", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "i", 
+                                    "D"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(D) Early refills, for subsequent prescription fills.", 
+                                "text": "(D) Early refills, for subsequent prescription fills.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "456-703-h-1-i-A", 
+                                    "456-703-h-1-i-B", 
+                                    "456-703-h-1-i-C", 
+                                    "456-703-h-1-i-D"
+                                ], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) Prospective safety edit limitations for opioid prescriptions, as specified by the State, on:", 
+                                "text": "(i) Prospective safety edit limitations for opioid prescriptions, as specified by the State, on:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-ii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) Prospective safety edit limitations for opioid prescriptions, as specified by the State, on the maximum daily morphine milligram equivalent for treatment of pain, for initial and subsequent prescription fills.", 
+                                "text": "(ii) Prospective safety edit limitations for opioid prescriptions, as specified by the State, on the maximum daily morphine milligram equivalent for treatment of pain, for initial and subsequent prescription fills.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-iii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "iii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iii) A retrospective claims review automated process that indicates prescription fills of opioids in excess of the prospective safety edit limitations specified by the state under paragraph (h)(1)(i) or (ii) of this section to provide for the ongoing review of opioid claims data to identify patterns of fraud, abuse, excessive utilization, inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or provision of inappropriate or medically unnecessary care among prescribers, pharmacists and individuals receiving Medicaid benefits.", 
+                                "text": "(iii) A retrospective claims review automated process that indicates prescription fills of opioids in excess of the prospective safety edit limitations specified by the state under paragraph (h)(1)(i) or (ii) of this section to provide for the ongoing review of opioid claims data to identify patterns of fraud, abuse, excessive utilization, inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or provision of inappropriate or medically unnecessary care among prescribers, pharmacists and individuals receiving Medicaid benefits.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-iv-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "iv", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) Benzodiazepines; or", 
+                                "text": "(A) Benzodiazepines; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-iv-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "iv", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) Antipsychotics.", 
+                                "text": "(B) Antipsychotics.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-iv", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "456-703-h-1-iv-A", 
+                                    "456-703-h-1-iv-B"
+                                ], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "iv"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iv) A retrospective claims review automated process and, at the option of the State, prospective safety edits that monitor when an individual is concurrently prescribed opioids and:", 
+                                "text": "(iv) A retrospective claims review automated process and, at the option of the State, prospective safety edits that monitor when an individual is concurrently prescribed opioids and:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-v", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "v"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(v) A program to monitor and manage the appropriate use of antipsychotic medications by children enrolled under the State plan, including any Medicaid expansion groups for the Children's Health Insurance Program (CHIP).", 
+                                "text": "(v) A program to monitor and manage the appropriate use of antipsychotic medications by children enrolled under the State plan, including any Medicaid expansion groups for the Children's Health Insurance Program (CHIP).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-vi", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "vi"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(vi) A process to identify potential fraud or abuse of controlled substances by individuals enrolled under the State plan, health care providers prescribing drugs to individuals so enrolled, and pharmacies dispensing drugs to individuals so enrolled.", 
+                                "text": "(vi) A process to identify potential fraud or abuse of controlled substances by individuals enrolled under the State plan, health care providers prescribing drugs to individuals so enrolled, and pharmacies dispensing drugs to individuals so enrolled.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-vii-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "vii", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) A beneficiary is prescribed an opioid after the beneficiary has been prescribed one or more drugs used for Medication Assisted Treatment (MAT) of an opioid use disorder or has been diagnosed with an opioid use disorder, within a timeframe specified by the State, in the absence of a new indication to support utilization of opioids (such as new cancer diagnosis or entry into hospice care); and", 
+                                "text": "(A) A beneficiary is prescribed an opioid after the beneficiary has been prescribed one or more drugs used for Medication Assisted Treatment (MAT) of an opioid use disorder or has been diagnosed with an opioid use disorder, within a timeframe specified by the State, in the absence of a new indication to support utilization of opioids (such as new cancer diagnosis or entry into hospice care); and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-vii-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "vii", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) A beneficiary could be at high risk of opioid overdose and should be considered for co-prescription or co-dispensing of any FDA-approved opioid antagonist/reversal agent.", 
+                                "text": "(B) A beneficiary could be at high risk of opioid overdose and should be considered for co-prescription or co-dispensing of any FDA-approved opioid antagonist/reversal agent.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1-vii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "456-703-h-1-vii-A", 
+                                    "456-703-h-1-vii-B"
+                                ], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1", 
+                                    "vii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(vii) Prospective safety edits, retrospective claims review automated processes, or a combination of these approaches as determined by the State, to identify when:", 
+                                "text": "(vii) Prospective safety edits, retrospective claims review automated processes, or a combination of these approaches as determined by the State, to identify when:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "456-703-h-1-i", 
+                                    "456-703-h-1-ii", 
+                                    "456-703-h-1-iii", 
+                                    "456-703-h-1-iv", 
+                                    "456-703-h-1-v", 
+                                    "456-703-h-1-vi", 
+                                    "456-703-h-1-vii"
+                                ], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) <E T=\"03\">Minimum standards.</E> In operating their DUR programs, States must include the following minimum standards:", 
+                                "text": "(1) Minimum standards. In operating their DUR programs, States must include the following minimum standards:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) <E T=\"03\">Exclusion.</E> The requirements in paragraphs (h)(1)(i) through (vii) of this section do not apply with respect to individuals receiving hospice or palliative care or treatment for cancer; individuals who are residents of long-term care facilities, intermediate care facilities for the intellectually disabled, or facilities that dispense frequently abused drugs through a contract with a single pharmacy; or other individuals the State elects to exempt. While States are not required to apply the requirements in paragraphs (h)(1)(i) through (vii) with respect to these individuals, States may elect to do so.", 
+                                "text": "(2) Exclusion. The requirements in paragraphs (h)(1)(i) through (vii) of this section do not apply with respect to individuals receiving hospice or palliative care or treatment for cancer; individuals who are residents of long-term care facilities, intermediate care facilities for the intellectually disabled, or facilities that dispense frequently abused drugs through a contract with a single pharmacy; or other individuals the State elects to exempt. While States are not required to apply the requirements in paragraphs (h)(1)(i) through (vii) with respect to these individuals, States may elect to do so.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "456-703-h", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "456-703-h-1", 
+                                    "456-703-h-2"
+                                ], 
+                                "label": [
+                                    "456", 
+                                    "703", 
+                                    "h"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(h) <E T=\"03\">Minimum standards for DUR programs\u2014</E>", 
+                                "text": "(h) Minimum standards for DUR programs\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "b. Adding a new paragraph (h)."
+        }, 
+        {
+            "cfr_part": "456", 
+            "changes": [
+                [
+                    "456-712-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "456", 
+                                    "712", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) <E T=\"03\">Public availability.</E> All fee-for-service (FFS) and managed care DUR reports received by CMS under paragraph (b) of this section and, as applicable, pursuant to \u00a7\u2009438.3(s) of this chapter, will be publicly posted on a website maintained by CMS for the sharing of reports and other information concerning Medicaid DUR programs.", 
+                                "text": "(c) Public availability. All fee-for-service (FFS) and managed care DUR reports received by CMS under paragraph (b) of this section and, as applicable, pursuant to \u00a7\u2009438.3(s) of this chapter, will be publicly posted on a website maintained by CMS for the sharing of reports and other information concerning Medicaid DUR programs.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "20. Section 456.712 is amended by adding paragraph (c) to read as follows:"
+        }
+    ], 
+    "cfr_parts": [
+        "433", 
+        "438", 
+        "447", 
+        "456"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2482-F"
+    ], 
+    "document_number": "2020-28567", 
+    "effective_on": "2021-03-01", 
+    "footnotes": {
+        "1": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid-chip-program-information/by-topics/prescription-drugs/downloads/rx-releases/mfr-releases/mfr-rel-111.pdf.</em>", 
+        "10": "Davis, Cory. \u201cNaloxone for Community Opioid Overdose Reversal.\u201d Naloxone for Community Opioid Overdose Reversal|Public Health Law Research, Public Health Law Research (PHLR), 22 June 2015, <em data-original=\"E-03\">http://phlr.org/product/naloxone-community-opioid-overdose-reversal.</em>", 
+        "100": "<em data-original=\"E-03\">https://www.hhs.gov/opioids/sites/default/files/2019-10/Dosage_Reduction_Discontinuation.pdf.</em>", 
+        "101": "<em data-original=\"E-03\">https://www.kmap-state-ks.us/Documents/Content/Bulletins/18101%20-%20General%20-%20Opioid_2.1.pdf.</em>", 
+        "102": "<em data-original=\"E-03\">https://www.wsha.org/quality-safety/projects/opioid-pain-management/opioid-prescribing-reports/.</em>", 
+        "103": "<em data-original=\"E-03\">https://www.drugabuse.gov/publications/drugfacts/prescription-opioids.</em>", 
+        "104": "<em data-original=\"E-03\">https://www.cms.gov/About-CMS/Story-Page/CDCs-Tapering-Guidance.pdf.</em>", 
+        "105": "<em data-original=\"E-03\">https://qpp.cms.gov/docs/QPP_quality_measure_specifications/CQM-Measures/2019_Measure_131_MIPSCQM.pdf.</em>", 
+        "106": "<em data-original=\"E-03\">https://www.jointcommission.org/resources/patient-safety-topics/pain-management-standards-for-accredited-organizations/#a98ee961a3184ec899b62579053a24a7.</em>", 
+        "107": "Section 1902(oo)(1)(B) of the Act, as added by section 1004 of the SUPPORT Act.", 
+        "108": "Crystal, Stephen et al. \u201cBroadened use of atypical antipsychotics: safety, effectiveness, and policy challenges.\u201d <em data-original=\"E-03\">Health affairs (Project Hope)</em> vol. 28, 5 (2009): w770-81. doi:10.1377/hlthaff.28.5.w770.", 
+        "109": "Ibid.", 
+        "11": "\u201cOpioid Addiction 2016 Facts & Figures\u2014ASAM Home Page.\u201d American Society of Addition Medicine, <em data-original=\"E-03\">www.asam.org/docs/default-source/advocacy/opioid-addiction-disease-facts-figures.pdf.</em>", 
+        "110": "Ibid.", 
+        "111": "Marder SR, et al. Physical health monitoring of patients with schizophrenia. Am J Psychiatry. 2004; 161(8):1334.", 
+        "112": "<em data-original=\"E-03\">https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2717966.</em>", 
+        "113": "<em data-original=\"E-03\">https://www.healthline.com/health/consumer-reports-antipsychotics-children#1.</em>", 
+        "114": "<em data-original=\"E-03\">https://children.wi.gov/Documents/Psychotropic%20Medication%20Prescribing%20for%20Children%20on%20Medicaid.pdf.</em>", 
+        "115": "<em data-original=\"E-03\">https://www.ahrq.gov/sites/default/files/wysiwyg/policymakers/chipra/factsheets/chipra_1415-p011-1-ef_0.pdf.</em>", 
+        "116": "<em data-original=\"E-03\">https://store.samhsa.gov/sites/default/files/d7/priv/pep19-antipsychotic-bp_508.pdf.</em>", 
+        "117": "\u201cPharmacy Lock-In Programs Slated For Expanded Use.\u201d OPEN MINDS, <em data-original=\"E-03\">www.openminds.com/market-intelligence/executive-briefings/pharmacy-lock-programs-slated-expanded-use/.</em>", 
+        "118": "Office of National Drug Control Policy. Prescription Drug Monitoring Program. Prescription Drug Monitoring Program, April 2011. <em data-original=\"E-03\">https://www.ncjrs.gov/pdffiles1/ondcp/pdmp.pdf.</em>", 
+        "119": "\u201cPharmacy Lock-In Programs Slated For Expanded Use.\u201d OPEN MINDS, <em data-original=\"E-03\">www.openminds.com/market-intelligence/executive-briefings/pharmacy-lock-programs-slated-expanded-use/.</em>", 
+        "12": "<em data-original=\"E-03\">https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHFFR2017/NSDUHFFR2017.pdf.</em>", 
+        "120": "\u201cPrescription Drug Monitoring Frequently Asked Questions (FAQ): The PDMP Training and Technical Assistance Center.\u201d <em data-original=\"E-03\">Prescription Drug Monitoring Frequently Asked Questions (FAQ)\u2009| The PDMP Training and Technical Assistance Center, www.pdmpassist.org/content/prescription-drug-monitoring-frequently-asked-questions-faq.</em>", 
+        "121": "Beaton, Thomas. \u201cPreventing Provider Fraud through Health IT, Data Analytics.\u201d <em data-original=\"E-03\">HealthPayerIntelligence,</em> 5 Oct. 2018, <em data-original=\"E-03\">https://healthpayerintelligence.com/news/preventing-provider-fraud-through-health-it-data-analytics.</em>", 
+        "122": "OIG, <em data-original=\"E-03\">Opioids in Medicare Part D: Concerns about Extreme Use and Questionable Prescribing,</em> OEI-02-17-00250, July 2017. <em data-original=\"E-03\">https://oig.hhs.gov/oei/reports/oei-02-17-00250.pdf.</em>", 
+        "123": "Support for Patients and Communities Act, Section 1006(b). Requirement For State Medicaid Plans To Provide Coverage For Medication-Assisted Treatment.", 
+        "124": "\u201cMedication and Counseling Treatment\u201d. September 28, 2015. Available at <em data-original=\"E-03\">https://www.samhsa.gov/medication-assisted-treatment/treatment.</em>", 
+        "125": "<em data-original=\"E-03\">https://www.nasmhpd.org/content/tac-assessment-working-paper-2016-compilation-state-behavioral-health-patient-treatment.</em>", 
+        "126": "<em data-original=\"E-03\">https://www.hhs.gov/about/news/2020/07/13/fact-sheet-samhsa-42-cfr-part-2-revised-rule.html.</em>", 
+        "127": "<em data-original=\"E-03\">https://store.samhsa.gov/product/TIP-63-Medications-for-Opioid-Use-Disorder-Full-Document/PEP20-02-01-006.</em>", 
+        "128": "<em data-original=\"E-03\">https://health.ri.gov/publications/guidelines/provider/PatientViolatesPainAgreement.pdf.</em>", 
+        "129": "Office of the Surgeon General, <em data-original=\"E-03\">Facing Addiction in America: The Surgeon General's Report on Alcohol, Drugs, and Health.</em> Washington, DC: HHS, November 2016. Chapter 4, Early Intervention, Treatment, and Management of Substance Use Disorders. <em data-original=\"E-03\">https://addiction.surgeongeneral.gov/sites/default/files/surgeon-generals-report.pdf.</em>", 
+        "13": "<em data-original=\"E-03\">https://www.fda.gov/consumers/consumer-updates/where-and-how-dispose-unused-medicines.</em>", 
+        "130": "SUPPORT for Patients and Communities Act section 1006(b), Public Law 115-271 (2018), <em data-original=\"E-03\">https://www.congress.gov/115/plaws/publ271/PLAW-115publ271.pdf.</em>", 
+        "131": "\u201cUnderstanding Naloxone.\u201d Harm Reduction Coalition. Available at <em data-original=\"E-03\">https://harmreduction.org/issues/overdose-prevention/overview/overdose-basics/understanding-naloxone/.</em>", 
+        "132": "NEJM Journal Watch: Summaries of and Commentary on Original Medical and Scientific Articles from Key Medical Journals, HHS-recommends-coprescribing-naloxone-with-opioids-high. <em data-original=\"E-03\">https://www.jwatch.org/fw114907/2018/12/20/hhs-recommends-coprescribing-naloxone-with-opioids-high.</em>", 
+        "133": "Ibid.", 
+        "134": "\u201cCDC Guidelines for Prescribing Opioids for Chronic pain. \u201d Available at <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/pdf/guidelines_at-a-glance-a.pdf.</em>", 
+        "135": "<em data-original=\"E-03\">https://store.samhsa.gov/sites/default/files/d7/priv/sma18-4742.pdf.</em>", 
+        "136": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid/prescription-drugs/drug-utilization-review/drug-utilization-review-annual-report/index.html.</em>", 
+        "137": "Ibid.", 
+        "138": "<em data-original=\"E-03\">https://store.samhsa.gov/sites/default/files/d7/priv/sma18-4742.pdf.</em>", 
+        "139": "Section 1902(oo)(3) of the Act, as added by section 1004 of the SUPPORT Act <em data-original=\"E-03\">.</em>", 
+        "14": "<em data-original=\"E-03\">https://www.cdc.gov/nchs/nhis/nhis_nhsr.htm.</em>", 
+        "140": "<em data-original=\"E-03\">https://www.medicaid.gov/federal-policy-guidance/downloads/cib080519-1004.pdf.</em>", 
+        "141": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid/prescription-drugs/drug-utilization-review/drug-utilization-review-annual-report/index.html.</em>", 
+        "142": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid/prescription-drugs/downloads/2019-dur-ffs-summary-report.pdf.</em>", 
+        "143": "Rolling Back the Tide: Deploying a Consultative Approach to Tackle the Growing Expansion of Copay Accumulators, Xcenda, February 2019.", 
+        "144": "Pharmacy Times, Co-pay Accumulator Programs: Behind the Controversy, Lee Feigert Pharm.D, July 22, 2019.", 
+        "145": "Large Employers 2018 Health Plan Design Survey, Washington DC, National Business Group on Health, 2018.", 
+        "146": "Trends in Specialty Drug Benefits. Plano, TX: Pharmacy Benefits Management Institute, 2018.", 
+        "147": "CMS Maximizers are Displacing Accumulators\u2014But CMS Ignores how Payers Leverage Patient Support, Drug Channels, May 19, 2020.", 
+        "148": "Impact of Copay Accumulator Adjustment Programs on Specialty Drug Adherence, American Journal of Managed Care, Vol 25 No 7, July 2019.", 
+        "149": "See 148.", 
+        "15": "Ibid.", 
+        "16": "<em data-original=\"E-03\">https://www.medicaid.gov/sites/default/files/Federal-Policy-Guidance/Downloads/cib111419.pdf.</em>", 
+        "17": "<em data-original=\"E-03\">https://www.federalregister.gov/documents/2019/10/17/2019-22027/medicare-and-state-healthcare-programs-fraud-and-abuse-revisions-to-safe-harbors-under-the.</em>", 
+        "18": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid/prescription-drugs/program-releases/index.html?search_api_fulltext=dispute+resolution&amp;field_date%5Bmin%5D=03%2F21%2F1991&amp;field_date%5Bmax%5D=11%2F16%2F2020&amp;sort_by=field_date&amp;sort_order=DESC&amp;items_per_page=10%23content#content.</em>", 
+        "19": "An NDC comprises three segments. The first segment is a labeler code, associated with the labeler, the second segment is a product code, which in association with a specific labeler code identifies the product, and the third segment is a package code, which, in association with the preceding segments, identifies the package size and type. For purposes of reporting to the MDRP, FDA's 10-digit NDC must be converted to an 11-digit NDC. The 9-digit NDC cited here is a combination of the labeler code plus the product code. FDA requirements for an NDC are at 21 CFR 207.33.", 
+        "2": "<em data-original=\"E-03\">https://www.medicaid.gov/prescription-drugs/downloads/mfr-rel-112.pdf.</em>", 
+        "20": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid-chip-program-information/by-topics/prescription-drugs/downloads/rx-releases/state-releases/state-rel-176.pdf.</em>", 
+        "21": "<em data-original=\"E-03\">https://www.medicaid.gov/sites/default/files/Federal-Policy-Guidance/downloads/smd091802.pdf.</em>", 
+        "22": "<em data-original=\"E-03\">https://www.medicaid.gov/prescription-drugs/downloads/mfr-rel-112.pdf.</em>", 
+        "23": "Prada, Sergio. (2019). Comparing the Medicaid Prospective Drug Utilization Review Program Cost-Savings Methods Used by State Agencies in 2015 and 2016. American Health and Drug Benefits. 12-7-12.", 
+        "24": "\u201cUnderstanding the Epidemic.\u201d Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 19 Dec. 2018, <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/epidemic/index.html.</em>", 
+        "25": "\u201cUnderstanding the Epidemic.\u201d Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 19 Dec. 2018, <em data-original=\"E-03\">www.cdc.gov/drugoverdose/epidemic/index.html.</em>", 
+        "26": "Hedegaard H, Mini\u00f1o AM, Warner M. Drug Overdose Deaths in the United States, 1999-2018.pdf icon NCHS Data Brief, no. 356. Hyattsville, MD: National Center for Health Statistics. 2020.", 
+        "27": "Wilson N, Kariisa M, Seth P, et al. Drug and Opioid-Involved Overdose Deaths\u2014United States, 2017-2018. MMWR Morb Mortal Wkly Rep 2020; 69:290-297.", 
+        "28": "\u201cBest Practices for Addressing Prescription Opioid Overdoses, Misuse and Addiction.\u201d CMCS Informational Bulletin available at <em data-original=\"E-03\">www.medicaid.gov/federal-policy-guidance/downloads/CIB-02-02-16.pdf.</em>", 
+        "29": "\u201cMedicaid Strategies for Non-Opioid Pharmacologic and Non-Pharmacologic Chronic Pain Management.\u201d CMCS Informational Bulletin at <em data-original=\"E-03\">https://www.medicaid.gov/sites/default/files/federal-policy-guidance/downloads/cib022219.pdf.</em>", 
+        "3": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid-chip-program-information/by-topics/prescription-drugs/downloads/rx-releases/state-releases/state-rel-176.pdf.</em>", 
+        "30": "\u201cRequest for Information for the Development of a CMS Action Plan to Prevent Opioid Addiction and Enhance Access to Medication-Assisted Treatment.\u201d CMCS request for information available at <em data-original=\"E-03\">https://www.cms.gov/About-CMS/Story-Page/Opioid-SUPPORT-Act-RFI.pdf.</em>", 
+        "31": "\u201cCMS Roadmap: Fighting the Opiod Crisis.\u201d Available at <em data-original=\"E-03\">http://wwww.cms.gov/About-CMS/Agency-Information/Emergency/Downloads/Opioid-epidemic-roadmap.pdf.</em>", 
+        "32": "Pain Management Best Practices Inter-Agency Task Force. \u201cPain Management Best Practices.\u201d Available at <em data-original=\"E-03\">https://www.hhs.gov/sites/default/files/pmtf-final-report-2019-05-23.pdf.</em>", 
+        "33": "<em data-original=\"E-03\">https://www.congress.gov/115/bills/hr6/BILLS-115hr6enr.pdf.</em>", 
+        "34": "\u201cCDC Guideline for Prescribing Opioids for Chronic Pain\u2014United States, 2016.\u201d Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 29 Aug. 2017, <em data-original=\"E-03\">https://www.cdc.gov/mmwr/volumes/65/rr/pdfs/rr6501e1er.pdf.</em>", 
+        "35": "\u201cCDC Guideline for Prescribing Opioids for Chronic Pain\u2014United States, 2016.\u201d Centers <em data-original=\"E-03\">for Disease Control and Prevention,</em> Centers for Disease Control and Prevention, 18 Mar. 2016, <em data-original=\"E-03\">https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm?CDC_AA_refVal=https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1er.html.</em>", 
+        "36": "Dowell, D., Haegerich, T.M., Chou, R. CDC Guideline for Prescribing Opioids for Chronic Pain-United States 2016, <em data-original=\"E-03\">Morbidity and Mortality Weekly Report</em> March 18, 2016: 65)1 [Accessed February 11, 2019 at <em data-original=\"E-03\">https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm.</em>", 
+        "37": "\u201cCDC Guidelines for Prescribing Opioids for Chronic pain.\u201d Available at <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/pdf/guidelines_at-a-glance-a.pdf.</em>", 
+        "38": "Dowell, D., Haegerich, T.M., Chou, R. CDC Guideline for Prescribing Opioids for Chronic Pain-United States 2016, <em data-original=\"E-03\">Morbidity and Mortality Weekly Report</em> March 18, 2016: 65)1 [Accessed February 11, 2019 at <em data-original=\"E-03\">https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm</em> ].", 
+        "39": "For a review of the evidence base for CBT, see Ehde D.M., Dillworth, T.M. and Turner, J.A. 2014. Cognitive-Behavioral Therapy for Individuals with Chronic Pain: Efficacy, Innovations, and Directions for Research. <em data-original=\"E-03\">American Psychologist,</em> 69(2); 153-166.", 
+        "4": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid-chip-program-information/by-topics/prescription-drugs/downloads/rx-releases/mfr-releases/mfr-rel-099.pdf.</em>", 
+        "40": "Additional information on non-opioid treatments for chronic pain are available at <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/pdf/nonopioid_treatments-a.pdf.</em>", 
+        "41": "\u201cManaging Chronic Pain.\u201d Centers <em data-original=\"E-03\">for Disease Control and Prevention,</em> Centers for Disease Control and Prevention, 18 Dec. 2019, <em data-original=\"E-03\">www.cdc.gov/learnmorefeelbetter/programs/chronic-pain.htm.</em>", 
+        "42": "Gaskin, Darrell J. \u201cThe Economic Costs of Pain in the United States.\u201d <em data-original=\"E-03\">Relieving Pain in America: A Blueprint for Transforming Prevention, Care, Education, and Research.,</em> U.S. National Library of Medicine, 1 Jan. 1970, <em data-original=\"E-03\">www.ncbi.nlm.nih.gov/books/NBK92521/.</em>", 
+        "43": "\u201cPrevalence of Chronic Pain and High-Impact Chronic Pain among Adults\u2014United States, 2016.\u201d Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 16 Sept. 2019, <em data-original=\"E-03\">www.cdc.gov/mmwr/volumes/67/wr/mm6736a2.htm.</em>", 
+        "44": "Additional information on non-opioid treatments for chronic pain are available at <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/pdf/nonopioid_treatments-a.pdf.</em>", 
+        "45": "Dowell D, Haegerich TM, Chou R. No shortcuts to safer opioid prescribing. N Engl J Med 2019; 380: 2285-2287.", 
+        "46": "HHS Guide for Clinicians on the Appropriate Dosage Reduction or Discontinuation of Long-Term Opioid Analgesics. Oct. 2019, <em data-original=\"E-03\">www.hhs.gov/opioids/sites/default/files/2019-10/Dosage_Reduction_Discontinuation.pdf.</em>", 
+        "47": "\u201cBest Practices for Addressing Prescription Opioid Overdoses, Misuse and Addiction.\u201d CMCS Informational Bulletin available at <em data-original=\"E-03\">www.medicaid.gov/federal-policy-guidance/downloads/CIB-02-02-16.pdf.</em>", 
+        "48": "\u201cMedicaid Strategies for Non-Opioid Pharmacologic and Non-Pharmacologic Chronic Pain Management.\u201d CMCS Informational Bulletin at <em data-original=\"E-03\">https://www.medicaid.gov/federal-policy-guidance/downloads/cib022219.pdf.</em>", 
+        "49": "Section 1902(oo)(1)(A)(i)(I) of the Act, as added by section 1004 of the SUPPORT Act.", 
+        "5": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid-chip-program-information/by-topics/prescription-drugs/downloads/rx-releases/mfr-releases/mfr-rel-102.pdf.</em>", 
+        "50": "\u201cCDC Guideline for Prescribing Opioids for Chronic Pain\u2014United States, 2016.\u201d Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 29 Aug. 2017, <em data-original=\"E-03\">https://www.cdc.gov/mmwr/volumes/65/rr/pdfs/rr6501e1er.pdf.</em>", 
+        "51": "Ibid.", 
+        "52": "Shah A., Hayes C.J., Martin B.C. Characteristics of Initial Prescription Episodes and Likelihood of Long-Term Opioid Use\u2014United States, 2006-2015. Morbidity and Mortality Weekly Report 2017; 66:265-269 [Accessed February 11, 2019 at <em data-original=\"E-03\">http://dx.doi.org/10.15585/mmwr.mm6610a1</em> ].", 
+        "53": "Ibid.", 
+        "54": "\u201cCDC Guideline for Prescribing Opioids for Chronic Pain.\u201d Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/pdf/guidelines_at-a-glance-a.pdf.</em>", 
+        "55": "Shah A, Hayes CJ, Martin BC. Characteristics of initial prescription episodes and likelihood of long-term opioid use\u2014United States, 2006-2015. <em data-original=\"E-03\">MMWR Morb Mortal Wkly Rep.</em> 2017; 66(10):265-269. doi: 10.15585/mmwr.mm6610a1 <em data-original=\"E-03\">.</em>", 
+        "56": "\u201cDays' Supply of Initial Opioid Analgesic Prescriptions and Additional Fills for Acute Pain Conditions Treated in the Primary Care Setting\u2014United States, 2014 | MMWR.\u201d Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, <em data-original=\"E-03\">https://www.cdc.gov/mmwr/volumes/68/wr/mm6806a3.htm.</em>", 
+        "57": "Calabrese D. Baldinger S., Dose Optimization Intervention Yields Significant Drug Cost Savings. <em data-original=\"E-03\">https://www.jmcp.org/doi/pdf/10.18553/jmcp.2002.8.2.146.</em>", 
+        "58": "Daoust R. Limiting Opioid Prescribing. <em data-original=\"E-03\">JAMA.</em> 2019; 322(2):170-171. doi:10.1001/jama.2019.5844.", 
+        "59": "<em data-original=\"E-03\">http://www.cdc.gov/drugoverdose/pdf/hhs_prescription_drug-abuse_report_09.2013.pdf.</em>", 
+        "6": "<em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/data/statedeaths.html.</em>", 
+        "60": "Ibid.", 
+        "61": "\u201cFDA Patient Education Campaign Targets Opioid Diversion, Disposal.\u201d Available at <em data-original=\"E-03\">https://patientengagementhit.com/news/fda-patient-education-campaign-targets-opioid-diversion-disposal.</em>", 
+        "62": "Opioid Use during the Six Months After an Emergency Department Visit for Acute Pain: A Prospective Cohort Study. Friedman, Benjamin W. et al. Annals of Emergency Medicine, Volume 0, Issue 0.", 
+        "63": "Dowell, Deborah, et al. \u201cCDC Guideline for Prescribing Opioids for Chronic Pain--United States, 2016.\u201d JAMA, U.S. National Library of Medicine, 19 Apr. 2016, <em data-original=\"E-03\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390846/.</em>", 
+        "64": "Frieden TR, Houry D. Reducing the Risks of Relief--The CDC Opioid-Prescribing Guideline. <em data-original=\"E-03\">N Engl J Med.</em> 2016; 374(16):1501-1504. doi: 10.1056/NEJMp1515917.", 
+        "65": "Manchikanti, Laxmaiah, et al. \u201cOpioid Epidemic in the United States.\u201d Pain Physician, U.S. National Library of Medicine, July 2012, <em data-original=\"E-03\">www.ncbi.nlm.nih.gov/pubmed/22786464.</em>", 
+        "66": "Ibid.", 
+        "67": "\u201cTherapeutic Duplication.\u201d Journal of the American Medical Association, vol. 160, no. 9, 1956, p. 780., doi:10.1001/jama.1956.02960440052016.", 
+        "68": "Section 1902(oo)(1)(A)(i)(II) of the Act, as added by section 1004 of the SUPPORT Act.", 
+        "69": "\u201cOpioids for Acute Pain.\u201d Centers for Disease Control and Prevention, available at <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/pdf/patients/Opioids-for-Acute-Pain-a.pdf.</em>", 
+        "7": "Ray WA, Chung CP, Murray KT, Hall K, Stein CM. Prescription of Long-Acting Opioids and Mortality in Patients with Chronic Noncancer Pain. JAMA. 2016 Jun 14; 315(22):2415-23.", 
+        "70": "\u201cCDC Guidelines for Prescribing Opioids for Chronic pain. \u201d Available at <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/pdf/guidelines_at-a-glance-a.pdf.</em>", 
+        "71": "Ibid.", 
+        "72": "Calculating Total Daily Dose of Opioids For Safer Dosage. Centers for Disease Control and Prevention, available at <em data-original=\"E-03\">https://www.cdc.gov/drugoverdose/pdf/calculating_total_daily_dose-a.pdf.</em>", 
+        "73": "Guideline for Prescribing Opioids for Chronic Pain. <em data-original=\"E-03\">www.cdc.gov/drugoverdose/pdf/guidelines_at-a-glance-a.pdf.</em>", 
+        "74": "Ibid.", 
+        "75": "<em data-original=\"E-03\">https://www.hhs.gov/opioids/sites/default/files/2019-10/Dosage_Reduction_Discontinuation.pdf.</em>", 
+        "76": "\u201cFDA identifies harm reported from sudden discontinuation of opioid pain medicines and requires label changes to guide prescribers on gradual, individualized tapering.\u201d Food and Drug Administration. Available at <em data-original=\"E-03\">https://www.fda.gov/drugs/drug-safety-and-availability/fda-identifies-harm-reported-sudden-discontinuation-opioid-pain-medicines-and-requires-label-changes.</em>", 
+        "77": "Dowell D, Haegerich TM, Chou R. CDC Guideline for Prescribing Opioids for Chronic Pain\u2014United States, 2016. MMWR Recomm Rep 2016; 65(No. RR-1):1-49. DOI: <em data-original=\"E-03\">http://dx.doi.org/10.15585/mmwr.rr6501el. https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fmmwr%2Fvolumes%2F65%2Frr%2Frr6501e1er.htm.</em>", 
+        "78": "Dowell, Deborah, et al. \u201cCDC Guideline for Prescribing Opioids for Chronic Pain\u2014United States, 2016.\u201d JAMA, U.S. National Library of Medicine, 19 Apr. 2016, <em data-original=\"E-03\">https://www.ncbi.nlm.nih.gov/pubmed/26977696.</em>", 
+        "79": "Staff, News. \u201cCDC Clarifies Opioid Guideline Dosage Thresholds.\u201d AAFP Home, 12 Jan. 2018, <em data-original=\"E-03\">www.aafp.org/news/health-of-the-public/20180112cdcopioidclarify.html.</em>", 
+        "8": "Baumblatt JA, Wiedeman C, Dunn JR, Schaffner W, et al. High-risk use by patients prescribed opioids for pain and its role in overdose deaths. JAMA Intern Med. 2014 May; 174(5):796-801.", 
+        "80": "Section 1902(oo)(1)(A)(i)(III) of the Act, as added by section 1004 of the SUPPORT Act.", 
+        "81": "See section 1902(oo)(1)(A)(iii) of the Act, as added by section 1004 of the SUPPORT Act.", 
+        "82": "Office of the Commissioner. \u201cDrug Safety Communications\u2014FDA warns about serious risks and death when combining opioid pain or cough medicines with benzodiazepines; requires its strongest warning.\u201d <em data-original=\"E-03\">U.S. Food and Drug Administration Home Page,</em> Office of the Commissioner, <em data-original=\"E-03\">https://www.fda.gov/media/99761/download.</em>", 
+        "83": "Jones, Jermaine D, et al. \u201cPolydrug Abuse: a Review of Opioid and Benzodiazepine Combination Use.\u201d Drug and Alcohol Dependence, U.S. National Library of Medicine, 1 Sept. 2012, <em data-original=\"E-03\">www.ncbi.nlm.nih.gov/pmc/articles/PMC3454351/.</em>", 
+        "84": "Forum, Addiction Policy. \u201cSedative Use Disorder.\u201d Addiction Policy Forum, <em data-original=\"E-03\">https://www.addictionpolicy.org/sedative-use-disorder.</em>", 
+        "85": "\u201cReduce Risk of Opioid Overdose Deaths by Avoiding and Reducing Co-Prescribing Benzodiazepines.\u201d MLN Matters Number: SE19011. Available at <em data-original=\"E-03\">https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNMattersArticles/downloads/SE19011.pdf.</em>", 
+        "86": "Office of the Commissioner. \u201cDrug Safety Communications\u2014FDA warns about serious risks and death when combining opioid pain or cough medicines with benzodiazepines; requires its strongest warning.\u201d <em data-original=\"E-03\">U.S. Food and Drug Administration Home Page,</em> Office of the Commissioner, <em data-original=\"E-03\">https://www.fda.gov/media/99761/download.</em>", 
+        "87": "Pain Management Best Practices Inter-Agency Task Force. \u201cPain Management Best Practices.\u201d Available at <em data-original=\"E-03\">https://www.hhs.gov/sites/default/files/pmtf-final-report-2019-05-23.pdf.</em>", 
+        "88": "Ibid.", 
+        "89": "Ibid.", 
+        "9": "Bonnie, Richard J., et al. Pain Management and the Opioid Epidemic: Balancing Societal and Individual Benefits and Risks of Prescription Opioid Use. The National Academies Press, 2017.", 
+        "90": "Davis, Matthew A., et al. \u201cPrescription Opioid Use among Adults with Mental Health Disorders in the United States.\u201d The Journal of the American Board of Family Medicine, vol. 30, no. 4, 2017, pp. 407-417., doi:10.3122/jabfm.2017.04.170112.", 
+        "91": "\u201cCDC Guideline for Prescribing Opioids for Chronic Pain\u2014United States, 2016.\u201d Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 29 Aug. 2017, <em data-original=\"E-03\">https://www.cdc.gov/mmwr/volumes/65/rr/pdfs/rr6501e1er.pdf.</em>", 
+        "92": "<em data-original=\"E-03\">https://www.cdc.gov/media/releases/2019/s0424-advises-misapplication-guideline-prescribing-opioids.html.</em>", 
+        "93": "<em data-original=\"E-03\">https://www.cms.gov/About-CMS/Agency-Information/Emergency/Downloads/Opioid-epidemic-roadmap.pdf.</em>", 
+        "94": "<em data-original=\"E-03\">https://www.cms.gov/Outreach-and-Education/Outreach/Partnerships/Downloads/CMS-Opioid-Misuse-Strategy-2016.pdf.</em>", 
+        "95": "<em data-original=\"E-03\">https://www.medicaid.gov/sites/default/files/federal-policy-guidance/downloads/cib022219.pdf.</em>", 
+        "96": "<em data-original=\"E-03\">https://www.medicaid.gov/sites/default/files/Federal-Policy-Guidance/Downloads/cib-02-02-16.pdf.</em>", 
+        "97": "<em data-original=\"E-03\">https://www.medicaid.gov/medicaid/quality-of-care/quality-improvement-initiatives/quality-of-care-health-disparities/index.html.</em>", 
+        "98": "<em data-original=\"E-03\">https://www.hhs.gov/sites/default/files/ppacacon.pdf.</em>", 
+        "99": "<em data-original=\"E-03\">https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fmmwr%2Fvolumes%2F65%2Frr%2Frr6501e1er.htm.</em>"
+    }, 
+    "fr_citation": "85 FR 87000", 
+    "fr_url": "https://www.federalregister.gov/documents/2020/12/31/2020-28567/medicaid-program-establishing-minimum-standards-in-medicaid-state-drug-utilization-review-dur-and", 
+    "fr_volume": 85, 
+    "meta": {
+        "start_page": 87000
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES", 
+    "primary_docket": null, 
+    "publication_date": "2020-12-31", 
+    "regulation_id_numbers": [
+        "0938-AT82"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Establishing Minimum Standards in Medicaid State Drug Utilization Review (DUR) and Supporting Value-Based Purchasing (VBP) for Drugs Covered in Medicaid, Revising Medicaid Drug Rebate and Third Party Liability (TPL) Requirements", 
+    "versions": {
+        "433": {
+            "left": "2020-24332", 
+            "right": "2020-28567"
+        }
+    }
+}

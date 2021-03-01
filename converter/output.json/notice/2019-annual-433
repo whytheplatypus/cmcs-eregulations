@@ -1,0 +1,30 @@
+{
+    "amendments": [], 
+    "cfr_parts": [
+        "433"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [], 
+    "document_number": "2019-annual-433", 
+    "effective_on": "2019-10-01", 
+    "footnotes": {}, 
+    "fr_citation": "10 FR 0", 
+    "fr_url": null, 
+    "fr_volume": 10, 
+    "meta": {
+        "start_page": 0
+    }, 
+    "primary_agency": null, 
+    "primary_docket": null, 
+    "publication_date": "2019-10-01", 
+    "regulation_id_numbers": [], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": null, 
+    "versions": {
+        "433": {
+            "left": "2016-27844", 
+            "right": "2019-annual-433"
+        }
+    }
+}

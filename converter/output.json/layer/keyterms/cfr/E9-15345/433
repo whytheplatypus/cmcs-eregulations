@@ -1,0 +1,930 @@
+{
+    "433-10-a": [
+        {
+            "key_term": "Basis.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-10-b": [
+        {
+            "key_term": "Federal medical assistance percentage (FMAP)\u2014", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-10-c": [
+        {
+            "key_term": "Special provisions.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-131-a": [
+        {
+            "key_term": "Good cause.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-131-b": [
+        {
+            "key_term": "Circumstances beyond the control of a State.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-a": [
+        {
+            "key_term": "Basic provisions.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-b": [
+        {
+            "key_term": "Obtaining health insurance information: Initial application and redetermination processes for Medicaid eligibility.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-c": [
+        {
+            "key_term": "Obtaining other information.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-d": [
+        {
+            "key_term": "Exchange of data.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-e": [
+        {
+            "key_term": "Diagnosis and trauma code edits.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-f": [
+        {
+            "key_term": "Data exchanges and trauma code edits: Frequency.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-g": [
+        {
+            "key_term": "Followup procedures for identifying legally liable third party resources.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-g-1": [
+        {
+            "key_term": "SWICA, SSA wage and earnings files, and title IV-A data exchanges.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-g-2": [
+        {
+            "key_term": "Health insurance information and workers' compensation data exchanges.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-g-3": [
+        {
+            "key_term": "State motor vehicle accident report file data exchanges.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-g-4": [
+        {
+            "key_term": "Diagnosis and trauma code edits.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-h": [
+        {
+            "key_term": "Obtaining other information and data exchanges: Safeguarding information.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-i": [
+        {
+            "key_term": "Reimbursement.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-j": [
+        {
+            "key_term": "Reports.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-k": [
+        {
+            "key_term": "Integration with the State mechanized claims processing and information retrieval system. Basic requirement\u2014Development of an action plan.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-138-l": [
+        {
+            "key_term": "Waiver of requirements.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-139-a": [
+        {
+            "key_term": "Basic provisions.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-139-b": [
+        {
+            "key_term": "Probable liability is established at the time claim is filed.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-139-c": [
+        {
+            "key_term": "Probable liability is not established or benefits are not available at the time claim is filed.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-139-d": [
+        {
+            "key_term": "Recovery of reimbursement.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-139-e": [
+        {
+            "key_term": "Waiver of requirements.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-139-f": [
+        {
+            "key_term": "Suspension or termination of recovery of reimbursement.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-147-a": [
+        {
+            "key_term": "Scope of requirement.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-147-b": [
+        {
+            "key_term": "Essentials of cooperation.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-147-c": [
+        {
+            "key_term": "Waiver of cooperation for good cause.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-147-d": [
+        {
+            "key_term": "Procedures for waiving cooperation.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-15-a": [
+        {
+            "key_term": "Basis.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-15-b": [
+        {
+            "key_term": "Activities and rates.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-153-a": [
+        {
+            "key_term": "When payments are required.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-153-b": [
+        {
+            "key_term": "Amount and source of payment.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-153-c": [
+        {
+            "key_term": "Payment to two or more jurisdictions.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-304-p2428883253": [
+        {
+            "key_term": "Provider", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-304-p2699041216": [
+        {
+            "key_term": "Fraud", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-304-p311774071": [
+        {
+            "key_term": "Third party", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-304-p3267646040": [
+        {
+            "key_term": "Discovery", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-304-p969546887": [
+        {
+            "key_term": "Abuse", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-312-a": [
+        {
+            "key_term": "Basic rules.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-312-b": [
+        {
+            "key_term": "Exception.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-312-c": [
+        {
+            "key_term": "Applicability.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-316-a": [
+        {
+            "key_term": "General rule.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-316-b": [
+        {
+            "key_term": "Requirements for notification.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-316-c": [
+        {
+            "key_term": "Overpayments resulting from situations other than fraud or abuse.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-316-d": [
+        {
+            "key_term": "Overpayments resulting from fraud or abuse.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-316-e": [
+        {
+            "key_term": "Overpayments identified through Federal reviews.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-316-f": [
+        {
+            "key_term": "Effect of changes in overpayment amount.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-316-g": [
+        {
+            "key_term": "Effect of partial collection by State.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-316-h": [
+        {
+            "key_term": "Effect of administrative or judicial appeals.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-318-a": [
+        {
+            "key_term": "Basic rules.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-318-b": [
+        {
+            "key_term": "Overpayment debts that the State need not refund.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-318-c": [
+        {
+            "key_term": "Bankruptcy.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-318-d": [
+        {
+            "key_term": "Out of business.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-318-e": [
+        {
+            "key_term": "Circumstances requiring refunds.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-320-a": [
+        {
+            "key_term": "Basic requirements.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-320-b": [
+        {
+            "key_term": "Effect of reporting collections and submitting reduced expenditure claims.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-320-c": [
+        {
+            "key_term": "Reclaiming overpayment amounts previously refunded to CMS.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-320-d": [
+        {
+            "key_term": "Expiration of 60-day recovery period.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-320-e": [
+        {
+            "key_term": "Court-approved discharge of bankruptcy.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-320-f": [
+        {
+            "key_term": "Bankruptcy petition denied.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-320-g": [
+        {
+            "key_term": "Reclaim of refunds.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-320-h": [
+        {
+            "key_term": "Supporting reports.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-a": [
+        {
+            "key_term": "Basis and purpose.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-b": [
+        {
+            "key_term": "Definition of property.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-c": [
+        {
+            "key_term": "State plan requirement.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-d": [
+        {
+            "key_term": "Procedures.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-e": [
+        {
+            "key_term": "Definitions.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-f": [
+        {
+            "key_term": "Exception.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-g": [
+        {
+            "key_term": "Lien provisions\u2014", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-g-1": [
+        {
+            "key_term": "Incorrect payments.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-g-2": [
+        {
+            "key_term": "Correct payments.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-g-3": [
+        {
+            "key_term": "Restrictions on placing liens.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-g-4": [
+        {
+            "key_term": "Termination of lien.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-h": [
+        {
+            "key_term": "Adjustments and recoveries.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-36-i": [
+        {
+            "key_term": "Prohibition of reduction of money payments.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-37-a": [
+        {
+            "key_term": "Basis and purpose.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-37-b": [
+        {
+            "key_term": "Identification of providers.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-37-c": [
+        {
+            "key_term": "Compliance with section 6041 of the Internal Revenue Code.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-38-a": [
+        {
+            "key_term": "Basis and scope.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-38-b": [
+        {
+            "key_term": "General principles.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-38-c": [
+        {
+            "key_term": "State procedures.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-38-d": [
+        {
+            "key_term": "Amount of interest charged.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-38-e": [
+        {
+            "key_term": "Duration of interest.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-a": [
+        {
+            "key_term": "Purpose.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-b": [
+        {
+            "key_term": "Definitions.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-b-p3875733027": [
+        {
+            "key_term": "Cancelled (voided) check", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-c": [
+        {
+            "key_term": "Refund of Federal financial participation (FFP) for uncashed checks\u2014", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-c-1": [
+        {
+            "key_term": "General provisions.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-c-2": [
+        {
+            "key_term": "Report of refund.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-d": [
+        {
+            "key_term": "Refund of FFP for cancelled (voided) checks\u2014", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-d-1": [
+        {
+            "key_term": "General provision.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-40-d-2": [
+        {
+            "key_term": "Report of refund.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-50-a": [
+        {
+            "key_term": "Basis.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-50-b": [
+        {
+            "key_term": "Scope.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-50-c": [
+        {
+            "key_term": "Applicability.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-66-a": [
+        {
+            "key_term": "General rule.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-66-b": [
+        {
+            "key_term": "Permissible donations.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-67-a-1": [
+        {
+            "key_term": "Limitations on bona fide donations.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-67-a-2": [
+        {
+            "key_term": "Limitations on donations for outstationed eligibility workers.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-67-b": [
+        {
+            "key_term": "Calculation of FFP.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-68-a": [
+        {
+            "key_term": "General rule.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-68-b": [
+        {
+            "key_term": "Permissible health care-related taxes.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-68-c": [
+        {
+            "key_term": "Broad based health care-related taxes.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-68-d": [
+        {
+            "key_term": "Uniformly imposed health care-related taxes.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-68-e": [
+        {
+            "key_term": "Generally redistributive.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-68-e-1": [
+        {
+            "key_term": "Waiver of broad-based requirement only.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-68-e-2": [
+        {
+            "key_term": "Waiver of uniform tax requirement.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-68-f": [
+        {
+            "key_term": "Hold harmless.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-70-a": [
+        {
+            "key_term": "Limitations.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-70-b": [
+        {
+            "key_term": "Calculation of FFP.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-72-a": [
+        {
+            "key_term": "Bases for requesting waiver.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-72-b": [
+        {
+            "key_term": "Waiver conditions.", 
+            "locations": [
+                0
+            ]
+        }
+    ], 
+    "433-72-c": [
+        {
+            "key_term": "Effective date.", 
+            "locations": [
+                0
+            ]
+        }
+    ]
+}

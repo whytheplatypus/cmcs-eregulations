@@ -1,0 +1,308 @@
+{
+    "433-112-b-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    68
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "peer review"
+                ]
+            ]
+        ]
+    }, 
+    "433-15-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "delete", 
+                9, 
+                10
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-15-b-10": {
+        "op": "deleted"
+    }, 
+    "433-15-b-6-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    78, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "PRO"
+                ]
+            ]
+        ]
+    }, 
+    "433-20": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                23, 
+                "of the Act, which requires States to share in the cost of medical assistance expenditures "
+            ], 
+            [
+                [
+                    "delete", 
+                    27, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    27, 
+                    "permits both State and local governments to participate in the financing"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    56, 
+                    102
+                ], 
+                [
+                    "insert", 
+                    56, 
+                    "non-Federal portion"
+                ]
+            ], 
+            [
+                "delete", 
+                125, 
+                266
+            ]
+        ]
+    }, 
+    "433-50-a-1-i": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-A": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-B": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-C": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p2": {
+        "op": "deleted"
+    }, 
+    "433-51": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    25
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "Public funds as the State share"
+                ]
+            ], 
+            [
+                "delete", 
+                29, 
+                62
+            ]
+        ]
+    }, 
+    "433-51-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Public funds may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c)"
+                ]
+            ], 
+            [
+                "delete", 
+                24, 
+                157
+            ]
+        ]
+    }, 
+    "433-51-b": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                4
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "public "
+            ], 
+            [
+                "insert", 
+                14, 
+                "are appropriated directly to the State or local Medicaid agency, or transferred "
+            ], 
+            [
+                [
+                    "delete", 
+                    19, 
+                    64
+                ], 
+                [
+                    "insert", 
+                    19, 
+                    "other public agencies (including Indian tribes)"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    87, 
+                    103
+                ], 
+                [
+                    "insert", 
+                    87, 
+                    "agency and under its administrative control,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    107, 
+                    182
+                ], 
+                [
+                    "insert", 
+                    107, 
+                    "certified by"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    187, 
+                    201
+                ], 
+                [
+                    "insert", 
+                    187, 
+                    "contributing public"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    209, 
+                    216
+                ], 
+                [
+                    "insert", 
+                    209, 
+                    "as representing expenditures eligible for FFP"
+                ]
+            ], 
+            [
+                "delete", 
+                223, 
+                359
+            ], 
+            [
+                "delete", 
+                372, 
+                560
+            ]
+        ]
+    }, 
+    "433-51-b-1": {
+        "op": "deleted"
+    }, 
+    "433-51-b-2": {
+        "op": "deleted"
+    }, 
+    "433-51-b-3": {
+        "op": "deleted"
+    }, 
+    "433-51-b-4": {
+        "op": "deleted"
+    }, 
+    "433-51-c": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "public "
+            ], 
+            [
+                "delete", 
+                14, 
+                39
+            ]
+        ]
+    }, 
+    "433-Subpart": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                1
+            ], 
+            [
+                "delete", 
+                1, 
+                2
+            ]
+        ], 
+        "op": "modified"
+    }
+}

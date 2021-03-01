@@ -1,0 +1,131 @@
+{
+    "433-10-a": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                41, 
+                59
+            ], 
+            [
+                [
+                    "delete", 
+                    63, 
+                    70
+                ], 
+                [
+                    "insert", 
+                    63, 
+                    "1905(b)"
+                ]
+            ]
+        ]
+    }, 
+    "433-10-c": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                5
+            ], 
+            [
+                "delete", 
+                5, 
+                8
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-c-6": {
+        "op": "deleted"
+    }, 
+    "433-10-c-6-i": {
+        "op": "deleted"
+    }, 
+    "433-10-c-6-i-A": {
+        "op": "deleted"
+    }, 
+    "433-10-c-6-i-B": {
+        "op": "deleted"
+    }, 
+    "433-10-c-6-i-C": {
+        "op": "deleted"
+    }, 
+    "433-10-c-6-i-D": {
+        "op": "deleted"
+    }, 
+    "433-10-c-6-i-E": {
+        "op": "deleted"
+    }, 
+    "433-10-c-6-ii": {
+        "op": "deleted"
+    }, 
+    "433-10-c-7": {
+        "op": "deleted"
+    }, 
+    "433-10-c-7-i": {
+        "op": "deleted"
+    }, 
+    "433-10-c-7-ii": {
+        "op": "deleted"
+    }, 
+    "433-10-c-7-ii-A": {
+        "op": "deleted"
+    }, 
+    "433-10-c-7-ii-B": {
+        "op": "deleted"
+    }, 
+    "433-10-c-7-ii-C": {
+        "op": "deleted"
+    }, 
+    "433-10-c-7-iii": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-i": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-ii": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-ii-A": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-ii-B": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-ii-C": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-ii-D": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-ii-E": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-ii-F": {
+        "op": "deleted"
+    }, 
+    "433-10-c-8-p1": {
+        "op": "deleted"
+    }, 
+    "433-206-h": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    125, 
+                    129
+                ], 
+                [
+                    "insert", 
+                    125, 
+                    "of "
+                ]
+            ]
+        ]
+    }
+}

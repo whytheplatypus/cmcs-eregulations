@@ -1,0 +1,54 @@
+{
+    "433-112-b-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    68
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "peer review"
+                ]
+            ]
+        ]
+    }, 
+    "433-15-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "delete", 
+                9, 
+                10
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-15-b-10": {
+        "op": "deleted"
+    }, 
+    "433-15-b-6-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    78, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "PRO"
+                ]
+            ]
+        ]
+    }
+}

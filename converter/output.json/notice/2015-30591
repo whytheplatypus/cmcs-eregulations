@@ -1,0 +1,997 @@
+{
+    "amendments": [
+        {
+            "authority": "Section 1102 of the Social Security Act, (42 U.S.C. 1302).", 
+            "cfr_part": "433", 
+            "instruction": "6. The authority citation for part 433 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-110-a-2-ii", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "433-110-a-2-iii", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. In \u00a7\u2009433.110, amend paragraph (a)(1) by removing the reference \u201c45 CFR part 74\u201d and adding in its place \u201c45 CFR part 75\u201d, removing paragraphs (a)(2)(ii) and (iii), and removing and reserving paragraph (b)."
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-111-b-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) \u201cMechanized claims processing and information retrieval system\u201d means the system of software and/or hardware used to process claims for medical assistance and to retrieve and produce service utilization and management information required by the Medicaid single state agency and Federal government for program administration and audit purposes. It may include modules of hardware, software, and other technical capabilities that are used by the Medicaid Single State Agency to manage, monitor, and administer the Medicaid enterprise, including transaction processing, information management, and reporting and data analytics.", 
+                                "text": "(1) \u201cMechanized claims processing and information retrieval system\u201d means the system of software and/or hardware used to process claims for medical assistance and to retrieve and produce service utilization and management information required by the Medicaid single state agency and Federal government for program administration and audit purposes. It may include modules of hardware, software, and other technical capabilities that are used by the Medicaid Single State Agency to manage, monitor, and administer the Medicaid enterprise, including transaction processing, information management, and reporting and data analytics.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b-2-i-A", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "2", 
+                                    "i", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) Required modules specified by the Secretary.", 
+                                "text": "(A) Required modules specified by the Secretary.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b-2-i-B", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "2", 
+                                    "i", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) Required changes to the system or required module that are specified by the Secretary.", 
+                                "text": "(B) Required changes to the system or required module that are specified by the Secretary.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b-2-i-C", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "2", 
+                                    "i", 
+                                    "C"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(C) Approved enhancements to the system or module.", 
+                                "text": "(C) Approved enhancements to the system or module.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b-2-i", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-111-b-2-i-A", 
+                                    "433-111-b-2-i-B", 
+                                    "433-111-b-2-i-C"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "2", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) The system consists of\u2014", 
+                                "text": "(i) The system consists of\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b-2-ii-A", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "2", 
+                                    "ii", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) An Eligibility and Enrollment (E&E) System which is used to process applications from Medicaid or CHIP applicants and beneficiaries to determine eligibility for enrollment in the Medicaid or CHIP programs, as well as change in circumstance updates and renewals; and", 
+                                "text": "(A) An Eligibility and Enrollment (E&E) System which is used to process applications from Medicaid or CHIP applicants and beneficiaries to determine eligibility for enrollment in the Medicaid or CHIP programs, as well as change in circumstance updates and renewals; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b-2-ii-B", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "2", 
+                                    "ii", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) A Medicaid Management Information System (MMIS) which is used to process claims for Medicaid payment from providers of medical care and services furnished to beneficiaries under the medical assistance program and to perform other functions necessary for economic and efficient operations, management, monitoring, and administration of the Medicaid program. The pertinent business areas are those included in the MMIS Certification Toolkit, and they may be applicable to Fee-For-Service, Managed Care, or an Administrative Services Organization (ASO) model.", 
+                                "text": "(B) A Medicaid Management Information System (MMIS) which is used to process claims for Medicaid payment from providers of medical care and services furnished to beneficiaries under the medical assistance program and to perform other functions necessary for economic and efficient operations, management, monitoring, and administration of the Medicaid program. The pertinent business areas are those included in the MMIS Certification Toolkit, and they may be applicable to Fee-For-Service, Managed Care, or an Administrative Services Organization (ASO) model.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b-2-ii", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-111-b-2-ii-A", 
+                                    "433-111-b-2-ii-B"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "2", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) A \u201cMechanized claims processing and information retrieval system\u201d include\u2014s\u2014", 
+                                "text": "(ii) A \u201cMechanized claims processing and information retrieval system\u201d include\u2014s\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-111-b-2-i", 
+                                    "433-111-b-2-ii"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) \u201cMechanized claims processing and information retrieval system\u201d includes a \u201cSystem of Systems.\u201d Under this definition all modules or systems developed to support a Medicaid Management Information System (MMIS) and Eligibility and Enrollment (E&E) may be implemented as discrete, independent, interoperable elements. Use of a System of Systems requires interoperability between the systems.", 
+                                "text": "(2) \u201cMechanized claims processing and information retrieval system\u201d includes a \u201cSystem of Systems.\u201d Under this definition all modules or systems developed to support a Medicaid Management Information System (MMIS) and Eligibility and Enrollment (E&E) may be implemented as discrete, independent, interoperable elements. Use of a System of Systems requires interoperability between the systems.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-111-b-1", 
+                                    "433-111-b-2"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) \u201cMechanized claims processing and information retrieval system\u201d means:", 
+                                "text": "(b) \u201cMechanized claims processing and information retrieval system\u201d means:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-d", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) \u201cOpen source\u201d means software that can be used freely, changed, and shared (in modified or unmodified form) by anyone. Open source software is distributed under Open Source Initiative-approved licenses that comply with an open source framework that allows for free redistribution, provision of the source code, allowance for modifications and derived works, free and open distribution of licenses without restrictions and licenses that are technology-neutral.", 
+                                "text": "(d) \u201cOpen source\u201d means software that can be used freely, changed, and shared (in modified or unmodified form) by anyone. Open source software is distributed under Open Source Initiative-approved licenses that comply with an open source framework that allows for free redistribution, provision of the source code, allowance for modifications and derived works, free and open distribution of licenses without restrictions and licenses that are technology-neutral.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-e", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "e"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(e) \u201cProprietary\u201d means a closed source product licensed under exclusive legal right of the copyright holder with the intent that the licensee is given the right to use the software only under certain conditions, and restricted from other uses, such as modification, sharing, studying, redistribution, or reverse engineering.", 
+                                "text": "(e) \u201cProprietary\u201d means a closed source product licensed under exclusive legal right of the copyright holder with the intent that the licensee is given the right to use the software only under certain conditions, and restricted from other uses, such as modification, sharing, studying, redistribution, or reverse engineering.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-f", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "f"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(f) \u201cService\u201d means a self-contained unit of functionality that is a discretely invokable operation. Services can be combined to provide the functionality of a large software application.", 
+                                "text": "(f) \u201cService\u201d means a self-contained unit of functionality that is a discretely invokable operation. Services can be combined to provide the functionality of a large software application.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-g", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "g"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(g) \u201cShared Service\u201d means the use of a service, including SaaS, by one part of an organization or group, including states, where that service is also made available to other entities of the organization, group or states. Thus the funding and resourcing of the service is shared and the providing department effectively becomes an internal service provider.", 
+                                "text": "(g) \u201cShared Service\u201d means the use of a service, including SaaS, by one part of an organization or group, including states, where that service is also made available to other entities of the organization, group or states. Thus the funding and resourcing of the service is shared and the providing department effectively becomes an internal service provider.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-h", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "h"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(h) \u201cModule\u201d means a packaged, functional business process or set of processes implemented through software, data, and interoperable interfaces that are enabled through design principles in which functions of a complex system are partitioned into discrete, scalable, reusable components.", 
+                                "text": "(h) \u201cModule\u201d means a packaged, functional business process or set of processes implemented through software, data, and interoperable interfaces that are enabled through design principles in which functions of a complex system are partitioned into discrete, scalable, reusable components.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) \u201cCommercial Off the Shelf\u201d (COTS) software means specialized software (which could be a system, subsystem or module) designed for specific applications that is available for sale or lease to other users in the commercial marketplace, and that can be used with little or no modification.", 
+                                "text": "(i) \u201cCommercial Off the Shelf\u201d (COTS) software means specialized software (which could be a system, subsystem or module) designed for specific applications that is available for sale or lease to other users in the commercial marketplace, and that can be used with little or no modification.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-111-j", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "j"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(j) \u201cSoftware-as-a-Service\u201d (SaaS) means a software delivery model in which software is managed and licensed by its vendor-owner on a pay-for-use or subscription basis, centrally hosted, on-demand, and common to all users.", 
+                                "text": "(j) \u201cSoftware-as-a-Service\u201d (SaaS) means a software delivery model in which software is managed and licensed by its vendor-owner on a pay-for-use or subscription basis, centrally hosted, on-demand, and common to all users.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "3. Section 433.111 is amended by revising paragraph (b) and adding paragraphs (d) through (j) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-112", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[title]", 
+                            "node": {
+                                "child_labels": [
+                                    "433-112-b", 
+                                    "433-112-c"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "112"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 433.112 FFP for design, development, installation or enhancement of mechanized processing and information retrieval systems."
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[text]", 
+                            "node": {
+                                "child_labels": [
+                                    "433-112-b-12", 
+                                    "433-112-b-16", 
+                                    "433-112-b-17", 
+                                    "433-112-b-18", 
+                                    "433-112-b-19", 
+                                    "433-112-b-20", 
+                                    "433-112-b-21", 
+                                    "433-112-b-22"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) CMS will approve the E&E or claims system described in an APD if certain conditions are met. The conditions that a system must meet are:", 
+                                "text": "(b) CMS will approve the E&E or claims system described in an APD if certain conditions are met. The conditions that a system must meet are:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-12", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "12"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(12) The agency ensures alignment with, and incorporation of, industry standards adopted by the Office of the National Coordinator for Health IT in accordance with 45 CFR part 170, subpart B: The HIPAA privacy, security and transaction standards; accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards adopted by the Secretary under section 1104 of the Affordable Care Act; and standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.", 
+                                "text": "(12) The agency ensures alignment with, and incorporation of, industry standards adopted by the Office of the National Coordinator for Health IT in accordance with 45 CFR part 170, subpart B: The HIPAA privacy, security and transaction standards; accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards adopted by the Secretary under section 1104 of the Affordable Care Act; and standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-16", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "16"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(16) The system supports seamless coordination and integration with the Marketplace, the Federal Data Services Hub, and allows interoperability with health information exchanges, public health agencies, human services programs, and community organizations providing outreach and enrollment assistance services as applicable.", 
+                                "text": "(16) The system supports seamless coordination and integration with the Marketplace, the Federal Data Services Hub, and allows interoperability with health information exchanges, public health agencies, human services programs, and community organizations providing outreach and enrollment assistance services as applicable.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-c-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "c", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) FFP is available at 90 percent of a State's expenditures for the design, development, installation or enhancement of an E&E system that meets the requirements of this subpart and only for costs incurred for goods and services provided on or after April 19, 2011.", 
+                                "text": "(1) FFP is available at 90 percent of a State's expenditures for the design, development, installation or enhancement of an E&E system that meets the requirements of this subpart and only for costs incurred for goods and services provided on or after April 19, 2011.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-c-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "c", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Design, development, installation, or enhancement costs include costs for initial licensing of commercial off the shelf (COTS) software, and the minimum necessary costs to analyze the suitability of COTS software, install, configure and integrate the COTS software, and modify non-COTS software to ensure coordination of operations. The nature and extent of such costs must be expressly described in the approved APD.", 
+                                "text": "(2) Design, development, installation, or enhancement costs include costs for initial licensing of commercial off the shelf (COTS) software, and the minimum necessary costs to analyze the suitability of COTS software, install, configure and integrate the COTS software, and modify non-COTS software to ensure coordination of operations. The nature and extent of such costs must be expressly described in the approved APD.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-112-c-1", 
+                                    "433-112-c-2"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c)", 
+                                "text": "(c)", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-17", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "17"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(17) For E&E systems, the State must have delivered acceptable MAGI-based system functionality, demonstrated by performance testing and results based on critical success factors, with limited mitigations and workarounds.", 
+                                "text": "(17) For E&E systems, the State must have delivered acceptable MAGI-based system functionality, demonstrated by performance testing and results based on critical success factors, with limited mitigations and workarounds.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-18", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "18"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(18) The State must submit plans that contain strategies for reducing the operational consequences of failure to meet applicable requirements for all major milestones and functionality.", 
+                                "text": "(18) The State must submit plans that contain strategies for reducing the operational consequences of failure to meet applicable requirements for all major milestones and functionality.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-19", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "19"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(19) The agency, in writing through the APD, must identify key state personnel by name, type and time commitment assigned to each project.", 
+                                "text": "(19) The agency, in writing through the APD, must identify key state personnel by name, type and time commitment assigned to each project.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-20", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "20"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(20) Systems and modules developed, installed or improved with 90 percent match must include documentation of components and procedures such that the systems could be operated by a variety of contractors or other users.", 
+                                "text": "(20) Systems and modules developed, installed or improved with 90 percent match must include documentation of components and procedures such that the systems could be operated by a variety of contractors or other users.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-21", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "21"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(21) For software systems and modules developed, installed or improved with 90 percent match, the State must consider strategies to minimize the costs and difficulty of operating the software on alternate hardware or operating systems.", 
+                                "text": "(21) For software systems and modules developed, installed or improved with 90 percent match, the State must consider strategies to minimize the costs and difficulty of operating the software on alternate hardware or operating systems.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-22", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "22"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(22) Other conditions for compliance with existing statutory and regulatory requirements, issued through formal guidance procedures, determined by the Secretary to be necessary to update and ensure proper implementation of those existing requirements.", 
+                                "text": "(22) Other conditions for compliance with existing statutory and regulatory requirements, issued through formal guidance procedures, determined by the Secretary to be necessary to update and ensure proper implementation of those existing requirements.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "4. Section 433.112 is amended by revising the section heading and paragraphs (b) introductory text, (b)(12) and (16), and (c) and adding paragraphs (b)(17) through (22) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-116-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "116", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) CMS will approve enhanced FFP for system operations if the conditions specified in paragraphs (c) through (i) of this section are met.", 
+                                "text": "(b) CMS will approve enhanced FFP for system operations if the conditions specified in paragraphs (c) through (i) of this section are met.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-116-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "116", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) The conditions of \u00a7\u2009433.112(b)(1) through (22) must be met at the time of approval.", 
+                                "text": "(c) The conditions of \u00a7\u2009433.112(b)(1) through (22) must be met at the time of approval.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-116-j", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "116", 
+                                    "j"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(j) Beginning, and no earlier than, April 19, 2011, FFP is available at 75 percent of a State's expenditures for the operation of an E&E system that meets the requirements of this subpart. FFP is not available for E&E systems that do not meet the standards and conditions.", 
+                                "text": "(j) Beginning, and no earlier than, April 19, 2011, FFP is available at 75 percent of a State's expenditures for the operation of an E&E system that meets the requirements of this subpart. FFP is not available for E&E systems that do not meet the standards and conditions.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. Section 433.116 is amended by revising paragraphs (b), (c), and (j) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-119-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) The system meets the requirements of \u00a7\u2009433.112(b)(1), (3), (4), and (7) through (22).", 
+                                "text": "(1) The system meets the requirements of \u00a7\u2009433.112(b)(1), (3), (4), and (7) through (22).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "6. Section 433.119 is amended by revising paragraph (a)(1) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-120-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "120", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) If CMS determines after the reapproval review that the system no longer meets the conditions for reapproval in \u00a7\u2009433.119, CMS may reduce FFP for certain expenditures for system operations.", 
+                                "text": "(a) If CMS determines after the reapproval review that the system no longer meets the conditions for reapproval in \u00a7\u2009433.119, CMS may reduce FFP for certain expenditures for system operations.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-120-b-p1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "120", 
+                                    "b", 
+                                    "p1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "For the reasons set forth in the preamble, the Department of Health and Human Services amends 45 CFR part 95 as set forth below:", 
+                                "text": "For the reasons set forth in the preamble, the Department of Health and Human Services amends 45 CFR part 95 as set forth below:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-120-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-120-b-p1"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "120", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) CMS may reduce FFP from 75 percent to 50 percent for expenditures related to the operations of non-compliant functionality or system components.", 
+                                "text": "(b) CMS may reduce FFP from 75 percent to 50 percent for expenditures related to the operations of non-compliant functionality or system components.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-120", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-120-a", 
+                                    "433-120-b"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "120"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 433.120 Procedures for reduction of FFP after reapproval review."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "7. Section 433.120 is revised to read as follows:"
+        }, 
+        {
+            "authority": "5 U.S.C 301, 42 U.S.C. 622(b), 629b(a), 652(a), 652(d), 654A, 671(a), 1302, and 1396a(a).", 
+            "cfr_part": "95", 
+            "instruction": "8. The authority citation for part 95 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "95", 
+            "changes": [
+                [
+                    "95-611-a-2-i", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "95", 
+                                    "611", 
+                                    "a", 
+                                    "2", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) If authorized by \u00a7\u2009205.35 of this title and part 307 of this title, regardless of the acquisition cost.", 
+                                "text": "(i) If authorized by \u00a7\u2009205.35 of this title and part 307 of this title, regardless of the acquisition cost.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "95-611-a-2-ii", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "95", 
+                                    "611", 
+                                    "a", 
+                                    "2", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) If authorized by 42 CFR part 433, subpart C, if the contract is anticipated to or will exceed $500,000.", 
+                                "text": "(ii) If authorized by 42 CFR part 433, subpart C, if the contract is anticipated to or will exceed $500,000.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "95-611-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "95-611-a-2-i", 
+                                    "95-611-a-2-ii"
+                                ], 
+                                "label": [
+                                    "95", 
+                                    "611", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) A State must obtain prior approval from the Department which is reflected in a record, as specified in paragraph (b) of this section, when the State plans to acquire ADP equipment or services with proposed FFP at the enhanced matching rate subject to one of the following:", 
+                                "text": "(2) A State must obtain prior approval from the Department which is reflected in a record, as specified in paragraph (b) of this section, when the State plans to acquire ADP equipment or services with proposed FFP at the enhanced matching rate subject to one of the following:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "9. Section 95.611 is amended by revising paragraph (a)(2) to read as follows:"
+        }
+    ], 
+    "cfr_parts": [
+        "433"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2392-F"
+    ], 
+    "document_number": "2015-30591", 
+    "effective_on": "2016-01-01", 
+    "footnotes": {}, 
+    "fr_citation": "80 FR 75817", 
+    "fr_url": "https://www.federalregister.gov/documents/2015/12/04/2015-30591/medicaid-program-mechanized-claims-processing-and-information-retrieval-systems-9010", 
+    "fr_volume": 80, 
+    "meta": {
+        "start_page": 75817
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES", 
+    "primary_docket": null, 
+    "publication_date": "2015-12-04", 
+    "regulation_id_numbers": [
+        "0938-AS53"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Mechanized Claims Processing and Information Retrieval Systems (90/10)", 
+    "versions": {
+        "433": {
+            "left": "2013-13151", 
+            "right": "2015-30591"
+        }
+    }
+}

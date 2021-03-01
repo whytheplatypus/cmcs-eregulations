@@ -1,0 +1,3458 @@
+{
+    "433-10-c-5-v": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-10-c-5-v-p1"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-c-5-v-p1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "v", 
+                "p1"
+            ], 
+            "node_type": "extract", 
+            "tagged_text": "(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program)", 
+            "text": "(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program)", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-110-a", 
+                    "433-110-b"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-110-a": {
+        "node": {
+            "child_labels": [
+                "433-110-a-1", 
+                "433-110-a-2"
+            ], 
+            "label": [
+                "433", 
+                "110", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) This subpart implements the following sections of the Act:", 
+            "text": "(a) This subpart implements the following sections of the Act:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Section 1903(a)(3) of the Act, which provides for FFP in State expenditures for the design, development, or installation of mechanized claims processing and information retrieval systems and for the operation of certain systems. Additional HHS regulations and CMS procedures for implementing these regulations are in 45 CFR part 74, 45 CFR part 95, subpart F, and part 11, State Medicaid Manual; and", 
+            "text": "(1) Section 1903(a)(3) of the Act, which provides for FFP in State expenditures for the design, development, or installation of mechanized claims processing and information retrieval systems and for the operation of certain systems. Additional HHS regulations and CMS procedures for implementing these regulations are in 45 CFR part 74, 45 CFR part 95, subpart F, and part 11, State Medicaid Manual; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2": {
+        "node": {
+            "child_labels": [
+                "433-110-a-2-i", 
+                "433-110-a-2-ii", 
+                "433-110-a-2-iii"
+            ], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Section 1903(r) of the Act, which\u2014", 
+            "text": "(2) Section 1903(r) of the Act, which\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) Requires reductions in FFP otherwise due a State under section 1903(a) if a State fails to meet certain deadlines for operating a mechanized claims processing and information retrieval system or if the system fails to meet certain conditions of approval or conditions of reapproval;", 
+            "text": "(i) Requires reductions in FFP otherwise due a State under section 1903(a) if a State fails to meet certain deadlines for operating a mechanized claims processing and information retrieval system or if the system fails to meet certain conditions of approval or conditions of reapproval;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) Requires a Federal performance review at least every three years of the mechanized claims processing and information retrieval systems; and", 
+            "text": "(ii) Requires a Federal performance review at least every three years of the mechanized claims processing and information retrieval systems; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2-iii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2", 
+                "iii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(iii) Allows waivers of conditions of approval, conditions of reapproval, and FFP reductions under certain circumstances.", 
+            "text": "(iii) Allows waivers of conditions of approval, conditions of reapproval, and FFP reductions under certain circumstances.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-b": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) The requirements under section 1903(r) of the Act do not apply to Puerto Rico, Guam, the Virgin Islands, American Samoa and the Northern Mariana Islands.", 
+            "text": "(b) The requirements under section 1903(r) of the Act do not apply to Puerto Rico, Guam, the Virgin Islands, American Samoa and the Northern Mariana Islands.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-111": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "delete", 
+                2, 
+                3
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-111-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    245, 
+                    258
+                ], 
+                [
+                    "insert", 
+                    245, 
+                    "recipients"
+                ]
+            ]
+        ]
+    }, 
+    "433-111-b-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                40, 
+                " Eligibility determination systems are not part of mechanized claims processing and information retrieval systems or enhancements to those systems."
+            ]
+        ]
+    }, 
+    "433-111-c": {
+        "op": "deleted"
+    }, 
+    "433-112-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    11
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "FFP is available at the 90 percent rate in State expenditures for the design, development, installation, or enhancement of a mechanized claims processing and information retrieval system only if the APD is approved by CMS prior"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    15, 
+                    28
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "the State's expenditure"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    32, 
+                    107
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "funds"
+                ]
+            ], 
+            [
+                "delete", 
+                112, 
+                314
+            ]
+        ]
+    }, 
+    "433-112-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "delete", 
+                9, 
+                16
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-112-b-10": {
+        "op": "deleted"
+    }, 
+    "433-112-b-11": {
+        "op": "deleted"
+    }, 
+    "433-112-b-12": {
+        "op": "deleted"
+    }, 
+    "433-112-b-13": {
+        "op": "deleted"
+    }, 
+    "433-112-b-14": {
+        "op": "deleted"
+    }, 
+    "433-112-b-15": {
+        "op": "deleted"
+    }, 
+    "433-112-b-16": {
+        "op": "deleted"
+    }, 
+    "433-112-b-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    32, 
+                    45
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "requirements and performance"
+                ]
+            ], 
+            [
+                "delete", 
+                56, 
+                98
+            ]
+        ]
+    }, 
+    "433-112-b-7": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    69, 
+                    78
+                ], 
+                [
+                    "insert", 
+                    69, 
+                    "74.171."
+                ]
+            ]
+        ]
+    }, 
+    "433-112-c": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                4, 
+                "Eligibility determination systems are not part of mechanized claims processing and information retrieval systems and are not eligible for 75 percent "
+            ], 
+            [
+                [
+                    "delete", 
+                    8, 
+                    23
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "under this subpart. These systems are also not eligible for"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    35, 
+                    60
+                ], 
+                [
+                    "insert", 
+                    35, 
+                    "FFP"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    65, 
+                    267
+                ], 
+                [
+                    "insert", 
+                    65, 
+                    "any APD approved"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    274, 
+                    324
+                ], 
+                [
+                    "insert", 
+                    274, 
+                    "November 13, 1989."
+                ]
+            ]
+        ]
+    }, 
+    "433-113": {
+        "node": {
+            "child_labels": [
+                "433-113-a", 
+                "433-113-b", 
+                "433-113-c"
+            ], 
+            "label": [
+                "433", 
+                "113"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "\n        ", 
+            "text": "", 
+            "title": "\u00a7 433.113 Reduction of FFP for failure to operate a system and obtain initial approval."
+        }, 
+        "op": "added"
+    }, 
+    "433-113-a": {
+        "node": {
+            "child_labels": [
+                "433-113-a-1", 
+                "433-113-a-2", 
+                "433-113-a-3"
+            ], 
+            "label": [
+                "433", 
+                "113", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) Except as waived under \u00a7 433.130 or 433.131, FFP will be reduced as specified in paragraph (b) of this section unless the Medicaid agency has in continuous operation a mechanized claims processing and information retrieval system that meets the following conditions:", 
+            "text": "(a) Except as waived under \u00a7 433.130 or 433.131, FFP will be reduced as specified in paragraph (b) of this section unless the Medicaid agency has in continuous operation a mechanized claims processing and information retrieval system that meets the following conditions:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-a-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "a", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) The APD for the system was approved by CMS;", 
+            "text": "(1) The APD for the system was approved by CMS;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-a-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "a", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) The system is operational by September 30, 1985; and", 
+            "text": "(2) The system is operational by September 30, 1985; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-a-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "a", 
+                "3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(3) The system is initially approved by the last day of the fourth quarter that begins after the date the system became operational as determined by CMS.", 
+            "text": "(3) The system is initially approved by the last day of the fourth quarter that begins after the date the system became operational as determined by CMS.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-b": {
+        "node": {
+            "child_labels": [
+                "433-113-b-1", 
+                "433-113-b-2"
+            ], 
+            "label": [
+                "433", 
+                "113", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) CMS will reduce FFP in expenditures for compensation and training of skilled professional medical personnel and support staff under section 1903(a)(2) of the Act, and for general administration under section 1903(a)(7) of the Act, by the following increments applied separately to those two categories of expenditures:", 
+            "text": "(b) CMS will reduce FFP in expenditures for compensation and training of skilled professional medical personnel and support staff under section 1903(a)(2) of the Act, and for general administration under section 1903(a)(7) of the Act, by the following increments applied separately to those two categories of expenditures:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-b-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "b", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Five percentage points for the first two quarters beginning after a deadline in paragraph (a) of this section;", 
+            "text": "(1) Five percentage points for the first two quarters beginning after a deadline in paragraph (a) of this section;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-b-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "b", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) An additional five percentage points during each additional two-quarter period, through the quarter in which the State achieves compliance with the conditions for initial operation or initial approval of an operating system. FFP reductions will not exceed 25 percentage points for each type of reduction.", 
+            "text": "(2) An additional five percentage points during each additional two-quarter period, through the quarter in which the State achieves compliance with the conditions for initial operation or initial approval of an operating system. FFP reductions will not exceed 25 percentage points for each type of reduction.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-c": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) The amount of FFP (determined under section 1903(a)(3)(B)) that would be available retroactively for operating a system that later receives initial approval will be reduced by CMS by the same percentage points for the identical periods of time described in subparagraph (b)(1) of this section, until the system is initially approved. No reduction will be made after the first quarter during which the system is initially approved.", 
+            "text": "(c) The amount of FFP (determined under section 1903(a)(3)(B)) that would be available retroactively for operating a system that later receives initial approval will be reduced by CMS by the same percentage points for the identical periods of time described in subparagraph (b)(1) of this section, until the system is initially approved. No reduction will be made after the first quarter during which the system is initially approved.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-114-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    150, 
+                    154
+                ], 
+                [
+                    "insert", 
+                    150, 
+                    "(h)."
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                35, 
+                "or determines that "
+            ], 
+            [
+                "insert", 
+                39, 
+                "system met requirements for initial approval on a date later than the date required under \u00a7 433.113(a)(3), the "
+            ], 
+            [
+                [
+                    "delete", 
+                    51, 
+                    92
+                ], 
+                [
+                    "insert", 
+                    51, 
+                    "include\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    58, 
+                    63
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "made; and"
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    104, 
+                    116
+                ], 
+                [
+                    "insert", 
+                    104, 
+                    "disallowance,"
+                ]
+            ]
+        ]
+    }, 
+    "433-116": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                8
+            ], 
+            [
+                "delete", 
+                8, 
+                10
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-116-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    15, 
+                    45
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "42 CFR 433.113(c),"
+                ]
+            ]
+        ]
+    }, 
+    "433-116-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    96, 
+                    99
+                ], 
+                [
+                    "insert", 
+                    96, 
+                    "(h)"
+                ]
+            ]
+        ]
+    }, 
+    "433-116-i": {
+        "op": "deleted"
+    }, 
+    "433-116-j": {
+        "op": "deleted"
+    }, 
+    "433-117-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    39, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    39, 
+                    "conditions of initial approval of a mechanized claims processing"
+                ]
+            ], 
+            [
+                "delete", 
+                53, 
+                122
+            ]
+        ]
+    }, 
+    "433-117-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    137, 
+                    141
+                ], 
+                [
+                    "insert", 
+                    137, 
+                    "(h),"
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    8, 
+                    28
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "will review at least once every three years"
+                ]
+            ], 
+            [
+                "insert", 
+                86, 
+                "and reapprove it for FFP at 75 percent "
+            ], 
+            [
+                "delete", 
+                89, 
+                145
+            ], 
+            [
+                "delete", 
+                175, 
+                189
+            ]
+        ]
+    }, 
+    "433-119-a-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    37
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "conditions"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    43, 
+                    57
+                ], 
+                [
+                    "insert", 
+                    43, 
+                    "433.112(b) (1),"
+                ]
+            ], 
+            [
+                "insert", 
+                68, 
+                "and "
+            ], 
+            [
+                [
+                    "delete", 
+                    80, 
+                    101
+                ], 
+                [
+                    "insert", 
+                    80, 
+                    "(9)."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    61, 
+                    65
+                ], 
+                [
+                    "insert", 
+                    61, 
+                    "(h)."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a-3": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    47
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "performance standards for reapproval"
+                ]
+            ], 
+            [
+                "delete", 
+                52, 
+                93
+            ]
+        ]
+    }, 
+    "433-119-a-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    32
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Automated eligibility determination systems approved or operating on or before November 13, 1989, will not qualify for FFP at 75 percent"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    36, 
+                    171
+                ], 
+                [
+                    "insert", 
+                    36, 
+                    "expenditures after November 13, 1989."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "CMS will issue to each Medicaid agency, by"
+                ]
+            ], 
+            [
+                "insert", 
+                25, 
+                "end of the first quarter after the "
+            ], 
+            [
+                [
+                    "delete", 
+                    32, 
+                    72
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "period, a written notice informing the agency whether its system is reapproved or disapproved. If the system is disapproved, the notice"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    78, 
+                    274
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "also include\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    44, 
+                    70
+                ], 
+                [
+                    "insert", 
+                    44, 
+                    "operations, and the percentage"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    74, 
+                    101
+                ], 
+                [
+                    "insert", 
+                    74, 
+                    "which it is reduced,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    121, 
+                    210
+                ], 
+                [
+                    "insert", 
+                    121, 
+                    "next calender quarter;"
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    58, 
+                    63
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "made; and"
+                ]
+            ]
+        ]
+    }, 
+    "433-120-b": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-120-b-1", 
+                    "433-120-b-2", 
+                    "433-120-b-3", 
+                    "433-120-b-4"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                81, 
+                "no more than 70 percent and no less than "
+            ], 
+            [
+                [
+                    "delete", 
+                    84, 
+                    92
+                ], 
+                [
+                    "insert", 
+                    84, 
+                    "percent; however, CMS will not reduce FFP by more than 10 percentage points in any four-quarter period. The percentage to which the FFP is reduced will depend primarily on the following criteria:"
+                ]
+            ]
+        ]
+    }, 
+    "433-120-b-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "120", 
+                "b", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) The number of conditions judged unsatisfactory;", 
+            "text": "(1) The number of conditions judged unsatisfactory;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-120-b-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "120", 
+                "b", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) The extent to which conditions were not met;", 
+            "text": "(2) The extent to which conditions were not met;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-120-b-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "120", 
+                "b", 
+                "3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(3) The significance of the unsatisfactory conditions in overall mechanized claims processing and information retrieval system operations; and", 
+            "text": "(3) The significance of the unsatisfactory conditions in overall mechanized claims processing and information retrieval system operations; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-120-b-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "120", 
+                "b", 
+                "4"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(4) The actual and potential program impact attributable to the unsatisfactory conditions.", 
+            "text": "(4) The actual and potential program impact attributable to the unsatisfactory conditions.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-121-a": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                8, 
+                23
+            ], 
+            [
+                [
+                    "delete", 
+                    41, 
+                    44
+                ], 
+                [
+                    "insert", 
+                    41, 
+                    "to"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    89, 
+                    97
+                ], 
+                [
+                    "insert", 
+                    89, 
+                    "part 16,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    162, 
+                    172
+                ], 
+                [
+                    "insert", 
+                    162, 
+                    "operation"
+                ]
+            ], 
+            [
+                "insert", 
+                219, 
+                " If the Board finds such a disallowance to be appropriate, the discretionary determination to reduce FFP by a particular percentage amount (instead of by a lesser percentage) is not subject to review by the Board unless the percentage reduction exceeds the range authorized by section 1903(r)(4)(B) of the Act."
+            ]
+        ]
+    }, 
+    "433-130": {
+        "node": {
+            "child_labels": [
+                "433-130-a", 
+                "433-130-b", 
+                "433-130-c", 
+                "433-130-d"
+            ], 
+            "label": [
+                "433", 
+                "130"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "\n        ", 
+            "text": "", 
+            "title": "\u00a7 433.130 Waiver of conditions of initial operation and approval."
+        }, 
+        "op": "added"
+    }, 
+    "433-130-a": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) CMS will waive requirements for initial operation and approval of systems under \u00a7 433.113 for a State meeting the requirements of paragraph (b) of this section and that had a 1976 population of less than one million and made total Federal and State Medicaid expenditures of less than $100 million in fiscal year 1976. Population figures are those reported by the Bureau of the Census. Expenditures for fiscal year 1976 are those reported by the State for that year.", 
+            "text": "(a) CMS will waive requirements for initial operation and approval of systems under \u00a7 433.113 for a State meeting the requirements of paragraph (b) of this section and that had a 1976 population of less than one million and made total Federal and State Medicaid expenditures of less than $100 million in fiscal year 1976. Population figures are those reported by the Bureau of the Census. Expenditures for fiscal year 1976 are those reported by the State for that year.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-b": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) To be eligible for this waiver, the agency must submit its reasons to CMS in writing and demonstrate to CMS's satisfaction that a system will not significantly improve the efficiency of the administration of the State plan.", 
+            "text": "(b) To be eligible for this waiver, the agency must submit its reasons to CMS in writing and demonstrate to CMS's satisfaction that a system will not significantly improve the efficiency of the administration of the State plan.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-c": {
+        "node": {
+            "child_labels": [
+                "433-130-c-1", 
+                "433-130-c-2"
+            ], 
+            "label": [
+                "433", 
+                "130", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) If CMS denies the waiver request, the notice of denial will include\u2014", 
+            "text": "(c) If CMS denies the waiver request, the notice of denial will include\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-c-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "c", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) The findings of fact upon which the denial was made; and", 
+            "text": "(1) The findings of fact upon which the denial was made; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-c-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "c", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) The procedures for appeal of the denial.", 
+            "text": "(2) The procedures for appeal of the denial.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-d": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "d"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(d) If CMS determines, after granting a waiver, that a system would significantly improve the administration of the State Medicaid program, CMS may withdraw the waiver and require that a State obtain initial approval of a system within two years of the date of waiver withdrawal.", 
+            "text": "(d) If CMS determines, after granting a waiver, that a system would significantly improve the administration of the State Medicaid program, CMS may withdraw the waiver and require that a State obtain initial approval of a system within two years of the date of waiver withdrawal.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-131": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "delete", 
+                2, 
+                3
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-131-c": {
+        "op": "deleted"
+    }, 
+    "433-138-b-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    167, 
+                    178
+                ], 
+                [
+                    "insert", 
+                    167, 
+                    "recipient"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    553, 
+                    569
+                ], 
+                [
+                    "insert", 
+                    553, 
+                    "recipient, the"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-b-2-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    38, 
+                    49
+                ], 
+                [
+                    "insert", 
+                    38, 
+                    "recipient"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-b-3-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    38, 
+                    49
+                ], 
+                [
+                    "insert", 
+                    38, 
+                    "recipient"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    313, 
+                    326
+                ], 
+                [
+                    "insert", 
+                    313, 
+                    "recipients"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-d-1-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    62
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "recipients"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-d-1-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    178, 
+                    191
+                ], 
+                [
+                    "insert", 
+                    178, 
+                    "recipients"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-d-3": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    168, 
+                    181
+                ], 
+                [
+                    "insert", 
+                    168, 
+                    "recipients"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-d-4-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    115, 
+                    128
+                ], 
+                [
+                    "insert", 
+                    115, 
+                    "recipients"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    265, 
+                    278
+                ], 
+                [
+                    "insert", 
+                    265, 
+                    "recipients"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-d-4-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    96, 
+                    109
+                ], 
+                [
+                    "insert", 
+                    96, 
+                    "recipients"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-e-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    151, 
+                    164
+                ], 
+                [
+                    "insert", 
+                    151, 
+                    "recipients"
+                ]
+            ]
+        ]
+    }, 
+    "433-139-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    226, 
+                    239
+                ], 
+                [
+                    "insert", 
+                    226, 
+                    "recipient's"
+                ]
+            ]
+        ]
+    }, 
+    "433-145-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    98, 
+                    109
+                ], 
+                [
+                    "insert", 
+                    98, 
+                    "recipient"
+                ]
+            ]
+        ]
+    }, 
+    "433-145-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    102, 
+                    113
+                ], 
+                [
+                    "insert", 
+                    102, 
+                    "recipient"
+                ]
+            ]
+        ]
+    }, 
+    "433-148-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    55, 
+                    66
+                ], 
+                [
+                    "insert", 
+                    55, 
+                    "recipient"
+                ]
+            ]
+        ]
+    }, 
+    "433-154-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    11, 
+                    23
+                ], 
+                [
+                    "insert", 
+                    11, 
+                    "recipient,"
+                ]
+            ]
+        ]
+    }, 
+    "433-202": {
+        "op": "deleted"
+    }, 
+    "433-204": {
+        "op": "deleted"
+    }, 
+    "433-204-a": {
+        "op": "deleted"
+    }, 
+    "433-204-a-1": {
+        "op": "deleted"
+    }, 
+    "433-204-a-2": {
+        "op": "deleted"
+    }, 
+    "433-204-a-3": {
+        "op": "deleted"
+    }, 
+    "433-204-b": {
+        "op": "deleted"
+    }, 
+    "433-204-b-1": {
+        "op": "deleted"
+    }, 
+    "433-204-b-1-i": {
+        "op": "deleted"
+    }, 
+    "433-204-b-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-204-b-1-iii": {
+        "op": "deleted"
+    }, 
+    "433-204-b-2": {
+        "op": "deleted"
+    }, 
+    "433-206": {
+        "op": "deleted"
+    }, 
+    "433-206-a": {
+        "op": "deleted"
+    }, 
+    "433-206-b": {
+        "op": "deleted"
+    }, 
+    "433-206-b-1": {
+        "op": "deleted"
+    }, 
+    "433-206-b-2": {
+        "op": "deleted"
+    }, 
+    "433-206-b-3": {
+        "op": "deleted"
+    }, 
+    "433-206-b-4": {
+        "op": "deleted"
+    }, 
+    "433-206-c": {
+        "op": "deleted"
+    }, 
+    "433-206-c-1": {
+        "op": "deleted"
+    }, 
+    "433-206-c-2": {
+        "op": "deleted"
+    }, 
+    "433-206-c-3": {
+        "op": "deleted"
+    }, 
+    "433-206-c-3-i": {
+        "op": "deleted"
+    }, 
+    "433-206-c-3-ii": {
+        "op": "deleted"
+    }, 
+    "433-206-c-3-iii": {
+        "op": "deleted"
+    }, 
+    "433-206-c-3-iv": {
+        "op": "deleted"
+    }, 
+    "433-206-c-3-v": {
+        "op": "deleted"
+    }, 
+    "433-206-c-3-vi": {
+        "op": "deleted"
+    }, 
+    "433-206-c-4": {
+        "op": "deleted"
+    }, 
+    "433-206-c-4-i": {
+        "op": "deleted"
+    }, 
+    "433-206-c-4-ii": {
+        "op": "deleted"
+    }, 
+    "433-206-c-5": {
+        "op": "deleted"
+    }, 
+    "433-206-c-5-i": {
+        "op": "deleted"
+    }, 
+    "433-206-c-5-ii": {
+        "op": "deleted"
+    }, 
+    "433-206-c-5-iii": {
+        "op": "deleted"
+    }, 
+    "433-206-c-6": {
+        "op": "deleted"
+    }, 
+    "433-206-c-6-i": {
+        "op": "deleted"
+    }, 
+    "433-206-c-6-ii": {
+        "op": "deleted"
+    }, 
+    "433-206-c-7": {
+        "op": "deleted"
+    }, 
+    "433-206-d": {
+        "op": "deleted"
+    }, 
+    "433-206-d-1": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-i": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-ii": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-iii": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-iii-A": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-iii-B": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-iii-B-1": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-iii-B-2": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-iv": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-v": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-vi": {
+        "op": "deleted"
+    }, 
+    "433-206-d-2-vii": {
+        "op": "deleted"
+    }, 
+    "433-206-d-3": {
+        "op": "deleted"
+    }, 
+    "433-206-d-4": {
+        "op": "deleted"
+    }, 
+    "433-206-e": {
+        "op": "deleted"
+    }, 
+    "433-206-e-1": {
+        "op": "deleted"
+    }, 
+    "433-206-e-2": {
+        "op": "deleted"
+    }, 
+    "433-206-e-3": {
+        "op": "deleted"
+    }, 
+    "433-206-e-3-i": {
+        "op": "deleted"
+    }, 
+    "433-206-e-3-ii": {
+        "op": "deleted"
+    }, 
+    "433-206-e-3-iii": {
+        "op": "deleted"
+    }, 
+    "433-206-e-3-iii-A": {
+        "op": "deleted"
+    }, 
+    "433-206-e-3-iii-B": {
+        "op": "deleted"
+    }, 
+    "433-206-e-3-iii-C": {
+        "op": "deleted"
+    }, 
+    "433-206-e-4": {
+        "op": "deleted"
+    }, 
+    "433-206-f": {
+        "op": "deleted"
+    }, 
+    "433-206-f-1": {
+        "op": "deleted"
+    }, 
+    "433-206-f-2": {
+        "op": "deleted"
+    }, 
+    "433-206-f-3": {
+        "op": "deleted"
+    }, 
+    "433-206-g": {
+        "op": "deleted"
+    }, 
+    "433-206-h": {
+        "op": "deleted"
+    }, 
+    "433-206-h-1": {
+        "op": "deleted"
+    }, 
+    "433-206-h-2": {
+        "op": "deleted"
+    }, 
+    "433-206-h-3": {
+        "op": "deleted"
+    }, 
+    "433-206-h-4": {
+        "op": "deleted"
+    }, 
+    "433-206-h-4-i": {
+        "op": "deleted"
+    }, 
+    "433-206-h-4-ii": {
+        "op": "deleted"
+    }, 
+    "433-206-h-4-iii": {
+        "op": "deleted"
+    }, 
+    "433-300-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    12, 
+                    25
+                ], 
+                [
+                    "insert", 
+                    12, 
+                    "1903(d)(2) (C)"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    78, 
+                    84
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "60 days"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    330, 
+                    344
+                ], 
+                [
+                    "insert", 
+                    330, 
+                    "60 days,"
+                ]
+            ]
+        ]
+    }, 
+    "433-302": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    80, 
+                    86
+                ], 
+                [
+                    "insert", 
+                    80, 
+                    "60 days"
+                ]
+            ]
+        ]
+    }, 
+    "433-304": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                1
+            ], 
+            [
+                "insert", 
+                1, 
+                [
+                    "433-304-p969546887"
+                ]
+            ], 
+            [
+                "equal", 
+                1, 
+                2
+            ], 
+            [
+                "delete", 
+                2, 
+                3
+            ], 
+            [
+                "equal", 
+                3, 
+                8
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-304-p3442093961": {
+        "op": "deleted"
+    }, 
+    "433-304-p969546887": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "304", 
+                "p969546887"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "<E T=\"03\">Abuse</E> (in accordance with \u00a7 455.2) means provider practices that are inconsistent with sound fiscal, business, or medical practices, and result in an unnecessary cost to the Medicaid program, or in reimbursement for services that are not medically necessary or that fail to meet professionally recognized standards for health care.", 
+            "text": "Abuse (in accordance with \u00a7 455.2) means provider practices that are inconsistent with sound fiscal, business, or medical practices, and result in an unnecessary cost to the Medicaid program, or in reimbursement for services that are not medically necessary or that fail to meet professionally recognized standards for health care.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-312-a-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                61, 
+                67
+            ], 
+            [
+                [
+                    "delete", 
+                    87, 
+                    93
+                ], 
+                [
+                    "insert", 
+                    87, 
+                    "60 days"
+                ]
+            ]
+        ]
+    }, 
+    "433-312-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "agency must refund the Federal share of overpayments at the end of the 60-day period following discovery in accordance with the requirements of this subpart, whether or not the "
+            ], 
+            [
+                [
+                    "delete", 
+                    14, 
+                    41
+                ], 
+                [
+                    "insert", 
+                    14, 
+                    "has recovered"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    46, 
+                    78
+                ], 
+                [
+                    "insert", 
+                    46, 
+                    "overpayment from"
+                ]
+            ], 
+            [
+                "delete", 
+                83, 
+                245
+            ]
+        ]
+    }, 
+    "433-316-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    94, 
+                    100
+                ], 
+                [
+                    "insert", 
+                    94, 
+                    "60-calendar day"
+                ]
+            ], 
+            [
+                "delete", 
+                116, 
+                120
+            ]
+        ]
+    }, 
+    "433-316-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    54, 
+                    60
+                ], 
+                [
+                    "insert", 
+                    54, 
+                    "fraud or abuse."
+                ]
+            ], 
+            [
+                "insert", 
+                120, 
+                "or abuse "
+            ], 
+            [
+                [
+                    "delete", 
+                    150, 
+                    154
+                ], 
+                [
+                    "insert", 
+                    150, 
+                    "of\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-316-d": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                3
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    32, 
+                    38
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "fraud or abuse. An overpayment that results from fraud or abuse is discovered on the date of the final written notice of the State's overpayment determination that a Medicaid agency official or other State official sends to the provider."
+                ]
+            ]
+        ]
+    }, 
+    "433-316-d-1": {
+        "op": "deleted"
+    }, 
+    "433-316-d-2": {
+        "op": "deleted"
+    }, 
+    "433-316-d-3": {
+        "op": "deleted"
+    }, 
+    "433-316-f": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    103, 
+                    109
+                ], 
+                [
+                    "insert", 
+                    103, 
+                    "60-day"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    361, 
+                    367
+                ], 
+                [
+                    "insert", 
+                    361, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-316-f-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    135, 
+                    141
+                ], 
+                [
+                    "insert", 
+                    135, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-316-f-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    100, 
+                    106
+                ], 
+                [
+                    "insert", 
+                    100, 
+                    "60-day"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    154, 
+                    160
+                ], 
+                [
+                    "insert", 
+                    154, 
+                    "60-day"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    220, 
+                    226
+                ], 
+                [
+                    "insert", 
+                    220, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-316-g": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    129, 
+                    135
+                ], 
+                [
+                    "insert", 
+                    129, 
+                    "60-day"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    183, 
+                    189
+                ], 
+                [
+                    "insert", 
+                    183, 
+                    "60-day"
+                ]
+            ], 
+            [
+                "delete", 
+                214, 
+                229
+            ]
+        ]
+    }, 
+    "433-318-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    246, 
+                    252
+                ], 
+                [
+                    "insert", 
+                    246, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-318-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    135, 
+                    141
+                ], 
+                [
+                    "insert", 
+                    135, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-318-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    114, 
+                    120
+                ], 
+                [
+                    "insert", 
+                    114, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-318-c-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    186, 
+                    192
+                ], 
+                [
+                    "insert", 
+                    186, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-318-d-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    102, 
+                    108
+                ], 
+                [
+                    "insert", 
+                    102, 
+                    "60-day"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    277, 
+                    283
+                ], 
+                [
+                    "insert", 
+                    277, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-318-e": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    44, 
+                    50
+                ], 
+                [
+                    "insert", 
+                    44, 
+                    "60-day"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    408, 
+                    432
+                ], 
+                [
+                    "insert", 
+                    408, 
+                    "433.320."
+                ]
+            ]
+        ]
+    }, 
+    "433-320-a": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                3
+            ], 
+            [
+                "delete", 
+                3, 
+                4
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-320-a-2": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    8, 
+                    14
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "Federal share of overpayments subject to recovery"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    20, 
+                    30
+                ], 
+                [
+                    "insert", 
+                    20, 
+                    "be credited on the Form CMS-64 report submitted for the quarter in which the 60-day period following discovery, established in accordance"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    36, 
+                    108
+                ], 
+                [
+                    "insert", 
+                    36, 
+                    "\u00a7 433.316, ends."
+                ]
+            ]
+        ]
+    }, 
+    "433-320-a-2-i": {
+        "op": "deleted"
+    }, 
+    "433-320-a-2-ii": {
+        "op": "deleted"
+    }, 
+    "433-320-a-4": {
+        "op": "deleted"
+    }, 
+    "433-320-b-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    76, 
+                    78
+                ], 
+                [
+                    "insert", 
+                    76, 
+                    "when"
+                ]
+            ], 
+            [
+                "insert", 
+                83, 
+                "State reports a collection or submits an expenditure claim reduced by a discrete amount to recover an overpayment prior to the "
+            ], 
+            [
+                [
+                    "delete", 
+                    94, 
+                    100
+                ], 
+                [
+                    "insert", 
+                    94, 
+                    "60-day"
+                ]
+            ], 
+            [
+                "delete", 
+                108, 
+                283
+            ]
+        ]
+    }, 
+    "433-320-d": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    18, 
+                    24
+                ], 
+                [
+                    "insert", 
+                    18, 
+                    "60-day"
+                ]
+            ], 
+            [
+                "insert", 
+                147, 
+                "at the end "
+            ], 
+            [
+                "insert", 
+                150, 
+                "the 60-day period following discovery of the overpayment, the agency must refund the Federal share of the overpayment to CMS in accordance with the procedures specified in paragraph (a) of "
+            ], 
+            [
+                "delete", 
+                155, 
+                371
+            ]
+        ]
+    }, 
+    "433-320-f-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    60, 
+                    66
+                ], 
+                [
+                    "insert", 
+                    60, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-320-g-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    89, 
+                    95
+                ], 
+                [
+                    "insert", 
+                    89, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-320-h-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    107, 
+                    113
+                ], 
+                [
+                    "insert", 
+                    107, 
+                    "60-day"
+                ]
+            ]
+        ]
+    }, 
+    "433-322": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    175, 
+                    181
+                ], 
+                [
+                    "insert", 
+                    175, 
+                    "part 74, subpart D."
+                ]
+            ]
+        ], 
+        "title": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    33
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "records."
+                ]
+            ]
+        ]
+    }, 
+    "433-36-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    180, 
+                    193
+                ], 
+                [
+                    "insert", 
+                    180, 
+                    "recipient's"
+                ]
+            ]
+        ]
+    }, 
+    "433-36-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    146, 
+                    157
+                ], 
+                [
+                    "insert", 
+                    146, 
+                    "recipient"
+                ]
+            ]
+        ]
+    }, 
+    "433-36-g-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    250, 
+                    255
+                ], 
+                [
+                    "insert", 
+                    250, 
+                    "when--"
+                ]
+            ]
+        ]
+    }, 
+    "433-38-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    284, 
+                    291
+                ], 
+                [
+                    "insert", 
+                    284, 
+                    "1116(d)"
+                ]
+            ]
+        ]
+    }, 
+    "433-38-b-1": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                3
+            ], 
+            [
+                "delete", 
+                3, 
+                5
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    20, 
+                    23
+                ], 
+                [
+                    "insert", 
+                    20, 
+                    "a"
+                ]
+            ]
+        ]
+    }, 
+    "433-38-b-1-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    47, 
+                    71
+                ], 
+                [
+                    "insert", 
+                    47, 
+                    "45 CFR 74.304"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    79, 
+                    86
+                ], 
+                [
+                    "insert", 
+                    79, 
+                    "State"
+                ]
+            ]
+        ]
+    }, 
+    "433-38-b-1-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    20, 
+                    47
+                ], 
+                [
+                    "insert", 
+                    20, 
+                    "appealed the disallowance to the Grant Appeals Board under 45 CFR Part 16 and has chosen to retain the FFP during the administrative appeals process in accordance with paragraph (c)(2)"
+                ]
+            ], 
+            [
+                "delete", 
+                51, 
+                107
+            ], 
+            [
+                [
+                    "delete", 
+                    112, 
+                    119
+                ], 
+                [
+                    "insert", 
+                    112, 
+                    "section;"
+                ]
+            ], 
+            [
+                "delete", 
+                123, 
+                255
+            ]
+        ]
+    }, 
+    "433-38-b-1-iii": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                1
+            ], 
+            [
+                "delete", 
+                1, 
+                3
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-38-b-1-iii-A": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    7
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "The Board"
+                ]
+            ], 
+            [
+                "insert", 
+                81, 
+                " (B) the agency has withdrawn its appeal on all or part of the disallowance; or (C) the agency has reversed its decision to retain the funds without withdrawing its appeal and the Board upholds all or part of the disallowance."
+            ]
+        ]
+    }, 
+    "433-38-b-1-iii-B": {
+        "op": "deleted"
+    }, 
+    "433-38-b-1-iii-C": {
+        "op": "deleted"
+    }, 
+    "433-38-b-1-iv": {
+        "op": "deleted"
+    }, 
+    "433-38-b-1-v": {
+        "op": "deleted"
+    }, 
+    "433-38-b-1-v-A": {
+        "op": "deleted"
+    }, 
+    "433-38-b-1-v-B": {
+        "op": "deleted"
+    }, 
+    "433-38-b-1-v-C": {
+        "op": "deleted"
+    }, 
+    "433-38-b-3": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    45, 
+                    87
+                ], 
+                [
+                    "insert", 
+                    45, 
+                    "appeal on part of the disallowance and therefore returns only that part of the funds on which it has withdrawn its appeal, any decision to retain"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    91, 
+                    108
+                ], 
+                [
+                    "insert", 
+                    91, 
+                    "return disallowed funds must apply to"
+                ]
+            ], 
+            [
+                "delete", 
+                113, 
+                328
+            ]
+        ]
+    }, 
+    "433-38-c": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                3
+            ], 
+            [
+                "insert", 
+                3, 
+                [
+                    "433-38-c-4"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-38-c-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    31, 
+                    71
+                ], 
+                [
+                    "insert", 
+                    31, 
+                    "appealed a disallowance"
+                ]
+            ], 
+            [
+                "insert", 
+                75, 
+                "the Board and wishes to retain the disallowed funds until the Board issues a final determination, the agency must notify the "
+            ], 
+            [
+                [
+                    "delete", 
+                    79, 
+                    88
+                ], 
+                [
+                    "insert", 
+                    79, 
+                    "Regional Administrator in writing"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    92, 
+                    106
+                ], 
+                [
+                    "insert", 
+                    92, 
+                    "its decision"
+                ]
+            ], 
+            [
+                "delete", 
+                110, 
+                292
+            ]
+        ]
+    }, 
+    "433-38-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    56, 
+                    62
+                ], 
+                [
+                    "insert", 
+                    56, 
+                    "Administrator"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    70, 
+                    72
+                ], 
+                [
+                    "insert", 
+                    70, 
+                    "30"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    198, 
+                    205
+                ], 
+                [
+                    "insert", 
+                    198, 
+                    "notices."
+                ]
+            ]
+        ]
+    }, 
+    "433-38-c-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                28, 
+                "either "
+            ], 
+            [
+                [
+                    "delete", 
+                    66, 
+                    108
+                ], 
+                [
+                    "insert", 
+                    66, 
+                    "appeal on all"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    112, 
+                    125
+                ], 
+                [
+                    "insert", 
+                    112, 
+                    "part of the FFP"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    129, 
+                    136
+                ], 
+                [
+                    "insert", 
+                    129, 
+                    "both,"
+                ]
+            ], 
+            [
+                "delete", 
+                141, 
+                150
+            ]
+        ]
+    }, 
+    "433-38-c-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "38", 
+                "c", 
+                "4"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(4) If the agency does not notify the CMS Regional Administrator within the time limit set forth in paragraph (c)(2) of this section. CMS will recover the amount of the disallowed funds from the next possible Medicaid grant award to the State.", 
+            "text": "(4) If the agency does not notify the CMS Regional Administrator within the time limit set forth in paragraph (c)(2) of this section. CMS will recover the amount of the disallowed funds from the next possible Medicaid grant award to the State.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-38-e-1": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                4
+            ], 
+            [
+                "delete", 
+                4, 
+                6
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-38-e-1-i": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                46, 
+                53
+            ], 
+            [
+                "delete", 
+                57, 
+                166
+            ]
+        ]
+    }, 
+    "433-38-e-1-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                87, 
+                148
+            ], 
+            [
+                [
+                    "delete", 
+                    155, 
+                    157
+                ], 
+                [
+                    "insert", 
+                    155, 
+                    "on all of"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    162, 
+                    168
+                ], 
+                [
+                    "insert", 
+                    162, 
+                    "disallowed funds;"
+                ]
+            ], 
+            [
+                "delete", 
+                171, 
+                240
+            ]
+        ]
+    }, 
+    "433-38-e-1-iii": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    34, 
+                    41
+                ], 
+                [
+                    "insert", 
+                    34, 
+                    "appeal on part of the funds, on (A) the date CMS receives written notice from the agency that it is withdrawing its appeal on a specified part of the disallowed funds"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    46, 
+                    76
+                ], 
+                [
+                    "insert", 
+                    46, 
+                    "the part"
+                ]
+            ], 
+            [
+                "insert", 
+                80, 
+                "which the agency withdraws its appeal; and (B) the date of the final determination by the Board on the "
+            ], 
+            [
+                [
+                    "delete", 
+                    85, 
+                    87
+                ], 
+                [
+                    "insert", 
+                    85, 
+                    "for which"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    92, 
+                    101
+                ], 
+                [
+                    "insert", 
+                    92, 
+                    "agency pursues its appeal; or"
+                ]
+            ]
+        ]
+    }, 
+    "433-38-e-1-iii-A": {
+        "op": "deleted"
+    }, 
+    "433-38-e-1-iii-B": {
+        "op": "deleted"
+    }, 
+    "433-38-e-1-iv": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    5, 
+                    7
+                ], 
+                [
+                    "insert", 
+                    5, 
+                    "The date CMS receives written notice from"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    19, 
+                    50
+                ], 
+                [
+                    "insert", 
+                    19, 
+                    "that it no longer chooses to retain"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    55, 
+                    65
+                ], 
+                [
+                    "insert", 
+                    55, 
+                    "funds."
+                ]
+            ]
+        ]
+    }, 
+    "433-38-e-1-iv-A": {
+        "op": "deleted"
+    }, 
+    "433-38-e-1-iv-B": {
+        "op": "deleted"
+    }, 
+    "433-38-e-1-v": {
+        "op": "deleted"
+    }, 
+    "433-38-e-1-vi": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                23, 
+                "and section 1903(w)(7)(G) "
+            ], 
+            [
+                [
+                    "delete", 
+                    30, 
+                    33
+                ], 
+                [
+                    "insert", 
+                    30, 
+                    "Act,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    40, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    40, 
+                    "require"
+                ]
+            ], 
+            [
+                "delete", 
+                123, 
+                128
+            ], 
+            [
+                [
+                    "delete", 
+                    144, 
+                    155
+                ], 
+                [
+                    "insert", 
+                    144, 
+                    "units of government"
+                ]
+            ]
+        ]
+    }, 
+    "433-51": {
+        "op": "modified", 
+        "title": [
+            [
+                "delete", 
+                9, 
+                16
+            ], 
+            [
+                "insert", 
+                22, 
+                "from units of government "
+            ]
+        ]
+    }, 
+    "433-51-a": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                4, 
+                11
+            ], 
+            [
+                "insert", 
+                17, 
+                "from units of government "
+            ]
+        ]
+    }, 
+    "433-51-b": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-51-b-1", 
+                    "433-51-b-2", 
+                    "433-51-b-3", 
+                    "433-51-b-4"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "funds from units of government are appropriated directly to the State or local Medicaid agency, or are transferred from other units of government (including Indian tribes) to the State or local agency and are under its administrative control, or are certified by the contributing unit of government as representing expenditures eligible for FFP under this section. Certified "
+            ], 
+            [
+                [
+                    "delete", 
+                    15, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "expenditures must be expenditures within the meaning of 45 CFR 95.13 that"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    25, 
+                    49
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "supported by auditable documentation in a form approved by"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    54, 
+                    337
+                ], 
+                [
+                    "insert", 
+                    54, 
+                    "Secretary that, at a minimum\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-51-b-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "51", 
+                "b", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Identifies the relevant category of expenditures under the State plan;", 
+            "text": "(1) Identifies the relevant category of expenditures under the State plan;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51-b-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "51", 
+                "b", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Explains whether the contributing unit of government is within the scope of the exception to limitations on provider-related taxes and donations;", 
+            "text": "(2) Explains whether the contributing unit of government is within the scope of the exception to limitations on provider-related taxes and donations;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51-b-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "51", 
+                "b", 
+                "3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(3) Demonstrates the actual expenditures incurred by the contributing unit of government in providing services to eligible individuals receiving medical assistance or in administration of the State plan; and", 
+            "text": "(3) Demonstrates the actual expenditures incurred by the contributing unit of government in providing services to eligible individuals receiving medical assistance or in administration of the State plan; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51-b-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "51", 
+                "b", 
+                "4"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(4) Is subject to periodic State audit and review.", 
+            "text": "(4) Is subject to periodic State audit and review.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51-c": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                8, 
+                15
+            ], 
+            [
+                "insert", 
+                21, 
+                "from units of government "
+            ]
+        ]
+    }, 
+    "433-56-a-3": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    87, 
+                    131
+                ], 
+                [
+                    "insert", 
+                    87, 
+                    "the mentally retarded);"
+                ]
+            ]
+        ]
+    }, 
+    "433-56-a-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    44, 
+                    87
+                ], 
+                [
+                    "insert", 
+                    44, 
+                    "the mentally retarded,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    153, 
+                    196
+                ], 
+                [
+                    "insert", 
+                    153, 
+                    "the mentally retarded,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    350, 
+                    365
+                ], 
+                [
+                    "insert", 
+                    350, 
+                    "ICF/MRs"
+                ]
+            ]
+        ]
+    }, 
+    "433-Subpart-C": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                3
+            ], 
+            [
+                "insert", 
+                3, 
+                [
+                    "433-113"
+                ]
+            ], 
+            [
+                "equal", 
+                3, 
+                12
+            ], 
+            [
+                "insert", 
+                12, 
+                [
+                    "433-130"
+                ]
+            ], 
+            [
+                "equal", 
+                12, 
+                13
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-Subpart-E": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                3
+            ]
+        ], 
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    0, 
+                    96
+                ], 
+                [
+                    "insert", 
+                    0, 
+                    "[Reserved]"
+                ]
+            ]
+        ]
+    }
+}

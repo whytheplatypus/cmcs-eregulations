@@ -1,0 +1,14 @@
+{
+    "433-10-b-p1-p1": [
+        {
+            "locations": [
+                0, 
+                1
+            ], 
+            "superscript_data": {
+                "superscript": "2"
+            }, 
+            "text": "^{2}"
+        }
+    ]
+}

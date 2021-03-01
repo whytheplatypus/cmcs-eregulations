@@ -1,0 +1,2772 @@
+{
+    "433-10-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "delete", 
+                2, 
+                3
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-b-p1": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-10-b-p1-p1", 
+                    "433-10-b-p1-p2"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                0, 
+                92
+            ]
+        ]
+    }, 
+    "433-10-b-p1-p1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "b", 
+                "p1", 
+                "p1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "State Share = [(State per capita income) <SU>2</SU>/(National per capita income)<SU>2</SU>] \u00d7 45 percent", 
+            "text": "State Share = [(State per capita income) ^{2}/(National per capita income)^{2}] \u00d7 45 percent", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-b-p1-p2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "b", 
+                "p1", 
+                "p2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "Federal share=100 percent minus the State share (with a minimum of 50 percent and a maximum of 83 percent)", 
+            "text": "Federal share=100 percent minus the State share (with a minimum of 50 percent and a maximum of 83 percent)", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-b-p2": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                0, 
+                "The formula provides for squaring both the State and national average per capita incomes; this procedure magnifies any difference between the State's income and the national average. Consequently, "
+            ], 
+            [
+                [
+                    "delete", 
+                    8, 
+                    17
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "matching to lower income States is increased, and Federal matching to higher income States is decreased, within the statutory 50-83"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    26, 
+                    31
+                ], 
+                [
+                    "insert", 
+                    26, 
+                    "limits. The FMAP for Puerto Rico,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    36, 
+                    63
+                ], 
+                [
+                    "insert", 
+                    36, 
+                    "Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa is set by statute at 50 percent and is subject to dollar limitations specified in section 1108"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    67, 
+                    106
+                ], 
+                [
+                    "insert", 
+                    67, 
+                    "the Act."
+                ]
+            ]
+        ]
+    }, 
+    "433-10-b-p3": {
+        "op": "deleted"
+    }, 
+    "433-10-c": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                4
+            ], 
+            [
+                "insert", 
+                4, 
+                [
+                    "433-10-c-5"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-c-5": {
+        "node": {
+            "child_labels": [
+                "433-10-c-5-i", 
+                "433-10-c-5-ii", 
+                "433-10-c-5-iii", 
+                "433-10-c-5-iv", 
+                "433-10-c-5-v"
+            ], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(5)", 
+            "text": "(5)", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) Under section 1933(d) of the Act, the Federal share of State expenditures for Medicare Part B premiums described in section 1905(p)(3)(A)(ii) of the Act on behalf of Qualifying Individuals described in section 1902(a)(10)(E)(iv) of the Act, is 100 percent, to the extent that the assistance does not exceed the State's allocation under paragraph (c)(5)(ii) of this section. To the extent that the assistance exceeds that allocation, the Federal share is 0 percent.", 
+            "text": "(i) Under section 1933(d) of the Act, the Federal share of State expenditures for Medicare Part B premiums described in section 1905(p)(3)(A)(ii) of the Act on behalf of Qualifying Individuals described in section 1902(a)(10)(E)(iv) of the Act, is 100 percent, to the extent that the assistance does not exceed the State's allocation under paragraph (c)(5)(ii) of this section. To the extent that the assistance exceeds that allocation, the Federal share is 0 percent.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) Under section 1933(c)(2) of the Act and subject to paragraph (c)(5)(iii) of this section, the allocation to each State is equal to the total allocation specified in section 1933(g) of the Act multiplied by the Secretary's estimate of the ratio of the total number of individuals described in section 1902(a)(10)(E)(iv) of the Act in the State to the total number of individuals described in section 1902(a)(10)(E)(iv) of the Act for all eligible States. In estimating that ratio, the Secretary will use data from the U.S. Census Bureau.", 
+            "text": "(ii) Under section 1933(c)(2) of the Act and subject to paragraph (c)(5)(iii) of this section, the allocation to each State is equal to the total allocation specified in section 1933(g) of the Act multiplied by the Secretary's estimate of the ratio of the total number of individuals described in section 1902(a)(10)(E)(iv) of the Act in the State to the total number of individuals described in section 1902(a)(10)(E)(iv) of the Act for all eligible States. In estimating that ratio, the Secretary will use data from the U.S. Census Bureau.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-iii": {
+        "node": {
+            "child_labels": [
+                "433-10-c-5-iii-A", 
+                "433-10-c-5-iii-B", 
+                "433-10-c-5-iii-C", 
+                "433-10-c-5-iii-D", 
+                "433-10-c-5-iii-E"
+            ], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "iii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(iii) If, based on projected expenditures for a fiscal year, or for a shorter period for which funding is available under section 1933 of the Act, the Secretary determines that the expenditures described in paragraph (c)(5)(i) of this section for one or more States are projected to exceed the allocation made to the State, the Secretary may adjust each State's fiscal year allocation, as follows:", 
+            "text": "(iii) If, based on projected expenditures for a fiscal year, or for a shorter period for which funding is available under section 1933 of the Act, the Secretary determines that the expenditures described in paragraph (c)(5)(i) of this section for one or more States are projected to exceed the allocation made to the State, the Secretary may adjust each State's fiscal year allocation, as follows:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-iii-A": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "iii", 
+                "A"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(A) The Secretary will compare each State's projected total expenditures for the expenses described in paragraph (c)(5)(i) of this section to the State's initial allocation determined under paragraph (c)(5)(ii) of this section, to determine the extent of each State's projected surplus or deficit.", 
+            "text": "(A) The Secretary will compare each State's projected total expenditures for the expenses described in paragraph (c)(5)(i) of this section to the State's initial allocation determined under paragraph (c)(5)(ii) of this section, to determine the extent of each State's projected surplus or deficit.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-iii-B": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "iii", 
+                "B"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(B) The surplus of each State with a projected surplus, as determined in accordance with paragraph (c)(5)(iii)(A) of this section will be added together to arrive at the Total Projected Surplus.", 
+            "text": "(B) The surplus of each State with a projected surplus, as determined in accordance with paragraph (c)(5)(iii)(A) of this section will be added together to arrive at the Total Projected Surplus.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-iii-C": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "iii", 
+                "C"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(C) The deficit of each State with a projected deficit, as determined in accordance with paragraph (c)(5)(iii)(A) of this section will be added together to arrive at the Total Projected Deficit.", 
+            "text": "(C) The deficit of each State with a projected deficit, as determined in accordance with paragraph (c)(5)(iii)(A) of this section will be added together to arrive at the Total Projected Deficit.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-iii-D": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "iii", 
+                "D"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(D) Each State with a projected deficit will receive an additional allocation equal to the amount of its projected deficit, or a prorated amount of such deficit, if the Total Projected Deficit is greater than the Total Projected Surplus. Except as described in paragraph (c)(5)(iii)(E) of this section, the amount to be reallocated from each State with a projected surplus will be equal to A \u00d7 B, where A equals the Total Projected Deficit and B equals the amount of the State's projected surplus as a percentage of the Total Projected Surplus.", 
+            "text": "(D) Each State with a projected deficit will receive an additional allocation equal to the amount of its projected deficit, or a prorated amount of such deficit, if the Total Projected Deficit is greater than the Total Projected Surplus. Except as described in paragraph (c)(5)(iii)(E) of this section, the amount to be reallocated from each State with a projected surplus will be equal to A \u00d7 B, where A equals the Total Projected Deficit and B equals the amount of the State's projected surplus as a percentage of the Total Projected Surplus.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-iii-E": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "iii", 
+                "E"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(E) If the Total Projected Deficit determined under paragraph (c)(5)(iii)(C) of this section is greater than the Total Projected Surplus determined under paragraph (c)(5)(iii)(B) of this section, each State with a projected deficit will receive an additional allocation amount equal to the amount of the Total Projected Surplus multiplied by the amount of the projected deficit for such State as a percentage of the Total Projected Deficit. The amount to be reallocated from each State with a projected surplus will be equal to the amount of the projected surplus.", 
+            "text": "(E) If the Total Projected Deficit determined under paragraph (c)(5)(iii)(C) of this section is greater than the Total Projected Surplus determined under paragraph (c)(5)(iii)(B) of this section, each State with a projected deficit will receive an additional allocation amount equal to the amount of the Total Projected Surplus multiplied by the amount of the projected deficit for such State as a percentage of the Total Projected Deficit. The amount to be reallocated from each State with a projected surplus will be equal to the amount of the projected surplus.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-iv": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "iv"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(iv) CMS will notify States of any changes in allotments resulting from any reallocations.", 
+            "text": "(iv) CMS will notify States of any changes in allotments resulting from any reallocations.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c-5-v": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "v"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(v) The provisions in paragraph (c)(5) of this section will be in effect through the end of the period for which funding authority is available under section 1933 of the Act.", 
+            "text": "(v) The provisions in paragraph (c)(5) of this section will be in effect through the end of the period for which funding authority is available under section 1933 of the Act.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-110-a": {
+        "op": "deleted"
+    }, 
+    "433-110-a-1": {
+        "op": "deleted"
+    }, 
+    "433-110-a-2": {
+        "op": "deleted"
+    }, 
+    "433-110-a-2-i": {
+        "op": "deleted"
+    }, 
+    "433-110-a-2-ii": {
+        "op": "deleted"
+    }, 
+    "433-110-a-2-iii": {
+        "op": "deleted"
+    }, 
+    "433-110-b": {
+        "op": "deleted"
+    }, 
+    "433-111": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "insert", 
+                2, 
+                [
+                    "433-111-c"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-111-b-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                40, 
+                187
+            ]
+        ]
+    }, 
+    "433-111-c": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "111", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) \u201cMedicaid Information Technology Architecture (MITA)\u201d is defined at \u00a7 495.302 of this chapter.", 
+            "text": "(c) \u201cMedicaid Information Technology Architecture (MITA)\u201d is defined at \u00a7 495.302 of this chapter.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-a": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                4, 
+                "Subject to paragraph (c) of this section, "
+            ]
+        ]
+    }, 
+    "433-112-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "insert", 
+                9, 
+                [
+                    "433-112-b-10", 
+                    "433-112-b-11", 
+                    "433-112-b-12", 
+                    "433-112-b-13", 
+                    "433-112-b-14", 
+                    "433-112-b-15", 
+                    "433-112-b-16"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-112-b-10": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "112", 
+                "b", 
+                "10"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(10) Use a modular, flexible approach to systems development, including the use of open interfaces and exposed application programming interfaces; the separation of business rules from core programming, available in both human and machine readable formats.", 
+            "text": "(10) Use a modular, flexible approach to systems development, including the use of open interfaces and exposed application programming interfaces; the separation of business rules from core programming, available in both human and machine readable formats.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-11": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "112", 
+                "b", 
+                "11"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(11) Align to, and advance increasingly, in MITA maturity for business, architecture, and data.", 
+            "text": "(11) Align to, and advance increasingly, in MITA maturity for business, architecture, and data.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-12": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "112", 
+                "b", 
+                "12"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(12) Ensure alignment with, and incorporation of, industry standards: The HIPAA privacy, security and transaction standards; accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards adopted by the Secretary under section 1104 of the Affordable Care Act; and standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.", 
+            "text": "(12) Ensure alignment with, and incorporation of, industry standards: The HIPAA privacy, security and transaction standards; accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards adopted by the Secretary under section 1104 of the Affordable Care Act; and standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-13": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "112", 
+                "b", 
+                "13"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(13) Promote sharing, leverage, and reuse of Medicaid technologies and systems within and among States.", 
+            "text": "(13) Promote sharing, leverage, and reuse of Medicaid technologies and systems within and among States.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-14": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "112", 
+                "b", 
+                "14"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(14) Support accurate and timely processing and adjudications/eligibility determinations and effective communications with providers, beneficiaries, and the public.", 
+            "text": "(14) Support accurate and timely processing and adjudications/eligibility determinations and effective communications with providers, beneficiaries, and the public.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-15": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "112", 
+                "b", 
+                "15"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(15) Produce transaction data, reports, and performance information that would contribute to program evaluation, continuous improvement in business operations, and transparency and accountability.", 
+            "text": "(15) Produce transaction data, reports, and performance information that would contribute to program evaluation, continuous improvement in business operations, and transparency and accountability.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-16": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "112", 
+                "b", 
+                "16"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(16) Ensure seamless coordination and integration with the Exchange, and allow interoperability with health information exchanges, public health agencies, human services programs, and community organizations providing outreach and enrollment assistance services.", 
+            "text": "(16) Ensure seamless coordination and integration with the Exchange, and allow interoperability with health information exchanges, public health agencies, human services programs, and community organizations providing outreach and enrollment assistance services.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    32, 
+                    44
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "requirements, standards"
+                ]
+            ], 
+            [
+                "insert", 
+                49, 
+                "conditions, and "
+            ]
+        ]
+    }, 
+    "433-112-b-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    60
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "quality improvement"
+                ]
+            ]
+        ]
+    }, 
+    "433-112-b-7": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    69, 
+                    76
+                ], 
+                [
+                    "insert", 
+                    69, 
+                    "74.27(a)."
+                ]
+            ]
+        ]
+    }, 
+    "433-112-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    15
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "FFP is available at 90 percent of a State's expenditures for the design, development, installation, or enhancement of an eligibility"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    30, 
+                    50
+                ], 
+                [
+                    "insert", 
+                    30, 
+                    "system that meets the requirements"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    54, 
+                    82
+                ], 
+                [
+                    "insert", 
+                    54, 
+                    "this subpart"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    87, 
+                    116
+                ], 
+                [
+                    "insert", 
+                    87, 
+                    "only for costs incurred for goods"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    121, 
+                    252
+                ], 
+                [
+                    "insert", 
+                    121, 
+                    "services provided on or"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    259, 
+                    277
+                ], 
+                [
+                    "insert", 
+                    259, 
+                    "April 19, 2011 and on or before December 31, 2015."
+                ]
+            ]
+        ]
+    }, 
+    "433-113": {
+        "op": "deleted"
+    }, 
+    "433-113-a": {
+        "op": "deleted"
+    }, 
+    "433-113-a-1": {
+        "op": "deleted"
+    }, 
+    "433-113-a-2": {
+        "op": "deleted"
+    }, 
+    "433-113-a-3": {
+        "op": "deleted"
+    }, 
+    "433-113-b": {
+        "op": "deleted"
+    }, 
+    "433-113-b-1": {
+        "op": "deleted"
+    }, 
+    "433-113-b-2": {
+        "op": "deleted"
+    }, 
+    "433-113-c": {
+        "op": "deleted"
+    }, 
+    "433-114-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    150, 
+                    154
+                ], 
+                [
+                    "insert", 
+                    150, 
+                    "(i)."
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                35, 
+                54
+            ], 
+            [
+                [
+                    "delete", 
+                    58, 
+                    123
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "notice will include all of"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    128, 
+                    189
+                ], 
+                [
+                    "insert", 
+                    128, 
+                    "following information:"
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    58, 
+                    67
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "made."
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    104, 
+                    117
+                ], 
+                [
+                    "insert", 
+                    104, 
+                    "disallowance"
+                ]
+            ]
+        ]
+    }, 
+    "433-116": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                8
+            ], 
+            [
+                "insert", 
+                8, 
+                [
+                    "433-116-i", 
+                    "433-116-j"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-116-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    15, 
+                    17
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "paragraph (j) of this section, FFP is available at 75 percent of expenditures for operation of a mechanized claims processing and information retrieval system approved by CMS, from the first day of the calendar quarter after the date the system met the conditions of initial approval, as established by CMS (including a retroactive adjustment of FFP if necessary to provide the 75 percent rate beginning on the first day of that calendar quarter). Subject to 45"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    22, 
+                    128
+                ], 
+                [
+                    "insert", 
+                    22, 
+                    "95.611(a), the State shall obtain prior written approval from CMS when it plans to acquire ADP equipment or services, when it anticipates the total acquisition costs will exceed thresholds,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    133, 
+                    255
+                ], 
+                [
+                    "insert", 
+                    133, 
+                    "meets other"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    270, 
+                    692
+                ], 
+                [
+                    "insert", 
+                    270, 
+                    "the"
+                ]
+            ]
+        ]
+    }, 
+    "433-116-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    96, 
+                    99
+                ], 
+                [
+                    "insert", 
+                    96, 
+                    "(i)"
+                ]
+            ]
+        ]
+    }, 
+    "433-116-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "116", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) The standards and conditions of \u00a7 433.112(b)(10) through (b)(16) of this subpart must be met.", 
+            "text": "(i) The standards and conditions of \u00a7 433.112(b)(10) through (b)(16) of this subpart must be met.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-116-j": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "116", 
+                "j"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(j) Beginning and no earlier than, April 19, 2011, FFP is available at 75 percent of a State's expenditures for the operation of an eligibility determination system that meets the requirements of this subpart. FFP at 75 percent is not available for eligibility determination systems that do not meet the standards and conditions by December 31, 2015.", 
+            "text": "(j) Beginning and no earlier than, April 19, 2011, FFP is available at 75 percent of a State's expenditures for the operation of an eligibility determination system that meets the requirements of this subpart. FFP at 75 percent is not available for eligibility determination systems that do not meet the standards and conditions by December 31, 2015.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-117-a": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                39, 
+                "standards and "
+            ]
+        ]
+    }, 
+    "433-117-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    137, 
+                    141
+                ], 
+                [
+                    "insert", 
+                    137, 
+                    "(j),"
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    8, 
+                    19
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "periodically reviews each system operation initially approved under \u00a7 433.114 of this subpart and reapproves it for FFP"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    23, 
+                    108
+                ], 
+                [
+                    "insert", 
+                    23, 
+                    "75 percent of expenditures if the following standards"
+                ]
+            ], 
+            [
+                "delete", 
+                113, 
+                181
+            ]
+        ]
+    }, 
+    "433-119-a-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    35
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "requirements"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    41, 
+                    56
+                ], 
+                [
+                    "insert", 
+                    41, 
+                    "433.112(b)(1),"
+                ]
+            ], 
+            [
+                "delete", 
+                67, 
+                71
+            ], 
+            [
+                [
+                    "delete", 
+                    83, 
+                    87
+                ], 
+                [
+                    "insert", 
+                    83, 
+                    "(16) of this subpart."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    61, 
+                    65
+                ], 
+                [
+                    "insert", 
+                    61, 
+                    "(j)."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                25, 
+                "standards, conditions, and "
+            ]
+        ]
+    }, 
+    "433-119-a-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    140
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "A State system must meet all"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    144, 
+                    181
+                ], 
+                [
+                    "insert", 
+                    144, 
+                    "the requirements of this subpart within the appropriate period CMS determines should apply as required by \u00a7 433.123(b) of this subpart."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                4, 
+                "After performing the review under paragraph (a) of this section, "
+            ], 
+            [
+                [
+                    "delete", 
+                    22, 
+                    26
+                ], 
+                [
+                    "insert", 
+                    22, 
+                    "the"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    36, 
+                    46
+                ], 
+                [
+                    "insert", 
+                    36, 
+                    "agency a written notice informing"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    51, 
+                    57
+                ], 
+                [
+                    "insert", 
+                    51, 
+                    "agency whether"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    62, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    62, 
+                    "system is reapproved or disapproved. If"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    86, 
+                    110
+                ], 
+                [
+                    "insert", 
+                    86, 
+                    "system is disapproved, the"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    118, 
+                    127
+                ], 
+                [
+                    "insert", 
+                    118, 
+                    "will include"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    132, 
+                    247
+                ], 
+                [
+                    "insert", 
+                    132, 
+                    "following information:"
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    44, 
+                    59
+                ], 
+                [
+                    "insert", 
+                    44, 
+                    "operations from 75 percent to 50 percent of expenditures, beginning with"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    64, 
+                    74
+                ], 
+                [
+                    "insert", 
+                    64, 
+                    "first day of the first calendar quarter after CMS issues the written notice"
+                ]
+            ], 
+            [
+                "delete", 
+                78, 
+                114
+            ], 
+            [
+                [
+                    "delete", 
+                    118, 
+                    140
+                ], 
+                [
+                    "insert", 
+                    118, 
+                    "State."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    58, 
+                    67
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "made."
+                ]
+            ]
+        ]
+    }, 
+    "433-120-b": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                4
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                81, 
+                122
+            ], 
+            [
+                [
+                    "delete", 
+                    125, 
+                    320
+                ], 
+                [
+                    "insert", 
+                    125, 
+                    "percent."
+                ]
+            ]
+        ]
+    }, 
+    "433-120-b-1": {
+        "op": "deleted"
+    }, 
+    "433-120-b-2": {
+        "op": "deleted"
+    }, 
+    "433-120-b-3": {
+        "op": "deleted"
+    }, 
+    "433-120-b-4": {
+        "op": "deleted"
+    }, 
+    "433-121-a": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "State Medicaid "
+            ], 
+            [
+                [
+                    "delete", 
+                    26, 
+                    28
+                ], 
+                [
+                    "insert", 
+                    26, 
+                    "(to"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    73, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    73, 
+                    "Part 16)"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    146, 
+                    155
+                ], 
+                [
+                    "insert", 
+                    146, 
+                    "operations"
+                ]
+            ], 
+            [
+                "delete", 
+                202, 
+                512
+            ]
+        ]
+    }, 
+    "433-130": {
+        "op": "deleted"
+    }, 
+    "433-130-a": {
+        "op": "deleted"
+    }, 
+    "433-130-b": {
+        "op": "deleted"
+    }, 
+    "433-130-c": {
+        "op": "deleted"
+    }, 
+    "433-130-c-1": {
+        "op": "deleted"
+    }, 
+    "433-130-c-2": {
+        "op": "deleted"
+    }, 
+    "433-130-d": {
+        "op": "deleted"
+    }, 
+    "433-131": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "insert", 
+                2, 
+                [
+                    "433-131-c"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-131-c": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "131", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) <E T=\"03\">Waiver of deadline.</E> In no case will CMS waive the December 31, 2015 deadlines referenced in \u00a7 433.112(c) and \u00a7 433.116(j).", 
+            "text": "(c) Waiver of deadline. In no case will CMS waive the December 31, 2015 deadlines referenced in \u00a7 433.112(c) and \u00a7 433.116(j).", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-138-d-4-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    15, 
+                    23
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "Workers'"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-g-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    37, 
+                    45
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "workers'"
+                ]
+            ]
+        ]
+    }, 
+    "433-15-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "insert", 
+                9, 
+                [
+                    "433-15-b-10"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-15-b-10": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "15", 
+                "b", 
+                "10"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(10) Funds expended for the performance of external quality review or the related activities described in \u00a7 438.358 of this chapter when they are performed by an external quality review organization as defined in \u00a7 438.320 of this chapter: 75 percent.", 
+            "text": "(10) Funds expended for the performance of external quality review or the related activities described in \u00a7 438.358 of this chapter when they are performed by an external quality review organization as defined in \u00a7 438.320 of this chapter: 75 percent.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-15-b-6-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    78, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "QIO"
+                ]
+            ]
+        ]
+    }, 
+    "433-36-g-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    250, 
+                    256
+                ], 
+                [
+                    "insert", 
+                    250, 
+                    "when\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-36-g-2-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    206, 
+                    216
+                ], 
+                [
+                    "insert", 
+                    206, 
+                    "\u00a7\u00a7 435.725,"
+                ]
+            ]
+        ]
+    }, 
+    "433-50-a-1": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-50-a-1-i", 
+                    "433-50-a-1-ii"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    30, 
+                    34
+                ], 
+                [
+                    "insert", 
+                    30, 
+                    "Act"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    117, 
+                    124
+                ], 
+                [
+                    "insert", 
+                    117, 
+                    "permit"
+                ]
+            ]
+        ]
+    }, 
+    "433-50-a-1-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) A unit of government is a State, a city, a county, a special purpose district, or other governmental unit in the State that: has taxing authority, has direct access to tax revenues, is a State university teaching hospital with direct appropriations from the State treasury, or is an Indian tribe as defined in Section 4 of the Indian Self-Determination and Education Assistance Act, as amended [25 U.S.C. 450b].", 
+            "text": "(i) A unit of government is a State, a city, a county, a special purpose district, or other governmental unit in the State that: has taxing authority, has direct access to tax revenues, is a State university teaching hospital with direct appropriations from the State treasury, or is an Indian tribe as defined in Section 4 of the Indian Self-Determination and Education Assistance Act, as amended [25 U.S.C. 450b].", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii": {
+        "node": {
+            "child_labels": [
+                "433-50-a-1-ii-A", 
+                "433-50-a-1-ii-B", 
+                "433-50-a-1-ii-C", 
+                "433-50-a-1-ii-D"
+            ], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) A health care provider may be considered a unit of government only when it is operated by a unit of government as demonstrated by a showing of the following:", 
+            "text": "(ii) A health care provider may be considered a unit of government only when it is operated by a unit of government as demonstrated by a showing of the following:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-A": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "A"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(A) The health care provider has generally applicable taxing authority; or", 
+            "text": "(A) The health care provider has generally applicable taxing authority; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-B": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "B"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(B) The health care provider has direct access to generally applicable tax revenues. This means the health care provider is able to directly access funding as an integral part of a unit of government with taxing authority which is legally obligated to fund the health care provider's expenses, liabilities, and deficits, so that a contractual arrangement with the State or local government is not the primary or sole basis for the health care provider to receive tax revenues;", 
+            "text": "(B) The health care provider has direct access to generally applicable tax revenues. This means the health care provider is able to directly access funding as an integral part of a unit of government with taxing authority which is legally obligated to fund the health care provider's expenses, liabilities, and deficits, so that a contractual arrangement with the State or local government is not the primary or sole basis for the health care provider to receive tax revenues;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-C": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "C"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(C) The health care provider receives appropriated funding as a State university teaching hospital providing supervised teaching experiences to graduate medical school interns and residents enrolled in a State university in the State; or", 
+            "text": "(C) The health care provider receives appropriated funding as a State university teaching hospital providing supervised teaching experiences to graduate medical school interns and residents enrolled in a State university in the State; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-D": {
+        "node": {
+            "child_labels": [
+                "433-50-a-1-ii-D-1"
+            ], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "D"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(D) The health care provider is an Indian Tribe or Tribal organization (as those terms are defined in Section 4 of the Indian Self-Determination and Education Assistance Act (ISDEAA); 25 U.S.C. 450b) and meets the following criteria:", 
+            "text": "(D) The health care provider is an Indian Tribe or Tribal organization (as those terms are defined in Section 4 of the Indian Self-Determination and Education Assistance Act (ISDEAA); 25 U.S.C. 450b) and meets the following criteria:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-D-1": {
+        "node": {
+            "child_labels": [
+                "433-50-a-1-ii-D-1-p1", 
+                "433-50-a-1-ii-D-1-p2"
+            ], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "D", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(<E T=\"03\">1</E>) If the entity is a Tribal organization, it is\u2014", 
+            "text": "(1) If the entity is a Tribal organization, it is\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-D-1-p1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "D", 
+                "1", 
+                "p1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(<E T=\"03\">a</E>) Carrying out health programs of the IHS, including health services which are eligible for reimbursement by Medicaid, under a contract or compact entered into between the Tribal organization and the Indian Health Service pursuant to the Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended, and", 
+            "text": "(a) Carrying out health programs of the IHS, including health services which are eligible for reimbursement by Medicaid, under a contract or compact entered into between the Tribal organization and the Indian Health Service pursuant to the Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended, and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-D-1-p2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "D", 
+                "1", 
+                "p2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(<E T=\"03\">b</E>) Either the recognized governing body of an Indian tribe, or an entity which is formed solely by, wholly owned or comprised of, and exclusively controlled by Indian tribes.", 
+            "text": "(b) Either the recognized governing body of an Indian tribe, or an entity which is formed solely by, wholly owned or comprised of, and exclusively controlled by Indian tribes.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    16, 
+                    21
+                ], 
+                [
+                    "insert", 
+                    16, 
+                    "Funds"
+                ]
+            ]
+        ]
+    }, 
+    "433-51-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    11, 
+                    16
+                ], 
+                [
+                    "insert", 
+                    11, 
+                    "Funds"
+                ]
+            ]
+        ]
+    }, 
+    "433-51-b": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                89, 
+                "are "
+            ]
+        ]
+    }, 
+    "433-54-c-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "State (or other unit of government) provides for a direct or indirect non-Medicaid payment to those providers or others making, or responsible for, the donation, and the payment "
+            ], 
+            [
+                [
+                    "delete", 
+                    15, 
+                    17
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "is positively correlated to"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    22, 
+                    161
+                ], 
+                [
+                    "insert", 
+                    22, 
+                    "donation. A positive correlation includes any positive relationship"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    170, 
+                    257
+                ], 
+                [
+                    "insert", 
+                    170, 
+                    "these variables, even if not consistent over time."
+                ]
+            ]
+        ]
+    }, 
+    "433-54-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                30, 
+                "Medicaid "
+            ], 
+            [
+                [
+                    "delete", 
+                    38, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    38, 
+                    "to the donor, provider class, or related entity, varies based only on the amount of the donation, including where"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    58, 
+                    60
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "payment is conditional on receipt of"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    65, 
+                    181
+                ], 
+                [
+                    "insert", 
+                    65, 
+                    "donation."
+                ]
+            ]
+        ]
+    }, 
+    "433-54-c-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                14, 
+                "(or other unit of government) receiving the donation provides for any direct "
+            ], 
+            [
+                "insert", 
+                17, 
+                "indirect payment, offset, or waiver such that the provision of that payment, offset, or waiver directly or indirectly guarantees to return any portion of the donation to the provider (or "
+            ], 
+            [
+                [
+                    "delete", 
+                    23, 
+                    57
+                ], 
+                [
+                    "insert", 
+                    23, 
+                    "parties responsible for"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    62, 
+                    185
+                ], 
+                [
+                    "insert", 
+                    62, 
+                    "donation)."
+                ]
+            ]
+        ]
+    }, 
+    "433-56-a-8": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                16, 
+                "managed care organizations (including "
+            ], 
+            [
+                [
+                    "delete", 
+                    35, 
+                    83
+                ], 
+                [
+                    "insert", 
+                    35, 
+                    "organizations, preferred provider organizations);"
+                ]
+            ]
+        ]
+    }, 
+    "433-57": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "delete", 
+                2, 
+                3
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-57-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    50
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Permissible provider-related donations, as"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    66, 
+                    147
+                ], 
+                [
+                    "insert", 
+                    66, 
+                    "433.66(b); or"
+                ]
+            ]
+        ]
+    }, 
+    "433-57-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    43
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Health care-related taxes,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    62, 
+                    75
+                ], 
+                [
+                    "insert", 
+                    62, 
+                    "433.68(b)."
+                ]
+            ]
+        ]
+    }, 
+    "433-57-c": {
+        "op": "deleted"
+    }, 
+    "433-58": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                7
+            ]
+        ], 
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    101
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "[Reserved]"
+                ]
+            ]
+        ]
+    }, 
+    "433-58-a": {
+        "op": "deleted"
+    }, 
+    "433-58-b": {
+        "op": "deleted"
+    }, 
+    "433-58-b-1": {
+        "op": "deleted"
+    }, 
+    "433-58-b-1-i": {
+        "op": "deleted"
+    }, 
+    "433-58-b-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-58-b-2": {
+        "op": "deleted"
+    }, 
+    "433-58-b-2-i": {
+        "op": "deleted"
+    }, 
+    "433-58-b-2-ii": {
+        "op": "deleted"
+    }, 
+    "433-58-b-2-iii": {
+        "op": "deleted"
+    }, 
+    "433-58-c": {
+        "op": "deleted"
+    }, 
+    "433-58-d": {
+        "op": "deleted"
+    }, 
+    "433-58-d-1": {
+        "op": "deleted"
+    }, 
+    "433-58-d-2": {
+        "op": "deleted"
+    }, 
+    "433-58-d-3": {
+        "op": "deleted"
+    }, 
+    "433-58-d-3-i": {
+        "op": "deleted"
+    }, 
+    "433-58-d-3-ii": {
+        "op": "deleted"
+    }, 
+    "433-58-e": {
+        "op": "deleted"
+    }, 
+    "433-58-e-1": {
+        "op": "deleted"
+    }, 
+    "433-58-e-2": {
+        "op": "deleted"
+    }, 
+    "433-58-e-3": {
+        "op": "deleted"
+    }, 
+    "433-58-e-4": {
+        "op": "deleted"
+    }, 
+    "433-58-f": {
+        "op": "deleted"
+    }, 
+    "433-58-g": {
+        "op": "deleted"
+    }, 
+    "433-58-g-1": {
+        "op": "deleted"
+    }, 
+    "433-58-g-1-i": {
+        "op": "deleted"
+    }, 
+    "433-58-g-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-58-g-1-ii-A": {
+        "op": "deleted"
+    }, 
+    "433-58-g-1-ii-B": {
+        "op": "deleted"
+    }, 
+    "433-58-g-2": {
+        "op": "deleted"
+    }, 
+    "433-58-g-2-i": {
+        "op": "deleted"
+    }, 
+    "433-58-g-2-ii": {
+        "op": "deleted"
+    }, 
+    "433-58-g-2-iii": {
+        "op": "deleted"
+    }, 
+    "433-58-g-2-iv": {
+        "op": "deleted"
+    }, 
+    "433-59": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "59"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "\n        ", 
+            "text": "", 
+            "title": "\u00a7 433.59 [Reserved]"
+        }, 
+        "op": "added"
+    }, 
+    "433-60": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                3
+            ]
+        ], 
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    150
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "[Reserved]"
+                ]
+            ]
+        ]
+    }, 
+    "433-60-a": {
+        "op": "deleted"
+    }, 
+    "433-60-a-1": {
+        "op": "deleted"
+    }, 
+    "433-60-a-2": {
+        "op": "deleted"
+    }, 
+    "433-60-a-2-i": {
+        "op": "deleted"
+    }, 
+    "433-60-a-2-ii": {
+        "op": "deleted"
+    }, 
+    "433-60-b": {
+        "op": "deleted"
+    }, 
+    "433-60-b-1": {
+        "op": "deleted"
+    }, 
+    "433-60-b-2": {
+        "op": "deleted"
+    }, 
+    "433-60-c": {
+        "op": "deleted"
+    }, 
+    "433-66": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    38, 
+                    76
+                ], 
+                [
+                    "insert", 
+                    38, 
+                    "donations."
+                ]
+            ]
+        ]
+    }, 
+    "433-66-a-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    61, 
+                    74
+                ], 
+                [
+                    "insert", 
+                    61, 
+                    "a State may receive revenues from provider-related donations without a reduction in FFP, only in accordance with"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    79, 
+                    82
+                ], 
+                [
+                    "insert", 
+                    79, 
+                    "requirements"
+                ]
+            ], 
+            [
+                "delete", 
+                86, 
+                275
+            ]
+        ]
+    }, 
+    "433-66-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    139, 
+                    217
+                ], 
+                [
+                    "insert", 
+                    139, 
+                    "1992."
+                ]
+            ]
+        ]
+    }, 
+    "433-67-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    94, 
+                    104
+                ], 
+                [
+                    "insert", 
+                    94, 
+                    "the maximum amount"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    108, 
+                    112
+                ], 
+                [
+                    "insert", 
+                    108, 
+                    "provider-related donations for outstationed eligibility workers, as described in \u00a7 433.66(b)(2), that"
+                ]
+            ], 
+            [
+                "insert", 
+                115, 
+                "State may receive without a reduction in FFP may not exceed 10 percent of a "
+            ], 
+            [
+                [
+                    "delete", 
+                    123, 
+                    146
+                ], 
+                [
+                    "insert", 
+                    123, 
+                    "medical assistance administrative costs (both"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    151, 
+                    165
+                ], 
+                [
+                    "insert", 
+                    151, 
+                    "Federal and State share), excluding the costs"
+                ]
+            ], 
+            [
+                "insert", 
+                169, 
+                "family planning activities. The 10 percent limit for "
+            ], 
+            [
+                [
+                    "delete", 
+                    200, 
+                    211
+                ], 
+                [
+                    "insert", 
+                    200, 
+                    "outstationed"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    224, 
+                    232
+                ], 
+                [
+                    "insert", 
+                    224, 
+                    "workers is not included in the limit in effect through September 30, 1995, for health care-related taxes"
+                ]
+            ], 
+            [
+                "delete", 
+                251, 
+                687
+            ]
+        ]
+    }, 
+    "433-68": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    41, 
+                    75
+                ], 
+                [
+                    "insert", 
+                    41, 
+                    "taxes."
+                ]
+            ]
+        ]
+    }, 
+    "433-68-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    18, 
+                    30
+                ], 
+                [
+                    "insert", 
+                    18, 
+                    "A State may receive health care-related taxes, without a reduction in FFP, only in accordance with"
+                ]
+            ], 
+            [
+                "delete", 
+                35, 
+                210
+            ]
+        ]
+    }, 
+    "433-68-f-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    70, 
+                    78
+                ], 
+                [
+                    "insert", 
+                    70, 
+                    "for a direct"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    82, 
+                    98
+                ], 
+                [
+                    "insert", 
+                    82, 
+                    "indirect"
+                ]
+            ], 
+            [
+                "insert", 
+                172, 
+                "payment "
+            ], 
+            [
+                [
+                    "delete", 
+                    179, 
+                    181
+                ], 
+                [
+                    "insert", 
+                    179, 
+                    "is positively correlated to either"
+                ]
+            ], 
+            [
+                "insert", 
+                186, 
+                "tax amount or to the difference between the Medicaid "
+            ], 
+            [
+                [
+                    "delete", 
+                    194, 
+                    228
+                ], 
+                [
+                    "insert", 
+                    194, 
+                    "and"
+                ]
+            ], 
+            [
+                "delete", 
+                233, 
+                247
+            ], 
+            [
+                [
+                    "delete", 
+                    251, 
+                    271
+                ], 
+                [
+                    "insert", 
+                    251, 
+                    "amount. A positive correlation includes any positive relationship"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    280, 
+                    324
+                ], 
+                [
+                    "insert", 
+                    280, 
+                    "these variables, even if not consistent over time."
+                ]
+            ]
+        ]
+    }, 
+    "433-68-f-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    88, 
+                    94
+                ], 
+                [
+                    "insert", 
+                    88, 
+                    "tax amount, including where Medicaid payment is conditional on receipt"
+                ]
+            ], 
+            [
+                "delete", 
+                102, 
+                108
+            ], 
+            [
+                [
+                    "delete", 
+                    112, 
+                    120
+                ], 
+                [
+                    "insert", 
+                    112, 
+                    "amount."
+                ]
+            ]
+        ]
+    }, 
+    "433-68-f-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                32, 
+                38
+            ], 
+            [
+                [
+                    "delete", 
+                    67, 
+                    76
+                ], 
+                [
+                    "insert", 
+                    67, 
+                    "provides for any direct or indirect payment, offset, or waiver such that the provision of that payment, offset, or waiver"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    89, 
+                    100
+                ], 
+                [
+                    "insert", 
+                    89, 
+                    "indirectly guarantees to hold taxpayers harmless"
+                ]
+            ], 
+            [
+                "insert", 
+                105, 
+                "all or "
+            ], 
+            [
+                "delete", 
+                109, 
+                192
+            ], 
+            [
+                [
+                    "delete", 
+                    207, 
+                    211
+                ], 
+                [
+                    "insert", 
+                    207, 
+                    "tax amount."
+                ]
+            ]
+        ]
+    }, 
+    "433-68-f-3-i": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-68-f-3-i-A", 
+                    "433-68-f-3-i-B"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                3, 
+                1051
+            ]
+        ]
+    }, 
+    "433-68-f-3-i-A": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "68", 
+                "f", 
+                "3", 
+                "i", 
+                "A"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(A) An indirect guarantee will be determined to exist under a two prong \u201cguarantee\u201d test. If the health care-related tax or taxes on each health care class are applied at a rate that produces revenues less than or equal to 6 percent of the revenues received by the taxpayer, the tax or taxes are permissible under this test. The phrase \u201crevenues received by the taxpayer\u201d refers to the net patient revenue attributable to the assessed permissible class of health care items or services. However, for the period of January 1, 2008 through September 30, 2011, the applicable percentage of net patient service revenue is 5.5 percent. Compliance in State fiscal year 2008 will be evaluated from January 1, 2008 through the last day of State fiscal year 2008. Beginning with State fiscal year 2009 the 5.5 percent tax collection will be measured on an annual State fiscal year basis.", 
+            "text": "(A) An indirect guarantee will be determined to exist under a two prong \u201cguarantee\u201d test. If the health care-related tax or taxes on each health care class are applied at a rate that produces revenues less than or equal to 6 percent of the revenues received by the taxpayer, the tax or taxes are permissible under this test. The phrase \u201crevenues received by the taxpayer\u201d refers to the net patient revenue attributable to the assessed permissible class of health care items or services. However, for the period of January 1, 2008 through September 30, 2011, the applicable percentage of net patient service revenue is 5.5 percent. Compliance in State fiscal year 2008 will be evaluated from January 1, 2008 through the last day of State fiscal year 2008. Beginning with State fiscal year 2009 the 5.5 percent tax collection will be measured on an annual State fiscal year basis.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-68-f-3-i-B": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "68", 
+                "f", 
+                "3", 
+                "i", 
+                "B"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(B) When the tax or taxes produce revenues in excess of the applicable percentage of the revenue received by the taxpayer, CMS will consider an indirect hold harmless provision to exist if 75 percent or more of the taxpayers in the class receive 75 percent or more of their total tax costs back in enhanced Medicaid payments or other State payments. The second prong of the indirect hold harmless test is applied in the aggregate to all health care taxes applied to each class. If this standard is violated, the amount of tax revenue to be offset from medical assistance expenditures is the total amount of the taxpayers' revenues received by the State.", 
+            "text": "(B) When the tax or taxes produce revenues in excess of the applicable percentage of the revenue received by the taxpayer, CMS will consider an indirect hold harmless provision to exist if 75 percent or more of the taxpayers in the class receive 75 percent or more of their total tax costs back in enhanced Medicaid payments or other State payments. The second prong of the indirect hold harmless test is applied in the aggregate to all health care taxes applied to each class. If this standard is violated, the amount of tax revenue to be offset from medical assistance expenditures is the total amount of the taxpayers' revenues received by the State.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-68-f-3-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    5, 
+                    442
+                ], 
+                [
+                    "insert", 
+                    5, 
+                    "[Reserved]"
+                ]
+            ]
+        ]
+    }, 
+    "433-70": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "Limitation"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    75, 
+                    109
+                ], 
+                [
+                    "insert", 
+                    75, 
+                    "taxes."
+                ]
+            ]
+        ]
+    }, 
+    "433-70-a": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                16, 
+                " Beginning October 1, 1995, there is no limitation on the amount of health care-related taxes that a State may receive without a reduction in FFP, as long as the health care-related taxes meet the requirements specified in \u00a7 433.68."
+            ]
+        ]
+    }, 
+    "433-70-a-1": {
+        "op": "deleted"
+    }, 
+    "433-70-a-1-i": {
+        "op": "deleted"
+    }, 
+    "433-70-a-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-70-a-2": {
+        "op": "deleted"
+    }, 
+    "433-74-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    510, 
+                    517
+                ], 
+                [
+                    "insert", 
+                    510, 
+                    "States'"
+                ]
+            ]
+        ]
+    }, 
+    "433-Subpart-B": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "insert", 
+                9, 
+                [
+                    "433-59"
+                ]
+            ], 
+            [
+                "equal", 
+                9, 
+                16
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-Subpart-C": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                3
+            ], 
+            [
+                "delete", 
+                3, 
+                4
+            ], 
+            [
+                "equal", 
+                4, 
+                13
+            ], 
+            [
+                "delete", 
+                13, 
+                14
+            ], 
+            [
+                "equal", 
+                14, 
+                15
+            ]
+        ], 
+        "op": "modified"
+    }
+}

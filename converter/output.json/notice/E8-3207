@@ -1,0 +1,717 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "433", 
+            "instruction": "For the reasons set forth in the preamble, the Centers for Medicare & Medicaid Services amends 42 CFR chapter IV as follows: "
+        }, 
+        {
+            "authority": "Sections 1902(a)(2), 1903(a) and 1903(w) of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "433", 
+            "instruction": "1. The authority citation for part 433 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-54-c-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "54", 
+                                    "c", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) The State (or other unit of government) provides for a direct or indirect non-Medicaid payment to those providers or others making, or responsible for, the donation, and the payment amount is positively correlated to the donation. A positive correlation includes any positive relationship between these variables, even if not consistent over time.", 
+                                "text": "(1) The State (or other unit of government) provides for a direct or indirect non-Medicaid payment to those providers or others making, or responsible for, the donation, and the payment amount is positively correlated to the donation. A positive correlation includes any positive relationship between these variables, even if not consistent over time.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-54-c-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "54", 
+                                    "c", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) All or any portion of the Medicaid payment to the donor, provider class, or related entity, varies based only on the amount of the donation, including where Medicaid payment is conditional on receipt of the donation.", 
+                                "text": "(2) All or any portion of the Medicaid payment to the donor, provider class, or related entity, varies based only on the amount of the donation, including where Medicaid payment is conditional on receipt of the donation.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-54-c-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "54", 
+                                    "c", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The State (or other unit of government) receiving the donation provides for any direct or indirect payment, offset, or waiver such that the provision of that payment, offset, or waiver directly or indirectly guarantees to return any portion of the donation to the provider (or other parties responsible for the donation).", 
+                                "text": "(3) The State (or other unit of government) receiving the donation provides for any direct or indirect payment, offset, or waiver such that the provision of that payment, offset, or waiver directly or indirectly guarantees to return any portion of the donation to the provider (or other parties responsible for the donation).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-54-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-54-c-1", 
+                                    "433-54-c-2", 
+                                    "433-54-c-3"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "54", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) A hold harmless practice exists if any of the following applies:", 
+                                "text": "(c) A hold harmless practice exists if any of the following applies:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Section 433.54 is amended by revising paragraph (c) to read as follows: "
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "3. Section 433.56 is amended by\u2014 "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-56-a-4", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "56", 
+                                    "a", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Intermediate care facility services for the mentally retarded, and similar services furnished by community-based residences for the mentally retarded, under a waiver under section 1915(c) of the Act, in a State in which, as of December 24, 1992, at least 85 percent of such facilities were classified as ICF/MRs prior to the grant of the waiver;", 
+                                "text": "(4) Intermediate care facility services for the mentally retarded, and similar services furnished by community-based residences for the mentally retarded, under a waiver under section 1915(c) of the Act, in a State in which, as of December 24, 1992, at least 85 percent of such facilities were classified as ICF/MRs prior to the grant of the waiver;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Revising paragraph (a)(4). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-56-a-8", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "56", 
+                                    "a", 
+                                    "8"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(8) Services of managed care organizations (including health maintenance organizations, preferred provider organizations);", 
+                                "text": "(8) Services of managed care organizations (including health maintenance organizations, preferred provider organizations);", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. Revising paragraph (a)(8). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "4. Section \u00a7\u2009433.57 is amended by\u2014 "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-57-a", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Removing paragraph (a). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-57-b", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "433", 
+                                "57", 
+                                "c"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "433-57-c", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "433", 
+                                "57", 
+                                "a"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "433-57-a", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "433", 
+                                "57", 
+                                "b"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Redesignating existing paragraphs (b) and (c) as paragraphs (a) and (b), respectively. "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-58", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. Section 433.58 is removed and reserved. "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-60", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "6. Section 433.60 is removed and reserved. "
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "7. Section 433.66 is amended by\u2014 "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-66", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[title]", 
+                            "node": {
+                                "child_labels": [
+                                    "433-66-a"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "66"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 433.66 Permissible provider-related donations."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Revising the section heading. "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-66-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "66", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Except as specified in paragraph (a)(2) of this section, a State may receive revenues from provider-related donations without a reduction in FFP, only in accordance with the requirements of this section.", 
+                                "text": "(1) Except as specified in paragraph (a)(2) of this section, a State may receive revenues from provider-related donations without a reduction in FFP, only in accordance with the requirements of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-66-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "66", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) The provisions of this section relating to provider-related donations for outstationed eligibility workers are effective on October 1, 1992.", 
+                                "text": "(2) The provisions of this section relating to provider-related donations for outstationed eligibility workers are effective on October 1, 1992.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-66-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-66-a-1", 
+                                    "433-66-a-2"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "66", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">General rule.</E>", 
+                                "text": "(a) General rule.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Revising paragraph (a). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-67-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "67", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) <E T=\"03\">Limitations on donations for outstationed eligibility workers.</E> Effective October 1, 1992, the maximum amount of provider-related donations for outstationed eligibility workers, as described in \u00a7\u2009433.66(b)(2), that a State may receive without a reduction in FFP may not exceed 10 percent of a State's medical assistance administrative costs (both the Federal and State share), excluding the costs of family planning activities. The 10 percent limit for provider-related donations for outstationed eligibility workers is not included in the limit in effect through September 30, 1995, for health care-related taxes as described in \u00a7\u2009433.70.", 
+                                "text": "(2) Limitations on donations for outstationed eligibility workers. Effective October 1, 1992, the maximum amount of provider-related donations for outstationed eligibility workers, as described in \u00a7\u2009433.66(b)(2), that a State may receive without a reduction in FFP may not exceed 10 percent of a State's medical assistance administrative costs (both the Federal and State share), excluding the costs of family planning activities. The 10 percent limit for provider-related donations for outstationed eligibility workers is not included in the limit in effect through September 30, 1995, for health care-related taxes as described in \u00a7\u2009433.70.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "8. Section 433.67 is amended by revising paragraph (a)(2) to read as follows: "
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "9. Section 433.68 is amended by\u2014 "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-68", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[title]", 
+                            "node": {
+                                "child_labels": [
+                                    "433-68-a", 
+                                    "433-68-f"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "68"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 433.68 Permissible health care-related taxes."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Revising the section heading. "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-68-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "68", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">General rule.</E> A State may receive health care-related taxes, without a reduction in FFP, only in accordance with the requirements of this section.", 
+                                "text": "(a) General rule. A State may receive health care-related taxes, without a reduction in FFP, only in accordance with the requirements of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Revising paragraph (a). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "C. Republishing paragraph (f) introductory text. "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-68-f-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "68", 
+                                    "f", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) The State (or other unit of government) imposing the tax provides for a direct or indirect non-Medicaid payment to those providers or others paying the tax and the payment amount is positively correlated to either the tax amount or to the difference between the Medicaid payment and the tax amount. A positive correlation includes any positive relationship between these variables, even if not consistent over time.", 
+                                "text": "(1) The State (or other unit of government) imposing the tax provides for a direct or indirect non-Medicaid payment to those providers or others paying the tax and the payment amount is positively correlated to either the tax amount or to the difference between the Medicaid payment and the tax amount. A positive correlation includes any positive relationship between these variables, even if not consistent over time.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-68-f-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "68", 
+                                    "f", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) All or any portion of the Medicaid payment to the taxpayer varies based only on the tax amount, including where Medicaid payment is conditional on receipt of the tax amount.", 
+                                "text": "(2) All or any portion of the Medicaid payment to the taxpayer varies based only on the tax amount, including where Medicaid payment is conditional on receipt of the tax amount.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-68-f-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[text]", 
+                            "node": {
+                                "child_labels": [
+                                    "433-68-f-3-i", 
+                                    "433-68-f-3-ii"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "68", 
+                                    "f", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The State (or other unit of government) imposing the tax provides for any direct or indirect payment, offset, or waiver such that the provision of that payment, offset, or waiver directly or indirectly guarantees to hold taxpayers harmless for all or any portion of the tax amount.", 
+                                "text": "(3) The State (or other unit of government) imposing the tax provides for any direct or indirect payment, offset, or waiver such that the provision of that payment, offset, or waiver directly or indirectly guarantees to hold taxpayers harmless for all or any portion of the tax amount.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-68-f-3-i-A", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "68", 
+                                    "f", 
+                                    "3", 
+                                    "i", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) An indirect guarantee will be determined to exist under a two prong \u201cguarantee\u201d test. If the health care-related tax or taxes on each health care class are applied at a rate that produces revenues less than or equal to 6 percent of the revenues received by the taxpayer, the tax or taxes are permissible under this test. The phrase \u201crevenues received by the taxpayer\u201d refers to the net patient revenue attributable to the assessed permissible class of health care items or services. However, for the period of January 1, 2008 through September 30, 2011, the applicable percentage of net patient service revenue is 5.5 percent. Compliance in State fiscal year 2008 will be evaluated from January 1, 2008 through the last day of State fiscal year 2008. Beginning with State fiscal year 2009 the 5.5 percent tax collection will be measured on an annual State fiscal year basis.", 
+                                "text": "(A) An indirect guarantee will be determined to exist under a two prong \u201cguarantee\u201d test. If the health care-related tax or taxes on each health care class are applied at a rate that produces revenues less than or equal to 6 percent of the revenues received by the taxpayer, the tax or taxes are permissible under this test. The phrase \u201crevenues received by the taxpayer\u201d refers to the net patient revenue attributable to the assessed permissible class of health care items or services. However, for the period of January 1, 2008 through September 30, 2011, the applicable percentage of net patient service revenue is 5.5 percent. Compliance in State fiscal year 2008 will be evaluated from January 1, 2008 through the last day of State fiscal year 2008. Beginning with State fiscal year 2009 the 5.5 percent tax collection will be measured on an annual State fiscal year basis.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-68-f-3-i-B", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "68", 
+                                    "f", 
+                                    "3", 
+                                    "i", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) When the tax or taxes produce revenues in excess of the applicable percentage of the revenue received by the taxpayer, CMS will consider an indirect hold harmless provision to exist if 75 percent or more of the taxpayers in the class receive 75 percent or more of their total tax costs back in enhanced Medicaid payments or other State payments. The second prong of the indirect hold harmless test is applied in the aggregate to all health care taxes applied to each class. If this standard is violated, the amount of tax revenue to be offset from medical assistance expenditures is the total amount of the taxpayers' revenues received by the State.", 
+                                "text": "(B) When the tax or taxes produce revenues in excess of the applicable percentage of the revenue received by the taxpayer, CMS will consider an indirect hold harmless provision to exist if 75 percent or more of the taxpayers in the class receive 75 percent or more of their total tax costs back in enhanced Medicaid payments or other State payments. The second prong of the indirect hold harmless test is applied in the aggregate to all health care taxes applied to each class. If this standard is violated, the amount of tax revenue to be offset from medical assistance expenditures is the total amount of the taxpayers' revenues received by the State.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-68-f-3-i", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-68-f-3-i-A", 
+                                    "433-68-f-3-i-B"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "68", 
+                                    "f", 
+                                    "3", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i)", 
+                                "text": "(i)", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "D. Revising paragraphs (f)(1), (f)(2), (f)(3) introductory text, and (f)(3)(i). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-68-f-3-ii", 
+                    [
+                        {
+                            "action": "RESERVE", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "68", 
+                                    "f", 
+                                    "3", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) [Reserved]", 
+                                "text": "(ii) [Reserved]", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "E. Removing and reserving paragraph (f)(3)(ii). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "The revisions read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "10. Section 433.70 is amended by\u2014 "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-70", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[title]", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "70"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 433.70 Limitation on level of FFP for revenues from health care-related taxes."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Revising the section heading. "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-70-a-1", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Removing paragraph (a)(1). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-70-a-2", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. Removing the paragraph designation for existing paragraph (a)(2). "
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "The revised heading reads as follows:"
+        }
+    ], 
+    "cfr_parts": [
+        "433"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS 2275-F"
+    ], 
+    "document_number": "E8-3207", 
+    "effective_on": "2008-04-22", 
+    "footnotes": {}, 
+    "fr_citation": "73 FR 9685", 
+    "fr_url": "https://www.federalregister.gov/documents/2008/02/22/E8-3207/medicaid-program-health-care-related-taxes", 
+    "fr_volume": 73, 
+    "meta": {
+        "start_page": 9685
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES ", 
+    "primary_docket": null, 
+    "publication_date": "2008-02-22", 
+    "regulation_id_numbers": [
+        "0938-AO80"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Health Care-Related Taxes ", 
+    "versions": {
+        "433": {
+            "left": "07-6220", 
+            "right": "E8-3207"
+        }
+    }
+}

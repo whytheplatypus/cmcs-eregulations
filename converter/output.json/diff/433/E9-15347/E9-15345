@@ -1,0 +1,32 @@
+{
+    "433-10-c-5-v": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-10-c-5-v-p1"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-c-5-v-p1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "v", 
+                "p1"
+            ], 
+            "node_type": "extract", 
+            "tagged_text": "(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program)", 
+            "text": "(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program)", 
+            "title": null
+        }, 
+        "op": "added"
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "433": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-Subpart"
+                ]
+            ], 
+            [
+                "equal", 
+                0, 
+                6
+            ], 
+            [
+                "delete", 
+                6, 
+                8
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-400": {
+        "op": "deleted"
+    }, 
+    "433-400-a": {
+        "op": "deleted"
+    }, 
+    "433-400-b": {
+        "op": "deleted"
+    }, 
+    "433-400-b-p143340716": {
+        "op": "deleted"
+    }, 
+    "433-400-b-p1674956822": {
+        "op": "deleted"
+    }, 
+    "433-400-b-p2349005989": {
+        "op": "deleted"
+    }, 
+    "433-400-b-p361914724": {
+        "op": "deleted"
+    }, 
+    "433-400-b-p3814436186": {
+        "op": "deleted"
+    }, 
+    "433-400-b-p3896616162": {
+        "op": "deleted"
+    }, 
+    "433-400-c": {
+        "op": "deleted"
+    }, 
+    "433-400-c-1": {
+        "op": "deleted"
+    }, 
+    "433-400-c-1-i": {
+        "op": "deleted"
+    }, 
+    "433-400-c-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-400-c-2": {
+        "op": "deleted"
+    }, 
+    "433-400-c-2-i": {
+        "op": "deleted"
+    }, 
+    "433-400-c-2-i-A": {
+        "op": "deleted"
+    }, 
+    "433-400-c-2-i-B": {
+        "op": "deleted"
+    }, 
+    "433-400-c-2-ii": {
+        "op": "deleted"
+    }, 
+    "433-400-c-2-iii": {
+        "op": "deleted"
+    }, 
+    "433-400-c-2-iv": {
+        "op": "deleted"
+    }, 
+    "433-400-c-3": {
+        "op": "deleted"
+    }, 
+    "433-400-d": {
+        "op": "deleted"
+    }, 
+    "433-400-d-1": {
+        "op": "deleted"
+    }, 
+    "433-400-d-1-i": {
+        "op": "deleted"
+    }, 
+    "433-400-d-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-400-d-1-iii": {
+        "op": "deleted"
+    }, 
+    "433-400-d-2": {
+        "op": "deleted"
+    }, 
+    "433-400-d-3": {
+        "op": "deleted"
+    }, 
+    "433-400-d-3-i": {
+        "op": "deleted"
+    }, 
+    "433-400-d-3-ii": {
+        "op": "deleted"
+    }, 
+    "433-Subpart-G": {
+        "op": "deleted"
+    }
+}

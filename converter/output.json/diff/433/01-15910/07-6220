@@ -1,0 +1,502 @@
+{
+    "433-112-b-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    60
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "quality improvement"
+                ]
+            ]
+        ]
+    }, 
+    "433-15-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "insert", 
+                9, 
+                [
+                    "433-15-b-10"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-15-b-10": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "15", 
+                "b", 
+                "10"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(10) Funds expended for the performance of external quality review or the related activities described in \u00a7 438.358 of this chapter when they are performed by an external quality review organization as defined in \u00a7 438.320 of this chapter: 75 percent.", 
+            "text": "(10) Funds expended for the performance of external quality review or the related activities described in \u00a7 438.358 of this chapter when they are performed by an external quality review organization as defined in \u00a7 438.320 of this chapter: 75 percent.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-15-b-6-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    78, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "QIO"
+                ]
+            ]
+        ]
+    }, 
+    "433-20": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "20"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "\n             Federal financial participation under Medicaid is not available for expenditures for administrative activities by school employees, school contractors, or anyone under the control of a public or private educational institution.", 
+            "text": "Federal financial participation under Medicaid is not available for expenditures for administrative activities by school employees, school contractors, or anyone under the control of a public or private educational institution.", 
+            "title": "\u00a7 433.20 Rates of FFP for Administration: Reimbursement for School-Based Administrative Expenditures."
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-50-a-1-i", 
+                    "433-50-a-1-ii"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                23, 
+                "and section 1903(w)(7)(G) "
+            ], 
+            [
+                [
+                    "delete", 
+                    41, 
+                    49
+                ], 
+                [
+                    "insert", 
+                    41, 
+                    "require"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    117, 
+                    129
+                ], 
+                [
+                    "insert", 
+                    117, 
+                    "permit"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    146, 
+                    157
+                ], 
+                [
+                    "insert", 
+                    146, 
+                    "units of government"
+                ]
+            ]
+        ]
+    }, 
+    "433-50-a-1-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) A unit of government is a State, a city, a county, a special purpose district, or other governmental unit in the State that: has taxing authority, has direct access to tax revenues, is a State university teaching hospital with direct appropriations from the State treasury, or is an Indian tribe as defined in Section 4 of the Indian Self-Determination and Education Assistance Act, as amended [25 U.S.C. 450b].", 
+            "text": "(i) A unit of government is a State, a city, a county, a special purpose district, or other governmental unit in the State that: has taxing authority, has direct access to tax revenues, is a State university teaching hospital with direct appropriations from the State treasury, or is an Indian tribe as defined in Section 4 of the Indian Self-Determination and Education Assistance Act, as amended [25 U.S.C. 450b].", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii": {
+        "node": {
+            "child_labels": [
+                "433-50-a-1-ii-A", 
+                "433-50-a-1-ii-B", 
+                "433-50-a-1-ii-C", 
+                "433-50-a-1-ii-D"
+            ], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) A health care provider may be considered a unit of government only when it is operated by a unit of government as demonstrated by a showing of the following:", 
+            "text": "(ii) A health care provider may be considered a unit of government only when it is operated by a unit of government as demonstrated by a showing of the following:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-A": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "A"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(A) The health care provider has generally applicable taxing authority; or", 
+            "text": "(A) The health care provider has generally applicable taxing authority; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-B": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "B"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(B) The health care provider has direct access to generally applicable tax revenues. This means the health care provider is able to directly access funding as an integral part of a unit of government with taxing authority which is legally obligated to fund the health care provider's expenses, liabilities, and deficits, so that a contractual arrangement with the State or local government is not the primary or sole basis for the health care provider to receive tax revenues;", 
+            "text": "(B) The health care provider has direct access to generally applicable tax revenues. This means the health care provider is able to directly access funding as an integral part of a unit of government with taxing authority which is legally obligated to fund the health care provider's expenses, liabilities, and deficits, so that a contractual arrangement with the State or local government is not the primary or sole basis for the health care provider to receive tax revenues;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-C": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "C"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(C) The health care provider receives appropriated funding as a State university teaching hospital providing supervised teaching experiences to graduate medical school interns and residents enrolled in a State university in the State; or", 
+            "text": "(C) The health care provider receives appropriated funding as a State university teaching hospital providing supervised teaching experiences to graduate medical school interns and residents enrolled in a State university in the State; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-D": {
+        "node": {
+            "child_labels": [
+                "433-50-a-1-ii-D-1"
+            ], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "D"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(D) The health care provider is an Indian Tribe or Tribal organization (as those terms are defined in Section 4 of the Indian Self-Determination and Education Assistance Act (ISDEAA); 25 U.S.C. 450b) and meets the following criteria:", 
+            "text": "(D) The health care provider is an Indian Tribe or Tribal organization (as those terms are defined in Section 4 of the Indian Self-Determination and Education Assistance Act (ISDEAA); 25 U.S.C. 450b) and meets the following criteria:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-D-1": {
+        "node": {
+            "child_labels": [
+                "433-50-a-1-ii-D-1-p1", 
+                "433-50-a-1-ii-D-1-p2"
+            ], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "D", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(<E T=\"03\">1</E>) If the entity is a Tribal organization, it is\u2014", 
+            "text": "(1) If the entity is a Tribal organization, it is\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-D-1-p1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "D", 
+                "1", 
+                "p1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(<E T=\"03\">a</E>) Carrying out health programs of the IHS, including health services which are eligible for reimbursement by Medicaid, under a contract or compact entered into between the Tribal organization and the Indian Health Service pursuant to the Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended, and", 
+            "text": "(a) Carrying out health programs of the IHS, including health services which are eligible for reimbursement by Medicaid, under a contract or compact entered into between the Tribal organization and the Indian Health Service pursuant to the Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended, and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-50-a-1-ii-D-1-p2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "50", 
+                "a", 
+                "1", 
+                "ii", 
+                "D", 
+                "1", 
+                "p2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(<E T=\"03\">b</E>) Either the recognized governing body of an Indian tribe, or an entity which is formed solely by, wholly owned or comprised of, and exclusively controlled by Indian tribes.", 
+            "text": "(b) Either the recognized governing body of an Indian tribe, or an entity which is formed solely by, wholly owned or comprised of, and exclusively controlled by Indian tribes.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    21
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "Funds from units of government"
+                ]
+            ]
+        ]
+    }, 
+    "433-51-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    16
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Funds from units of government"
+                ]
+            ]
+        ]
+    }, 
+    "433-51-b": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-51-b-1", 
+                    "433-51-b-2", 
+                    "433-51-b-3", 
+                    "433-51-b-4"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "funds from units of government are appropriated directly to the State or local Medicaid agency, or are transferred from other units of government (including Indian tribes) to the State or local agency and are under its administrative control, or are certified by the contributing unit of government as representing expenditures eligible for FFP under this section. Certified "
+            ], 
+            [
+                [
+                    "delete", 
+                    15, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "expenditures must be expenditures within the meaning of 45 CFR 95.13 that"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    25, 
+                    49
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "supported by auditable documentation in a form approved by"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    54, 
+                    333
+                ], 
+                [
+                    "insert", 
+                    54, 
+                    "Secretary that, at a minimum\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-51-b-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "51", 
+                "b", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Identifies the relevant category of expenditures under the State plan;", 
+            "text": "(1) Identifies the relevant category of expenditures under the State plan;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51-b-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "51", 
+                "b", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Explains whether the contributing unit of government is within the scope of the exception to limitations on provider-related taxes and donations;", 
+            "text": "(2) Explains whether the contributing unit of government is within the scope of the exception to limitations on provider-related taxes and donations;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51-b-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "51", 
+                "b", 
+                "3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(3) Demonstrates the actual expenditures incurred by the contributing unit of government in providing services to eligible individuals receiving medical assistance or in administration of the State plan; and", 
+            "text": "(3) Demonstrates the actual expenditures incurred by the contributing unit of government in providing services to eligible individuals receiving medical assistance or in administration of the State plan; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51-b-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "51", 
+                "b", 
+                "4"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(4) Is subject to periodic State audit and review.", 
+            "text": "(4) Is subject to periodic State audit and review.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-51-c": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                8, 
+                15
+            ], 
+            [
+                "insert", 
+                21, 
+                "from units of government "
+            ]
+        ]
+    }, 
+    "433-Subpart": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                1
+            ], 
+            [
+                "insert", 
+                1, 
+                [
+                    "433-20"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }
+}

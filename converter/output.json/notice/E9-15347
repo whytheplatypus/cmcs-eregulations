@@ -1,0 +1,34 @@
+{
+    "amendments": [], 
+    "cfr_parts": [
+        "433"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2275-F2"
+    ], 
+    "document_number": "E9-15347", 
+    "effective_on": "2009-07-01", 
+    "footnotes": {}, 
+    "fr_citation": "74 FR 31196", 
+    "fr_url": "https://www.federalregister.gov/documents/2009/06/30/E9-15347/medicaid-program-health-care-related-taxes", 
+    "fr_volume": 74, 
+    "meta": {
+        "start_page": 31196
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES", 
+    "primary_docket": null, 
+    "publication_date": "2009-06-30", 
+    "regulation_id_numbers": [
+        "0938-AP74"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Health Care-Related Taxes", 
+    "versions": {
+        "433": {
+            "left": "E9-15345", 
+            "right": "E9-15347"
+        }
+    }
+}

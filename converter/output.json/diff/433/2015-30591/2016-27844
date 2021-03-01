@@ -1,0 +1,828 @@
+{
+    "433-10-b-p1-p2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    8, 
+                    17
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "share = 100"
+                ]
+            ]
+        ]
+    }, 
+    "433-110": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-110-a", 
+                    "433-110-b"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-110-a": {
+        "node": {
+            "child_labels": [
+                "433-110-a-1", 
+                "433-110-a-2"
+            ], 
+            "label": [
+                "433", 
+                "110", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) This subpart implements the following sections of the Act:", 
+            "text": "(a) This subpart implements the following sections of the Act:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Section 1903(a)(3) of the Act, which provides for FFP in State expenditures for the design, development, or installation of mechanized claims processing and information retrieval systems and for the operation of certain systems. Additional HHS regulations and CMS procedures for implementing these regulations are in 45 CFR part 75, 45 CFR part 95, subpart F, and part 11, State Medicaid Manual; and", 
+            "text": "(1) Section 1903(a)(3) of the Act, which provides for FFP in State expenditures for the design, development, or installation of mechanized claims processing and information retrieval systems and for the operation of certain systems. Additional HHS regulations and CMS procedures for implementing these regulations are in 45 CFR part 75, 45 CFR part 95, subpart F, and part 11, State Medicaid Manual; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Section 1903(r) of the Act, which imposes certain standards and conditions on mechanized claims processing and information retrieval systems (including eligibility determination systems) in order for these systems to be eligible for Federal funding under section 1903(a) of the Act.", 
+            "text": "(2) Section 1903(r) of the Act, which imposes certain standards and conditions on mechanized claims processing and information retrieval systems (including eligibility determination systems) in order for these systems to be eligible for Federal funding under section 1903(a) of the Act.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-b": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) [Reserved]", 
+            "text": "(b) [Reserved]", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-7": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    69, 
+                    78
+                ], 
+                [
+                    "insert", 
+                    69, 
+                    "75, subpart E."
+                ]
+            ]
+        ]
+    }, 
+    "433-120-b": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                1
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-120-b-p1": {
+        "op": "deleted"
+    }, 
+    "433-121-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    89, 
+                    93
+                ], 
+                [
+                    "insert", 
+                    89, 
+                    "part"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-d-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    293, 
+                    306
+                ], 
+                [
+                    "insert", 
+                    293, 
+                    "435.948(a)(1)"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-d-3": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    66
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "435.948(a)(2) of this chapter,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    182, 
+                    186
+                ], 
+                [
+                    "insert", 
+                    182, 
+                    "who"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-e": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                36, 
+                " Except as specified under paragraph (l) of this section, the agency must take action to identify those paid claims for Medicaid beneficiaries that contain diagnosis codes that are indicative of trauma, or injury, poisoning, and other consequences of external causes, for the purpose of determining the legal liability of third parties so that the agency may process claims under the third party liability payment procedures specified in \u00a7 433.139(b) through (f)."
+            ]
+        ]
+    }, 
+    "433-138-e-1": {
+        "op": "deleted"
+    }, 
+    "433-138-e-2": {
+        "op": "deleted"
+    }, 
+    "433-138-f": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    41, 
+                    42
+                ], 
+                [
+                    "insert", 
+                    41, 
+                    "           "
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    183, 
+                    189
+                ], 
+                [
+                    "insert", 
+                    183, 
+                    "(3)"
+                ]
+            ], 
+            [
+                "insert", 
+                198, 
+                "section, and diagnosis and trauma edits required in paragraphs (d)(4) and (e) of this "
+            ], 
+            [
+                [
+                    "delete", 
+                    206, 
+                    224
+                ], 
+                [
+                    "insert", 
+                    206, 
+                    "on a routine and timely basis. The State plan must specify"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    229, 
+                    261
+                ], 
+                [
+                    "insert", 
+                    229, 
+                    "frequency"
+                ]
+            ], 
+            [
+                "delete", 
+                265, 
+                440
+            ]
+        ]
+    }, 
+    "433-138-g-1-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    13
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Within 45 days, the agency must follow up (if appropriate) on such information to identify legally liable third party resources and incorporate such information into the eligibility case file and into its third party data base and third party recovery unit so the agency may process claims under the third party liability payment procedures"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    29, 
+                    192
+                ], 
+                [
+                    "insert", 
+                    29, 
+                    "433.139 (b) through (f);"
+                ]
+            ], 
+            [
+                "delete", 
+                196, 
+                449
+            ]
+        ]
+    }, 
+    "433-145-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    46, 
+                    55
+                ], 
+                [
+                    "insert", 
+                    46, 
+                    "the identity of a child's parents"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    209, 
+                    230
+                ], 
+                [
+                    "insert", 
+                    209, 
+                    "\u00a7 435.116"
+                ]
+            ], 
+            [
+                "insert", 
+                234, 
+                "this chapter (pregnant women), who are exempt from cooperating in establishing "
+            ], 
+            [
+                [
+                    "delete", 
+                    238, 
+                    331
+                ], 
+                [
+                    "insert", 
+                    238, 
+                    "identity of a child's parents"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    402, 
+                    408
+                ], 
+                [
+                    "insert", 
+                    402, 
+                    "non-custodial parent"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    412, 
+                    442
+                ], 
+                [
+                    "insert", 
+                    412, 
+                    "a child;"
+                ]
+            ]
+        ]
+    }, 
+    "433-147": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                3
+            ], 
+            [
+                "delete", 
+                3, 
+                4
+            ]
+        ], 
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    38, 
+                    47
+                ], 
+                [
+                    "insert", 
+                    38, 
+                    "the identity of a child's parents"
+                ]
+            ]
+        ]
+    }, 
+    "433-147-a-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    26
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Except as exempt under \u00a7 433.145(a)(2), establishing the identity"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    32, 
+                    57
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "child's parents"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    188, 
+                    351
+                ], 
+                [
+                    "insert", 
+                    188, 
+                    "rights;"
+                ]
+            ], 
+            [
+                "delete", 
+                355, 
+                466
+            ]
+        ]
+    }, 
+    "433-147-c-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    16
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "For establishing the identity of a child's parents or obtaining medical care support and payments, or identifying or providing information"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    20, 
+                    42
+                ], 
+                [
+                    "insert", 
+                    20, 
+                    "assist the State in pursuing any liable third party for a child for whom the individual can legally assign rights, the agency must find that cooperation is against the best interests"
+                ]
+            ], 
+            [
+                "delete", 
+                46, 
+                172
+            ], 
+            [
+                [
+                    "delete", 
+                    176, 
+                    647
+                ], 
+                [
+                    "insert", 
+                    176, 
+                    "child."
+                ]
+            ]
+        ]
+    }, 
+    "433-147-d": {
+        "op": "deleted"
+    }, 
+    "433-148-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    11
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "In the case of an applicant, does not attest"
+                ]
+            ], 
+            [
+                "insert", 
+                15, 
+                "willingness to cooperate, and in the case of a beneficiary, refuses to "
+            ], 
+            [
+                "insert", 
+                25, 
+                "in establishing the identity of a child's parents, obtaining medical child support and pursuing liable third parties, "
+            ]
+        ]
+    }, 
+    "433-15-b-10": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    132, 
+                    212
+                ], 
+                [
+                    "insert", 
+                    132, 
+                    "consistent with"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    215, 
+                    222
+                ], 
+                [
+                    "insert", 
+                    215, 
+                    "438.370(a)"
+                ]
+            ], 
+            [
+                "insert", 
+                243, 
+                "percent; consistent with \u00a7 438.370(b): 50 "
+            ]
+        ]
+    }, 
+    "433-152-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    53, 
+                    83
+                ], 
+                [
+                    "insert", 
+                    53, 
+                    "that:"
+                ]
+            ]
+        ]
+    }, 
+    "433-152-b-1": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-152-b-1-i", 
+                    "433-152-b-1-ii"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    8
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "The Medicaid agency may not refer a case for medical support enforcement when"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    13, 
+                    122
+                ], 
+                [
+                    "insert", 
+                    13, 
+                    "following criteria have been met:"
+                ]
+            ]
+        ]
+    }, 
+    "433-152-b-1-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "152", 
+                "b", 
+                "1", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) The Medicaid referral is based solely upon health care services provided through an Indian Health Program (as defined at 25 U.S.C. 1603(12)), including through the Purchased/Referred Care program, to a child who is eligible for health care services from the Indian Health Service (IHS).", 
+            "text": "(i) The Medicaid referral is based solely upon health care services provided through an Indian Health Program (as defined at 25 U.S.C. 1603(12)), including through the Purchased/Referred Care program, to a child who is eligible for health care services from the Indian Health Service (IHS).", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-152-b-1-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "152", 
+                "b", 
+                "1", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) [Reserved]", 
+            "text": "(ii) [Reserved]", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-152-b-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    11
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "The Medicaid agency will provide"
+                ]
+            ]
+        ]
+    }, 
+    "433-206-d": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    37, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "adjustment\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-206-e": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    20, 
+                    31
+                ], 
+                [
+                    "insert", 
+                    20, 
+                    "adjustment\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-206-f": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    58
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "criteria\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-206-h": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    127, 
+                    129
+                ], 
+                [
+                    "insert", 
+                    127, 
+                    " "
+                ]
+            ]
+        ]
+    }, 
+    "433-322": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    175, 
+                    181
+                ], 
+                [
+                    "insert", 
+                    175, 
+                    "75.361 through 75.370."
+                ]
+            ]
+        ]
+    }, 
+    "433-38-b-1-iv": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    93, 
+                    97
+                ], 
+                [
+                    "insert", 
+                    93, 
+                    "part"
+                ]
+            ]
+        ]
+    }, 
+    "433-50-a-1": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-50-a-1-i": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-A": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-B": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-C": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p2": {
+        "op": "deleted"
+    }, 
+    "433-56-a-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    350, 
+                    365
+                ], 
+                [
+                    "insert", 
+                    350, 
+                    "ICF/IIDs"
+                ]
+            ]
+        ]
+    }
+}

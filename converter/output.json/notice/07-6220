@@ -1,0 +1,221 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "431", 
+            "instruction": "For the reasons set forth in the preamble, the Centers for Medicare & Medicaid Services amends 42 CFR Chapter IV as set forth below:"
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "431", 
+            "instruction": "1. The authority citation for part 431 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "431", 
+            "changes": [
+                [
+                    "431-53-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "53", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Specify that the Medicaid agency will ensure necessary transportation for recipients to and from providers; and", 
+                                "text": "(1) Specify that the Medicaid agency will ensure necessary transportation for recipients to and from providers; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-53-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "53", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Describe the methods that the agency will use to meet this requirement.", 
+                                "text": "(2) Describe the methods that the agency will use to meet this requirement.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-53-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "431-53-a-1", 
+                                    "431-53-a-2"
+                                ], 
+                                "label": [
+                                    "431", 
+                                    "53", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) A State plan must\u2014", 
+                                "text": "(a) A State plan must\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-53-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "53", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) For purposes of this assurance, necessary transportation does not include transportation of school-age children between home and school.", 
+                                "text": "(b) For purposes of this assurance, necessary transportation does not include transportation of school-age children between home and school.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-53", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "431-53-a", 
+                                    "431-53-b"
+                                ], 
+                                "label": [
+                                    "431", 
+                                    "53"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 431.53 Assurance of Transportation."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Section 431.53 is revised to read as follows:"
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "433", 
+            "instruction": "3. The authority citation for part 433 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-20", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "20"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n             Federal financial participation under Medicaid is not available for expenditures for administrative activities by school employees, school contractors, or anyone under the control of a public or private educational institution.", 
+                                "text": "Federal financial participation under Medicaid is not available for expenditures for administrative activities by school employees, school contractors, or anyone under the control of a public or private educational institution.", 
+                                "title": "\u00a7 433.20 Rates of FFP for Administration: Reimbursement for School-Based Administrative Expenditures."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "4. Part 433 is amended by adding a new \u00a7\u2009433.20 to read as follows:"
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "440", 
+            "instruction": "5. The authority citation for part 440 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "440", 
+            "changes": [
+                [
+                    "440-170-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "440", 
+                                    "170", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) \u201cTransportation\u201d includes expenses for transportation and other related travel expenses determined to be necessary by the agency to secure medical examinations and treatment for a recipient. Such transportation does not include transportation of school-age children from home to school and back.", 
+                                "text": "(1) \u201cTransportation\u201d includes expenses for transportation and other related travel expenses determined to be necessary by the agency to secure medical examinations and treatment for a recipient. Such transportation does not include transportation of school-age children from home to school and back.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "6. Section 440.170(a)(1) is revised to read as follows:"
+        }
+    ], 
+    "cfr_parts": [
+        "431", 
+        "433", 
+        "440"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2287-F"
+    ], 
+    "document_number": "07-6220", 
+    "effective_on": "2008-02-26", 
+    "footnotes": {}, 
+    "fr_citation": "72 FR 73635", 
+    "fr_url": "https://www.federalregister.gov/documents/2007/12/28/07-6220/medicaid-program-elimination-of-reimbursement-under-medicaid-for-school-administration-expenditures", 
+    "fr_volume": 72, 
+    "meta": {
+        "start_page": 73635
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES ", 
+    "primary_docket": null, 
+    "publication_date": "2007-12-28", 
+    "regulation_id_numbers": [
+        "0938-AP13"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Elimination of Reimbursement Under Medicaid for School Administration Expenditures and Costs Related to Transportation of School-Age Children Between Home and School ", 
+    "versions": {
+        "433": {
+            "left": "07-2657", 
+            "right": "07-6220"
+        }
+    }
+}

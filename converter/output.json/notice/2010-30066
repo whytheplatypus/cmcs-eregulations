@@ -1,0 +1,924 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "433", 
+            "instruction": "For the reasons set forth in the preamble, the Centers for Medicare & Medicaid Services amends 42 CFR chapter IV as set forth below:"
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "433", 
+            "instruction": "1. The authority citation for part 433 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-50-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "50", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Section 1902(a)(2) of the Act which requires States to share in the cost of medical assistance expenditures and permit both State and local governments to participate in the financing of the non-Federal portion of medical assistance expenditures.", 
+                                "text": "(1) Section 1902(a)(2) of the Act which requires States to share in the cost of medical assistance expenditures and permit both State and local governments to participate in the financing of the non-Federal portion of medical assistance expenditures.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Section \u00a7\u2009433.50 is amended by revising paragraph (a)(1) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-51-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Public Funds may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c) of this section.", 
+                                "text": "(a) Public Funds may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) The public funds are appropriated directly to the State or local Medicaid agency, or are transferred from other public agencies (including Indian tribes) to the State or local agency and under its administrative control, or certified by the contributing public agency as representing expenditures eligible for FFP under this section.", 
+                                "text": "(b) The public funds are appropriated directly to the State or local Medicaid agency, or are transferred from other public agencies (including Indian tribes) to the State or local agency and under its administrative control, or certified by the contributing public agency as representing expenditures eligible for FFP under this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "51", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) The public funds are not Federal funds, or are Federal funds authorized by Federal law to be used to match other Federal funds.", 
+                                "text": "(c) The public funds are not Federal funds, or are Federal funds authorized by Federal law to be used to match other Federal funds.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-51", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-51-a", 
+                                    "433-51-b", 
+                                    "433-51-c"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "51"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 433.51 Public Funds as the State share of financial participation."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "3. Section 433.51 is revised to read as follows:"
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "447", 
+            "instruction": "4. The authority citation for part 447 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-206", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. Section 447.206 is removed."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-207", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "6. Section 447.207 is removed."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-271-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "271", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Except as provided in paragraph (b) of this section, the agency may not pay a provider more for inpatient hospital services under Medicaid than the provider's customary charges to the general public for the services.", 
+                                "text": "(a) Except as provided in paragraph (b) of this section, the agency may not pay a provider more for inpatient hospital services under Medicaid than the provider's customary charges to the general public for the services.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-271-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "271", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) The agency may pay a public provider that provides services free or at a nominal charge at the same rate that would be used if the provider charges were equal to or greater than its costs.", 
+                                "text": "(b) The agency may pay a public provider that provides services free or at a nominal charge at the same rate that would be used if the provider charges were equal to or greater than its costs.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-271", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-271-a", 
+                                    "447-271-b"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "271"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 447.271 Upper limits based on customary charges."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "7. Section \u00a7\u2009447.271 is revised to read as follows:"
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "8. Section 447.272 is amended by\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-272-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) State government-owned or operated facilities (that is, all facilities that are either owned or operated by the State).", 
+                                "text": "(1) State government-owned or operated facilities (that is, all facilities that are either owned or operated by the State).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Non-State government-owned or operated facilities (that is, all government facilities that are neither owned nor operated by the State).", 
+                                "text": "(2) Non-State government-owned or operated facilities (that is, all government facilities that are neither owned nor operated by the State).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-a-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "a", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Privately-owned and operated facilities.", 
+                                "text": "(3) Privately-owned and operated facilities.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-272-a-1", 
+                                    "447-272-a-2", 
+                                    "447-272-a-3"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Scope.</E> This section applies to rates set by the agency to pay for inpatient services furnished by hospitals, NFs, and ICFs/MR within one of the following categories:", 
+                                "text": "(a) Scope. This section applies to rates set by the agency to pay for inpatient services furnished by hospitals, NFs, and ICFs/MR within one of the following categories:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-b-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "text": "(1) Upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Except as provided for in paragraph (c) of this section, aggregate Medicaid payments to a group of facilities within one of the categories described in paragraph (a) of this section may not exceed the upper payment limit described in paragraph (b)(1) of this section.", 
+                                "text": "(2) Except as provided for in paragraph (c) of this section, aggregate Medicaid payments to a group of facilities within one of the categories described in paragraph (a) of this section may not exceed the upper payment limit described in paragraph (b)(1) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-272-b-1", 
+                                    "447-272-b-2"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">General rules.</E>", 
+                                "text": "(b) General rules.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-272-d-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "d", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) For non-State government owned or operated hospitals,\u2014March 19, 2002.", 
+                                "text": "(1) For non-State government owned or operated hospitals,\u2014March 19, 2002.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Revising paragraphs (a), (b), and (d)(1)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-272-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[heading]", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "272", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) <E T=\"03\">Exceptions.</E>", 
+                                "text": "(c) Exceptions.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Revising the heading for paragraph (c)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-272-c-3", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. Removing paragraph (c)(3)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "instruction": "9. Section 447.321 is amended by\u2014"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-321-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) State government-owned or operated facilities (that is, all facilities that are owned or operated by the State.)", 
+                                "text": "(1) State government-owned or operated facilities (that is, all facilities that are owned or operated by the State.)", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Non-State government owned or operated facilities (that is, all government operated facilities that are neither owned nor operated by the State).", 
+                                "text": "(2) Non-State government owned or operated facilities (that is, all government operated facilities that are neither owned nor operated by the State).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-a-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "a", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Privately-owned and operated facilities.", 
+                                "text": "(3) Privately-owned and operated facilities.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-321-a-1", 
+                                    "447-321-a-2", 
+                                    "447-321-a-3"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Scope.</E> This section applies to rates set by the agency to pay for outpatient services furnished by hospitals and clinics within one of the following categories:", 
+                                "text": "(a) Scope. This section applies to rates set by the agency to pay for outpatient services furnished by hospitals and clinics within one of the following categories:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "text": "(1) Upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Except as provided in paragraph (c) of this section, aggregate Medicaid payments to a group of facilities within one of the categories described in paragraph (a) of this section may not exceed the upper payment limit described in paragraph (b)(1) of this section.", 
+                                "text": "(2) Except as provided in paragraph (c) of this section, aggregate Medicaid payments to a group of facilities within one of the categories described in paragraph (a) of this section may not exceed the upper payment limit described in paragraph (b)(1) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "447-321-b-1", 
+                                    "447-321-b-2"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">General rules.</E>", 
+                                "text": "(b) General rules.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) <E T=\"03\">Exceptions.</E> Indian Health Services and tribal facilities. The limitation in paragraph (b) of this section does not apply to Indian Health Services facilities and tribal facilities that are funded through the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638).", 
+                                "text": "(c) Exceptions. Indian Health Services and tribal facilities. The limitation in paragraph (b) of this section does not apply to Indian Health Services facilities and tribal facilities that are funded through the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-d-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "d", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) For non-State government-owned or operated hospitals\u2014March 19, 2002.", 
+                                "text": "(1) For non-State government-owned or operated hospitals\u2014March 19, 2002.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Revising paragraphs (a), (b), (c) and (d)(1)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-321-b", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-d", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[text]", 
+                            "node": {
+                                "child_labels": [
+                                    "447-321-d-1"
+                                ], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) * * *", 
+                                "text": "(d) * * *", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "447-321-b-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "447", 
+                                    "321", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "text": "(1) Upper payment limit refers to a reasonable estimate of the amount that would be paid for the services furnished by the group of facilities under Medicare payment principles in subchapter B of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Revising introductory text of paragraph (d) by removing the phrase \u201cparagraph (b)\u201d and adding in its place the phrase \u201cparagraph (b)(1).\u201d"
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-321-d-2", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. Removing paragraphs (d)(2)."
+        }, 
+        {
+            "cfr_part": "447", 
+            "changes": [
+                [
+                    "447-321-d-3", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "447", 
+                                "321", 
+                                "d", 
+                                "2"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "D. Redesignating paragraph (d)(3)as paragraph (d)(2)."
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "457", 
+            "instruction": "10. The authority for part 457 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-220-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Public funds may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c) of this section.", 
+                                "text": "(a) Public funds may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) The public funds are appropriated directly to the State or local SCHIP agency, or are transferred from other public agencies (including Indian tribes) to the State or local agency and are under its administrative control, or are certified by the contributing public agency as representing expenditures eligible for FFP under this section.", 
+                                "text": "(b) The public funds are appropriated directly to the State or local SCHIP agency, or are transferred from other public agencies (including Indian tribes) to the State or local agency and are under its administrative control, or are certified by the contributing public agency as representing expenditures eligible for FFP under this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "220", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) The public funds are not Federal funds, or are Federal funds authorized by Federal law to be used to match other Federal funds.", 
+                                "text": "(c) The public funds are not Federal funds, or are Federal funds authorized by Federal law to be used to match other Federal funds.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-220", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "457-220-a", 
+                                    "457-220-b", 
+                                    "457-220-c"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "220"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n            ", 
+                                "text": "", 
+                                "title": "\u00a7 457.220 Funds from units of government as the State share of financial participation."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "11. Section 457.220 is revised to read as follows:"
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-628", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "field": "[text]", 
+                            "node": {
+                                "child_labels": [
+                                    "457-628-a"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "628"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n             Other regulations applicable to SCHIP programs include the following:", 
+                                "text": "Other regulations applicable to SCHIP programs include the following:", 
+                                "title": "\u00a7 457.628 Other applicable Federal regulations."
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-628-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "628", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) HHS regulations in 42 Subpart B\u2014433.51-433.74 sources of non-Federal share and Health Care-Related Taxes and Provider-Related Donations; apply to States' SCHIP programs in the same manner as they apply to States' Medicaid programs.", 
+                                "text": "(a) HHS regulations in 42 Subpart B\u2014433.51-433.74 sources of non-Federal share and Health Care-Related Taxes and Provider-Related Donations; apply to States' SCHIP programs in the same manner as they apply to States' Medicaid programs.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "12. Section 457.628 is amended by revising the introductory text and paragraph (a) to read as follows:"
+        }
+    ], 
+    "cfr_parts": [
+        "433", 
+        "447", 
+        "457"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2361-F"
+    ], 
+    "document_number": "2010-30066", 
+    "effective_on": "2010-11-30", 
+    "footnotes": {}, 
+    "fr_citation": "75 FR 73972", 
+    "fr_url": "https://www.federalregister.gov/documents/2010/11/30/2010-30066/medicaid-program-cost-limit-for-providers-operated-by-units-of-government-and-provisions-to-ensure", 
+    "fr_volume": 75, 
+    "meta": {
+        "start_page": 73972
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES ", 
+    "primary_docket": null, 
+    "publication_date": "2010-11-30", 
+    "regulation_id_numbers": [
+        "0938-AQ40"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Cost Limit for Providers Operated by Units of Government and Provisions To Ensure the Integrity of Federal-State Financial Partnership ", 
+    "versions": {
+        "433": {
+            "left": "E9-15347", 
+            "right": "2010-30066"
+        }
+    }
+}

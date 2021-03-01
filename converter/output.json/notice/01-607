@@ -1,0 +1,3285 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "431", 
+            "instruction": "A. Part 431 is amended as follows:"
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act, (42 U.S.C. 1302).", 
+            "cfr_part": "431", 
+            "instruction": "1. The authority citation for part 431 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "431", 
+            "changes": [
+                [
+                    "431-636-a-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Section 2102(b)(3)(B) of the Act, which provides that children who apply for coverage under a separate child health plan under title XXI, but are found to be eligible for medical assistance under the State Medicaid plan, must be enrolled in the State Medicaid plan; and", 
+                                "text": "(1) Section 2102(b)(3)(B) of the Act, which provides that children who apply for coverage under a separate child health plan under title XXI, but are found to be eligible for medical assistance under the State Medicaid plan, must be enrolled in the State Medicaid plan; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636-a-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Section 2102(c)(2) of the Act, which requires coordination between a State child health program and other public health insurance programs.", 
+                                "text": "(2) Section 2102(c)(2) of the Act, which requires coordination between a State child health program and other public health insurance programs.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "431-636-a-1", 
+                                    "431-636-a-2"
+                                ], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Statutory basis.</E> This section implements\u2014", 
+                                "text": "(a) Statutory basis. This section implements\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636-b-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) The applicant is not required to provide information or documentation that has been provided to the State agency responsible for determining eligibility under a separate child health program under title XXI and forwarded by such agency to the Medicaid agency on behalf of the child in accordance with \u00a7\u2009457.350(f) of this chapter;", 
+                                "text": "(1) The applicant is not required to provide information or documentation that has been provided to the State agency responsible for determining eligibility under a separate child health program under title XXI and forwarded by such agency to the Medicaid agency on behalf of the child in accordance with \u00a7\u2009457.350(f) of this chapter;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636-b-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Eligibility is determined in a timely manner in accordance with \u00a7\u2009435.911 of this chapter;", 
+                                "text": "(2) Eligibility is determined in a timely manner in accordance with \u00a7\u2009435.911 of this chapter;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636-b-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The Medicaid agency promptly notifies the State agency responsible for determining eligibility under a separate child health program when a child who was screened as potentially eligible for Medicaid is determined ineligible or eligible for Medicaid; and", 
+                                "text": "(3) The Medicaid agency promptly notifies the State agency responsible for determining eligibility under a separate child health program when a child who was screened as potentially eligible for Medicaid is determined ineligible or eligible for Medicaid; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636-b-4-p1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "b", 
+                                    "4", 
+                                    "p1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "3. In \u00a7\u2009431.865(b), the definition of \u201cerroneous payments\u201d is revised to read as follows:", 
+                                "text": "3. In \u00a7\u2009431.865(b), the definition of \u201cerroneous payments\u201d is revised to read as follows:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636-b-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "431-636-b-4-p1"
+                                ], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) The Medicaid agency adopts a process that facilitates enrollment in a State child health program when a child is determined ineligible for Medicaid at initial application or redetermination.", 
+                                "text": "(4) The Medicaid agency adopts a process that facilitates enrollment in a State child health program when a child is determined ineligible for Medicaid at initial application or redetermination.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "431-636-b-1", 
+                                    "431-636-b-2", 
+                                    "431-636-b-3", 
+                                    "431-636-b-4"
+                                ], 
+                                "label": [
+                                    "431", 
+                                    "636", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Obligations of State Medicaid Agency.</E> The State Medicaid agency must adopt procedures to facilitate the Medicaid application process for, and the enrollment of children for whom the Medicaid application and enrollment process has been initiated in accordance with \u00a7\u2009457.350(f) of this chapter. The procedures must ensure that\u2014", 
+                                "text": "(b) Obligations of State Medicaid Agency. The State Medicaid agency must adopt procedures to facilitate the Medicaid application process for, and the enrollment of children for whom the Medicaid application and enrollment process has been initiated in accordance with \u00a7\u2009457.350(f) of this chapter. The procedures must ensure that\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "431-636", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "431-636-a", 
+                                    "431-636-b"
+                                ], 
+                                "label": [
+                                    "431", 
+                                    "636"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 431.636 Coordination of Medicaid with the State Children's Health Insurance Program (SCHIP)."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. A new \u00a7\u2009431.636 is added to read as follows: "
+        }, 
+        {
+            "cfr_part": "431", 
+            "instruction": "B. Part 433 is amended as follows:"
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act, (42 U.S.C. 1302).", 
+            "cfr_part": "433", 
+            "instruction": "1. The authority citation for part 433 is revised to read as follows: "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-10-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "field": "[heading]", 
+                            "node": {
+                                "child_labels": [
+                                    "433-10-c-4"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "10", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) <E T=\"03\">Special provisions.</E> * * *", 
+                                "text": "(c) Special provisions. * * *", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-10-c-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "10", 
+                                    "c", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Under section 1905(b) of the Social Security Act, the Federal share of State expenditures described in \u00a7\u2009433.11(a) for services provided to children, is the enhanced FMAP rate determined in accordance with \u00a7\u2009457.622(b) of this chapter, subject to the conditions explained in \u00a7\u2009433.11(b).", 
+                                "text": "(4) Under section 1905(b) of the Social Security Act, the Federal share of State expenditures described in \u00a7\u2009433.11(a) for services provided to children, is the enhanced FMAP rate determined in accordance with \u00a7\u2009457.622(b) of this chapter, subject to the conditions explained in \u00a7\u2009433.11(b).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. In \u00a7\u2009433.10, the heading of paragraph (c) is republished and a new paragraph (c)(4) is added to read as follows: "
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-11-a-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Services provided to optional targeted low-income children described in \u00a7\u2009435.4 or \u00a7\u2009436.3 of this chapter; and", 
+                                "text": "(1) Services provided to optional targeted low-income children described in \u00a7\u2009435.4 or \u00a7\u2009436.3 of this chapter; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11-a-2-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "a", 
+                                    "2", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) They had been born on or after that date; and", 
+                                "text": "(i) They had been born on or after that date; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11-a-2-ii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "a", 
+                                    "2", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) They would not qualify for medical assistance under the State plan in effect on March 31, 1997.", 
+                                "text": "(ii) They would not qualify for medical assistance under the State plan in effect on March 31, 1997.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11-a-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "433-11-a-2-i", 
+                                    "433-11-a-2-ii"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Services provided to children born before October 1, 1983, with or without group health coverage or other health insurance coverage, who would be described in section 1902(l)(1)(D) of the Act (poverty-level-related children's groups) if\u2014", 
+                                "text": "(2) Services provided to children born before October 1, 1983, with or without group health coverage or other health insurance coverage, who would be described in section 1902(l)(1)(D) of the Act (poverty-level-related children's groups) if\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "433-11-a-1", 
+                                    "433-11-a-2"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Subject to the conditions in paragraph (b) of this section, the enhanced FMAP determined in accordance with \u00a7\u2009457.622 of this chapter will be used to determine the Federal share of State expenditures, except any expenditures pursuant to section 1923 of the Act for payments to disproportionate share hospitals for\u2014", 
+                                "text": "(a) Subject to the conditions in paragraph (b) of this section, the enhanced FMAP determined in accordance with \u00a7\u2009457.622 of this chapter will be used to determine the Federal share of State expenditures, except any expenditures pursuant to section 1923 of the Act for payments to disproportionate share hospitals for\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11-b-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) A State adopts income and resource standards and methodologies for purposes of determining a child's eligibility under the Medicaid State plan that are more restrictive than those applied under policies of the State plan (as described in the definition of optional targeted low-income children at \u00a7\u2009435.4 of this chapter) in effect on June 1, 1997; or", 
+                                "text": "(1) A State adopts income and resource standards and methodologies for purposes of determining a child's eligibility under the Medicaid State plan that are more restrictive than those applied under policies of the State plan (as described in the definition of optional targeted low-income children at \u00a7\u2009435.4 of this chapter) in effect on June 1, 1997; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11-b-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) No funds are available in the State's title XXI allotment, as determined under part 457, subpart F of this chapter for the quarter enhanced FMAP is claimed; or", 
+                                "text": "(2) No funds are available in the State's title XXI allotment, as determined under part 457, subpart F of this chapter for the quarter enhanced FMAP is claimed; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11-b-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The State fails to maintain a valid method of identifying services provided on behalf of children listed in paragraph (a) of this section.", 
+                                "text": "(3) The State fails to maintain a valid method of identifying services provided on behalf of children listed in paragraph (a) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "433-11-b-1", 
+                                    "433-11-b-2", 
+                                    "433-11-b-3"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "11", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) Enhanced FMAP is not available if\u2014", 
+                                "text": "(b) Enhanced FMAP is not available if\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-11", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "433-11-a", 
+                                    "433-11-b"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "11"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 433.11 Enhanced FMAP rate for children."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "3. A new \u00a7\u2009433.11 is added to read as follows: "
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "435", 
+            "instruction": "1. The authority citation for part 435 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-4-p1444244841", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "4", 
+                                    "p1444244841"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Optional targeted low-income child</E> means a child under age 19 who meets the financial and categorical standards described below.", 
+                                "text": "Optional targeted low-income child means a child under age 19 who meets the financial and categorical standards described below.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Section 435.4 is amended by adding a definition of \u201coptional targeted low-income child,\u201d in alphabetical order, to read as follows: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-229-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "229", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) All individuals under age 19 who are optional targeted low-income children as defined in \u00a7\u2009435.4; or", 
+                                "text": "(a) All individuals under age 19 who are optional targeted low-income children as defined in \u00a7\u2009435.4; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-229-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "229", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) Reasonable categories of these individuals.", 
+                                "text": "(b) Reasonable categories of these individuals.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-229", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "435-229-a", 
+                                    "435-229-b"
+                                ], 
+                                "label": [
+                                    "435", 
+                                    "229"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n               The agency may provide Medicaid to\u2014", 
+                                "text": "The agency may provide Medicaid to\u2014", 
+                                "title": "\u00a7 435.229 Optional targeted low-income children."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "3. A new \u00a7\u2009435.229 is added to read as follows: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-910-h-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "910", 
+                                    "h", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) A State may give a Medicaid identification number to an applicant who, because of well established religious objections, refuses to obtain a Social Security Number (SSN). The identification number may be either an SSN obtained by the State on the applicant's behalf or another unique identifier.", 
+                                "text": "(1) A State may give a Medicaid identification number to an applicant who, because of well established religious objections, refuses to obtain a Social Security Number (SSN). The identification number may be either an SSN obtained by the State on the applicant's behalf or another unique identifier.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-910-h-2-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "910", 
+                                    "h", 
+                                    "2", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) Is a member of a recognized religious sect or division of the sect; and", 
+                                "text": "(i) Is a member of a recognized religious sect or division of the sect; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-910-h-2-ii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "910", 
+                                    "h", 
+                                    "2", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) Adheres to the tenets or teachings of the sect or division of the sect and for that reason is conscientiously opposed to applying for or using a national identification number.", 
+                                "text": "(ii) Adheres to the tenets or teachings of the sect or division of the sect and for that reason is conscientiously opposed to applying for or using a national identification number.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-910-h-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "435-910-h-2-i", 
+                                    "435-910-h-2-ii"
+                                ], 
+                                "label": [
+                                    "435", 
+                                    "910", 
+                                    "h", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) The term <E T=\"03\">well established religious objections</E> means that the applicant\u2014", 
+                                "text": "(2) The term well established religious objections means that the applicant\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-910-h-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "910", 
+                                    "h", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) A State may use the Medicaid identification number established by the State to the same extent as an SSN is used for purposes described in paragraph (b)(3) of this section.", 
+                                "text": "(3) A State may use the Medicaid identification number established by the State to the same extent as an SSN is used for purposes described in paragraph (b)(3) of this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-910-h", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "435-910-h-1", 
+                                    "435-910-h-2", 
+                                    "435-910-h-3"
+                                ], 
+                                "label": [
+                                    "435", 
+                                    "910", 
+                                    "h"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(h) <E T=\"03\">Exception.</E>", 
+                                "text": "(h) Exception.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "4. In \u00a7\u2009435.910, paragraph (h) is added to read as follows: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-1001-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1001", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Determining and redetermining Medicaid eligibility and in providing Medicaid to eligible individuals; and", 
+                                "text": "(1) Determining and redetermining Medicaid eligibility and in providing Medicaid to eligible individuals; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1001-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1001", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Determining presumptive eligibility for children and providing services to presumptively eligible children.", 
+                                "text": "(2) Determining presumptive eligibility for children and providing services to presumptively eligible children.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1001-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "435-1001-a-1", 
+                                    "435-1001-a-2"
+                                ], 
+                                "label": [
+                                    "435", 
+                                    "1001", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) FFP is available in the necessary administrative costs the State incurs in\u2014", 
+                                "text": "(a) FFP is available in the necessary administrative costs the State incurs in\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. In \u00a7\u2009435.1001, paragraph (a) is revised to read as follows: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-1002-c-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1002", 
+                                    "c", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) To children who are determined by a qualified entity to be presumptively eligible;", 
+                                "text": "(1) To children who are determined by a qualified entity to be presumptively eligible;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1002-c-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1002", 
+                                    "c", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) During a period of presumptive eligibility;", 
+                                "text": "(2) During a period of presumptive eligibility;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1002-c-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1002", 
+                                    "c", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) By a provider that is eligible for payment under the plan; and", 
+                                "text": "(3) By a provider that is eligible for payment under the plan; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1002-c-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1002", 
+                                    "c", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Regardless of whether the children are determined eligible for Medicaid following the period of presumptive eligibility.", 
+                                "text": "(4) Regardless of whether the children are determined eligible for Medicaid following the period of presumptive eligibility.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1002-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "435-1002-c-1", 
+                                    "435-1002-c-2", 
+                                    "435-1002-c-3", 
+                                    "435-1002-c-4"
+                                ], 
+                                "label": [
+                                    "435", 
+                                    "1002", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) FFP is available in expenditures for services covered under the plan that are furnished\u2014", 
+                                "text": "(c) FFP is available in expenditures for services covered under the plan that are furnished\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "6. Section 435.1002 is amended by adding a new paragraph (c) to read as follows: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "instruction": "7. In \u00a7\u2009435.1007, in paragraph (a), the second sentence is amended by adding \u201cand section 1905(u)\u201d between \u201c(X)\u201d, and \u201cof the Act;\u201d. "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-1100-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1100", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Statutory basis.</E> Section 1920A of the Act allows States to provide Medicaid services to children under age 19 during a period of presumptive eligibility, prior to a formal determination of Medicaid eligibility.", 
+                                "text": "(a) Statutory basis. Section 1920A of the Act allows States to provide Medicaid services to children under age 19 during a period of presumptive eligibility, prior to a formal determination of Medicaid eligibility.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1100-b-p1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1100", 
+                                    "b", 
+                                    "p1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "", 
+                                "text": "", 
+                                "title": "Presumptive Eligibility for Children"
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1100-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1100", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) Scope. This subpart prescribes the requirements for providing medical assistance to special groups who are not eligible for Medicaid as categorically or medically needy.", 
+                                "text": "(b) Scope. This subpart prescribes the requirements for providing medical assistance to special groups who are not eligible for Medicaid as categorically or medically needy.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1100", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1100"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n                ", 
+                                "text": "", 
+                                "title": "\u00a7 435.1100 Basis and scope."
+                            }, 
+                            "parent_label": [
+                                "435", 
+                                "Subpart", 
+                                "L"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p3154207987", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p3154207987"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Application form</E> means at a minimum the form used to apply for Medicaid under the poverty-level-related eligibility groups described in section 1902(l) of the Act or a joint form for children to apply for the State Children's Health Insurance Program and Medicaid.", 
+                                "text": "Application form means at a minimum the form used to apply for Medicaid under the poverty-level-related eligibility groups described in section 1902(l) of the Act or a joint form for children to apply for the State Children's Health Insurance Program and Medicaid.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p2054787805-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p2054787805", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) In the case of a child on whose behalf a Medicaid application has been filed, the day on which a decision is made on that application; or", 
+                                "text": "(1) In the case of a child on whose behalf a Medicaid application has been filed, the day on which a decision is made on that application; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p2054787805-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p2054787805", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) In the case of a child on whose behalf a Medicaid application has not been filed, the last day of the month following the month in which the determination of presumptive eligibility was made.", 
+                                "text": "(2) In the case of a child on whose behalf a Medicaid application has not been filed, the last day of the month following the month in which the determination of presumptive eligibility was made.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p2054787805", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p2054787805"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Period of presumptive eligibility</E> means a period that begins on the date on which a qualified entity determines that a child is presumptively eligible and ends with the earlier of\u2014", 
+                                "text": "Period of presumptive eligibility means a period that begins on the date on which a qualified entity determines that a child is presumptively eligible and ends with the earlier of\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1459172574", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1459172574"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Presumptive income standard</E> means the highest income eligibility standard established under the plan that is most likely to be used to establish the regular Medicaid eligibility of a child of the age involved.", 
+                                "text": "Presumptive income standard means the highest income eligibility standard established under the plan that is most likely to be used to establish the regular Medicaid eligibility of a child of the age involved.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Furnishes health care items and services covered under the approved plan and is eligible to receive payments under the approved plan;", 
+                                "text": "(1) Furnishes health care items and services covered under the approved plan and is eligible to receive payments under the approved plan;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Is authorized to determine eligibility of a child to participate in a Head Start program under the Head Start Act;", 
+                                "text": "(2) Is authorized to determine eligibility of a child to participate in a Head Start program under the Head Start Act;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Is authorized to determine eligibility of a child to receive child care services for which financial assistance is provided under the Child Care and Development Block Grant Act of 1990;", 
+                                "text": "(3) Is authorized to determine eligibility of a child to receive child care services for which financial assistance is provided under the Child Care and Development Block Grant Act of 1990;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Is authorized to determine eligibility of an infant or child to receive assistance under the special nutrition program for women, infants, and children (WIC) under section 17 of the Child Nutrition Act of 1966;", 
+                                "text": "(4) Is authorized to determine eligibility of an infant or child to receive assistance under the special nutrition program for women, infants, and children (WIC) under section 17 of the Child Nutrition Act of 1966;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-5", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "5"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(5) Is an elementary or secondary school, as defined in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801);", 
+                                "text": "(5) Is an elementary or secondary school, as defined in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801);", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-6", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "6"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(6) Is an elementary or secondary school operated or supported by the Bureau of Indian Affairs;", 
+                                "text": "(6) Is an elementary or secondary school operated or supported by the Bureau of Indian Affairs;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-7", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "7"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(7) Is a State or Tribal child support enforcement agency;", 
+                                "text": "(7) Is a State or Tribal child support enforcement agency;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-8", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "8"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(8) Is an organization that is providing emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act;", 
+                                "text": "(8) Is an organization that is providing emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-9", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "9"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(9) Is a State or Tribal office or entity involved in enrollment in the program under Part A of title IV, title XIX, or title XXI; or", 
+                                "text": "(9) Is a State or Tribal office or entity involved in enrollment in the program under Part A of title IV, title XIX, or title XXI; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-10", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "10"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(10) Is an entity that determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437) or under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 <E T=\"03\">et seq.</E>); or", 
+                                "text": "(10) Is an entity that determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437) or under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 et seq.); or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-11", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "11"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(11) Any other entity the State so deems, as approved by the Secretary.", 
+                                "text": "(11) Any other entity the State so deems, as approved by the Secretary.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1546495789"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Qualified entity</E> means an entity that is determined by the State to be capable of making determinations of presumptive eligibility for children, and that\u2014", 
+                                "text": "Qualified entity means an entity that is determined by the State to be capable of making determinations of presumptive eligibility for children, and that\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1048226425", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101", 
+                                    "p1048226425"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Services</E> means all services covered under the plan including EPSDT (see part 440 of this chapter).", 
+                                "text": "Services means all services covered under the plan including EPSDT (see part 440 of this chapter).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1101"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n                ", 
+                                "text": "", 
+                                "title": "\u00a7 435.1101 Definitions related to presumptive eligibility for children."
+                            }, 
+                            "parent_label": [
+                                "435", 
+                                "Subpart", 
+                                "L"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) The agency may provide services to children under age 19 during one or more periods of presumptive eligibility following a determination by a qualified entity that the child's estimated gross family income or, at the State's option, the child's estimated family income after applying simple disregards, does not exceed the applicable income standard.", 
+                                "text": "(a) The agency may provide services to children under age 19 during one or more periods of presumptive eligibility following a determination by a qualified entity that the child's estimated gross family income or, at the State's option, the child's estimated family income after applying simple disregards, does not exceed the applicable income standard.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Provide qualified entities with application forms for Medicaid and information on how to assist parents, caretakers and other persons in completing and filing such forms;", 
+                                "text": "(1) Provide qualified entities with application forms for Medicaid and information on how to assist parents, caretakers and other persons in completing and filing such forms;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) Notify the parent or caretaker of the child at the time a determination regarding presumptive eligibility is made, in writing and orally if appropriate, of such determination;", 
+                                "text": "(i) Notify the parent or caretaker of the child at the time a determination regarding presumptive eligibility is made, in writing and orally if appropriate, of such determination;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-ii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) Provide the parent or caretaker of the child with a regular Medicaid application form;", 
+                                "text": "(ii) Provide the parent or caretaker of the child with a regular Medicaid application form;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-iii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "iii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iii) Within five working days after the date that the determination is made, notify the agency that a child is presumptively eligible;", 
+                                "text": "(iii) Within five working days after the date that the determination is made, notify the agency that a child is presumptively eligible;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-iv-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "iv", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) If a Medicaid application on behalf of the child is not filed by the last day of the following month, the child's presumptive eligibility will end on that last day; and", 
+                                "text": "(A) If a Medicaid application on behalf of the child is not filed by the last day of the following month, the child's presumptive eligibility will end on that last day; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-iv-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "iv", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) If a Medicaid application on behalf of the child is filed by the last day of the following month, the child's presumptive eligibility will end on the day that a decision is made on the Medicaid application; and", 
+                                "text": "(B) If a Medicaid application on behalf of the child is filed by the last day of the following month, the child's presumptive eligibility will end on the day that a decision is made on the Medicaid application; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-iv", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "iv"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iv) For children determined to be presumptively eligible, notify the child's parent or caretaker at the time the determination is made, in writing and orally if appropriate, that\u2014", 
+                                "text": "(iv) For children determined to be presumptively eligible, notify the child's parent or caretaker at the time the determination is made, in writing and orally if appropriate, that\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-v-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "v", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) Of the reason for the determination; and", 
+                                "text": "(A) Of the reason for the determination; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-v-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "v", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) That he or she may file an application for Medicaid on the child's behalf with the Medicaid agency;", 
+                                "text": "(B) That he or she may file an application for Medicaid on the child's behalf with the Medicaid agency;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2-v", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "v"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(v) For children determined not to be presumptively eligible, notify the child's parent or caretaker at the time the determination is made, in writing and orally if appropriate\u2014", 
+                                "text": "(v) For children determined not to be presumptively eligible, notify the child's parent or caretaker at the time the determination is made, in writing and orally if appropriate\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Establish procedures to ensure that qualified entities\u2014", 
+                                "text": "(2) Establish procedures to ensure that qualified entities\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Provide all services covered under the plan, including EPSDT; and", 
+                                "text": "(3) Provide all services covered under the plan, including EPSDT; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Allow determinations of presumptive eligibility to be made by qualified entities on a Statewide basis.", 
+                                "text": "(4) Allow determinations of presumptive eligibility to be made by qualified entities on a Statewide basis.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) If the agency elects to provide services to children during a period of presumptive eligibility, the agency must\u2014", 
+                                "text": "(b) If the agency elects to provide services to children during a period of presumptive eligibility, the agency must\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-c-p1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "c", 
+                                    "p1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "D. Part 436 is amended as set forth below:", 
+                                "text": "D. Part 436 is amended as set forth below:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) The agency must adopt reasonable standards regarding the number of periods of presumptive eligibility that will be authorized for a child in a given time frame.", 
+                                "text": "(c) The agency must adopt reasonable standards regarding the number of periods of presumptive eligibility that will be authorized for a child in a given time frame.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "435-1102", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "1102"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n                ", 
+                                "text": "", 
+                                "title": "\u00a7 435.1102 General rules."
+                            }, 
+                            "parent_label": [
+                                "435", 
+                                "Subpart", 
+                                "L"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-Subpart-L", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "435", 
+                                    "Subpart", 
+                                    "L"
+                                ], 
+                                "node_type": "subpart", 
+                                "tagged_text": "", 
+                                "text": "", 
+                                "title": "Option for Coverage of Special Groups"
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "8. A new subpart L is added to part 435 to read as follows: "
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "436", 
+            "instruction": "1. The authority citation for part 436 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "436", 
+            "changes": [
+                [
+                    "436-3-p1444244841", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "3", 
+                                    "p1444244841"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Optional targeted low-income child</E> means a child under age 19 who meets the financial and categorical standards described below.", 
+                                "text": "Optional targeted low-income child means a child under age 19 who meets the financial and categorical standards described below.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Section 436.3 is amended by adding a definition of \u201coptional targeted low-income child,\u201d in alphabetical order, to read as follows: "
+        }, 
+        {
+            "cfr_part": "436", 
+            "changes": [
+                [
+                    "436-229-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "229", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) All individuals under age 19 who are optional targeted low-income children as defined in \u00a7\u2009436.3; or", 
+                                "text": "(a) All individuals under age 19 who are optional targeted low-income children as defined in \u00a7\u2009436.3; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-229-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "229", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) Reasonable categories of these individuals.", 
+                                "text": "(b) Reasonable categories of these individuals.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-229", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "436-229-a", 
+                                    "436-229-b"
+                                ], 
+                                "label": [
+                                    "436", 
+                                    "229"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n               The agency may provide Medicaid to\u2014", 
+                                "text": "The agency may provide Medicaid to\u2014", 
+                                "title": "\u00a7 436.229 Optional targeted low-income children."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "3. A new \u00a7\u2009436.229 is added to read as follows:"
+        }, 
+        {
+            "cfr_part": "436", 
+            "changes": [
+                [
+                    "436-1001-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1001", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Determining and redetermining Medicaid eligibility and in providing Medicaid to eligible individuals; and", 
+                                "text": "(1) Determining and redetermining Medicaid eligibility and in providing Medicaid to eligible individuals; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1001-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1001", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Determining presumptive eligibility for children and providing services to presumptively eligible children.", 
+                                "text": "(2) Determining presumptive eligibility for children and providing services to presumptively eligible children.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1001-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "436-1001-a-1", 
+                                    "436-1001-a-2"
+                                ], 
+                                "label": [
+                                    "436", 
+                                    "1001", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) FFP is available in the necessary administrative costs the State incurs in\u2014", 
+                                "text": "(a) FFP is available in the necessary administrative costs the State incurs in\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "4. In \u00a7\u2009436.1001 paragraph (a) is revised to read as follows: "
+        }, 
+        {
+            "cfr_part": "436", 
+            "changes": [
+                [
+                    "436-1002-c-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1002", 
+                                    "c", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) To children who are determined by a qualified entity to be presumptively eligible;", 
+                                "text": "(1) To children who are determined by a qualified entity to be presumptively eligible;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1002-c-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1002", 
+                                    "c", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) During a period of presumptive eligibility;", 
+                                "text": "(2) During a period of presumptive eligibility;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1002-c-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1002", 
+                                    "c", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) By a provider that is eligible for payment under the plan; and", 
+                                "text": "(3) By a provider that is eligible for payment under the plan; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1002-c-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1002", 
+                                    "c", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Regardless of whether the children are determined eligible for Medicaid following the period of presumptive eligibility.", 
+                                "text": "(4) Regardless of whether the children are determined eligible for Medicaid following the period of presumptive eligibility.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1002-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "436-1002-c-1", 
+                                    "436-1002-c-2", 
+                                    "436-1002-c-3", 
+                                    "436-1002-c-4"
+                                ], 
+                                "label": [
+                                    "436", 
+                                    "1002", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) FFP is available in expenditures for services covered under the plan that are furnished\u2014", 
+                                "text": "(c) FFP is available in expenditures for services covered under the plan that are furnished\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. Section 436.1002 is amended by adding a new paragraph (c) to read as follows: "
+        }, 
+        {
+            "cfr_part": "436", 
+            "changes": [
+                [
+                    "436-1100-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1100", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Statutory basis.</E> Section 1920A of the Act allows States to provide Medicaid services to children under age 19 during a period of presumptive eligibility, prior to a formal determination of Medicaid eligibility.", 
+                                "text": "(a) Statutory basis. Section 1920A of the Act allows States to provide Medicaid services to children under age 19 during a period of presumptive eligibility, prior to a formal determination of Medicaid eligibility.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1100-b-p1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1100", 
+                                    "b", 
+                                    "p1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "", 
+                                "text": "", 
+                                "title": "Presumptive Eligibility for Children"
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1100-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1100", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Scope.</E> This subpart prescribes the requirements for providing medical assistance to special groups who are not eligible for Medicaid as categorically or medically needy.", 
+                                "text": "(b) Scope. This subpart prescribes the requirements for providing medical assistance to special groups who are not eligible for Medicaid as categorically or medically needy.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1100", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1100"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n                ", 
+                                "text": "", 
+                                "title": "\u00a7 436.1100 Basis and scope."
+                            }, 
+                            "parent_label": [
+                                "436", 
+                                "Subpart", 
+                                "L"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p3154207987", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p3154207987"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Application form</E> means at a minimum the form used to apply for Medicaid under the poverty-level-related eligibility groups described in section 1902(l) of the Act or a joint form for children to apply for the State Children's Health Insurance Program and Medicaid.", 
+                                "text": "Application form means at a minimum the form used to apply for Medicaid under the poverty-level-related eligibility groups described in section 1902(l) of the Act or a joint form for children to apply for the State Children's Health Insurance Program and Medicaid.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p2054787805-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p2054787805", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) In the case of a child on whose behalf a Medicaid application has been filed, the day on which a decision is made on that application; or", 
+                                "text": "(1) In the case of a child on whose behalf a Medicaid application has been filed, the day on which a decision is made on that application; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p2054787805-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p2054787805", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) In the case of a child on whose behalf a Medicaid application has not been filed, the last day of the month following the month in which the determination of presumptive eligibility was made.", 
+                                "text": "(2) In the case of a child on whose behalf a Medicaid application has not been filed, the last day of the month following the month in which the determination of presumptive eligibility was made.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p2054787805", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p2054787805"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Period of presumptive eligibility</E> means a period that begins on the date on which a qualified entity determines that a child is presumptively eligible and ends with the earlier of\u2014", 
+                                "text": "Period of presumptive eligibility means a period that begins on the date on which a qualified entity determines that a child is presumptively eligible and ends with the earlier of\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1459172574", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1459172574"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Presumptive income standard</E> means the highest income eligibility standard established under the plan that is most likely to be used to establish the regular Medicaid eligibility of a child of the age involved.", 
+                                "text": "Presumptive income standard means the highest income eligibility standard established under the plan that is most likely to be used to establish the regular Medicaid eligibility of a child of the age involved.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Furnishes health care items and services covered under the approved plan and is eligible to receive payments under the approved plan;", 
+                                "text": "(1) Furnishes health care items and services covered under the approved plan and is eligible to receive payments under the approved plan;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Is authorized to determine eligibility of a child to participate in a Head Start program under the Head Start Act;", 
+                                "text": "(2) Is authorized to determine eligibility of a child to participate in a Head Start program under the Head Start Act;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Is authorized to determine eligibility of a child to receive child care services for which financial assistance is provided under the Child Care and Development Block Grant Act of 1990;", 
+                                "text": "(3) Is authorized to determine eligibility of a child to receive child care services for which financial assistance is provided under the Child Care and Development Block Grant Act of 1990;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Is authorized to determine eligibility of an infant or child to receive assistance under the special nutrition program for women, infants, and children (WIC) under section 17 of the Child Nutrition Act of 1966;", 
+                                "text": "(4) Is authorized to determine eligibility of an infant or child to receive assistance under the special nutrition program for women, infants, and children (WIC) under section 17 of the Child Nutrition Act of 1966;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-5", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "5"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(5) Is an elementary or secondary school, as defined in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801);", 
+                                "text": "(5) Is an elementary or secondary school, as defined in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801);", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-6", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "6"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(6) Is an elementary or secondary school operated or supported by the Bureau of Indian Affairs;", 
+                                "text": "(6) Is an elementary or secondary school operated or supported by the Bureau of Indian Affairs;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-7", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "7"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(7) Is a State or Tribal child support enforcement agency;", 
+                                "text": "(7) Is a State or Tribal child support enforcement agency;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-8", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "8"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(8) Is an organization that is providing emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act;", 
+                                "text": "(8) Is an organization that is providing emergency food and shelter under a grant under the Stewart B. McKinney Homeless Assistance Act;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-9", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "9"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(9) Is a State or Tribal office or entity involved in enrollment in the program under Part A of title IV, title XIX, or title XXI; or", 
+                                "text": "(9) Is a State or Tribal office or entity involved in enrollment in the program under Part A of title IV, title XIX, or title XXI; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-10", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "10"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(10) Is an entity that determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437) or under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 <E T=\"03\">et seq.</E>); or", 
+                                "text": "(10) Is an entity that determines eligibility for any assistance or benefits provided under any program of public or assisted housing that receives Federal funds, including the program under section 8 or any other section of the United States Housing Act of 1937 (42 U.S.C. 1437) or under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 et seq.); or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-11", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789", 
+                                    "11"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(11) Any other entity the State so deems, as approved by the Secretary.", 
+                                "text": "(11) Any other entity the State so deems, as approved by the Secretary.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1546495789"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Qualified entity</E> means an entity that is determined by the State to be capable of making determinations of presumptive eligibility for children, and that\u2014", 
+                                "text": "Qualified entity means an entity that is determined by the State to be capable of making determinations of presumptive eligibility for children, and that\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1048226425", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101", 
+                                    "p1048226425"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">Services</E> means all services covered under the plan including EPSDT (see part 440 of this chapter.)", 
+                                "text": "Services means all services covered under the plan including EPSDT (see part 440 of this chapter.)", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1101"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n                ", 
+                                "text": "", 
+                                "title": "\u00a7 436.1101 Definitions related to presumptive eligibility period for children."
+                            }, 
+                            "parent_label": [
+                                "436", 
+                                "Subpart", 
+                                "L"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) The agency may provide services to children under age 19 during one or more periods of presumptive eligibility following a determination made by a qualified entity that the child's estimated gross family income or, at the State's option, the child's estimated family income after applying simple disregards, does not exceed the applicable income standard.", 
+                                "text": "(a) The agency may provide services to children under age 19 during one or more periods of presumptive eligibility following a determination made by a qualified entity that the child's estimated gross family income or, at the State's option, the child's estimated family income after applying simple disregards, does not exceed the applicable income standard.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-1", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) Provide qualified entities with application forms for Medicaid and information on how to assist parents, caretakers and other persons in completing and filing such forms;", 
+                                "text": "(1) Provide qualified entities with application forms for Medicaid and information on how to assist parents, caretakers and other persons in completing and filing such forms;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) Notify the parent or caretaker of the child at the time a determination regarding presumptive eligibility is made, in writing and orally if appropriate, of such determination;", 
+                                "text": "(i) Notify the parent or caretaker of the child at the time a determination regarding presumptive eligibility is made, in writing and orally if appropriate, of such determination;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-ii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "ii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(ii) Provide the parent or caretaker of the child with a Medicaid application form;", 
+                                "text": "(ii) Provide the parent or caretaker of the child with a Medicaid application form;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-iii", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "iii"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iii) Within 5 working days after the date that the determination is made, notify the agency that a child is presumptively eligible;", 
+                                "text": "(iii) Within 5 working days after the date that the determination is made, notify the agency that a child is presumptively eligible;", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-iv-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "iv", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) If a Medicaid application on behalf of the child is not filed by the last day of the following month, the child's presumptive eligibility will end on that last day; and", 
+                                "text": "(A) If a Medicaid application on behalf of the child is not filed by the last day of the following month, the child's presumptive eligibility will end on that last day; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-iv-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "iv", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) If a Medicaid application on behalf of the child is filed by the last day of the following month, the child's presumptive eligibility will end on the day that a decision is made on the Medicaid application; and", 
+                                "text": "(B) If a Medicaid application on behalf of the child is filed by the last day of the following month, the child's presumptive eligibility will end on the day that a decision is made on the Medicaid application; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-iv", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "iv"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(iv) For children determined to be presumptively eligible, notify the child's parent or caretaker at the time the determination is made, in writing and orally if appropriate, that\u2014", 
+                                "text": "(iv) For children determined to be presumptively eligible, notify the child's parent or caretaker at the time the determination is made, in writing and orally if appropriate, that\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-v-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "v", 
+                                    "A"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(A) Of the reason for the determination; and", 
+                                "text": "(A) Of the reason for the determination; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-v-B", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "v", 
+                                    "B"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(B) That he or she may file an application for Medicaid on the child's behalf with the Medicaid agency; and", 
+                                "text": "(B) That he or she may file an application for Medicaid on the child's behalf with the Medicaid agency; and", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2-v", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2", 
+                                    "v"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(v) For children determined not to be presumptively eligible, notify the child's parent or caretaker at the time the determination is made, in writing and orally if appropriate\u2014", 
+                                "text": "(v) For children determined not to be presumptively eligible, notify the child's parent or caretaker at the time the determination is made, in writing and orally if appropriate\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-2", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Establish procedures to ensure that qualified entities\u2014", 
+                                "text": "(2) Establish procedures to ensure that qualified entities\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Provide all services covered under the plan, including EPSDT.", 
+                                "text": "(3) Provide all services covered under the plan, including EPSDT.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Allow determinations of presumptive eligibility to be made by qualified entities on a Statewide basis.", 
+                                "text": "(4) Allow determinations of presumptive eligibility to be made by qualified entities on a Statewide basis.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) If the agency elects to provide services to children during a period of presumptive eligibility, the agency must\u2014", 
+                                "text": "(b) If the agency elects to provide services to children during a period of presumptive eligibility, the agency must\u2014", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) The agency must adopt reasonable standards regarding the number of periods of presumptive eligibility that will be authorized for a child in a given time frame.", 
+                                "text": "(c) The agency must adopt reasonable standards regarding the number of periods of presumptive eligibility that will be authorized for a child in a given time frame.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "436-1102", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "1102"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n                ", 
+                                "text": "", 
+                                "title": "\u00a7 436.1102 General rules."
+                            }, 
+                            "parent_label": [
+                                "436", 
+                                "Subpart", 
+                                "L"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-Subpart-L", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "Subpart", 
+                                    "L"
+                                ], 
+                                "node_type": "subpart", 
+                                "tagged_text": "", 
+                                "text": "", 
+                                "title": "Option for Coverage of Special Groups"
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "6. A new subpart L is added to part 436 to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "E. Part 457 is amended as follows: "
+        }, 
+        {
+            "authority": "Section 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "457", 
+            "instruction": "1. The authority citation for part 457 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "436-Subpart-A", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "436", 
+                                    "Subpart", 
+                                    "A"
+                                ], 
+                                "node_type": "subpart", 
+                                "tagged_text": "", 
+                                "text": "", 
+                                "title": "Introduction; State Plans for Child Health Insurance Programs and Outreach Strategies"
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. A new subpart A is added to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-203-a", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "203", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Request for reconsideration.</E> Any State dissatisfied with the Administrator's action on State plan material under \u00a7\u2009457.150 may, within 60 days after receipt of the notice of final determination provided under \u00a7\u2009457.160(a), request that the Administrator reconsider whether the State plan or plan amendment conforms with the requirements for approval.", 
+                                "text": "(a) Request for reconsideration. Any State dissatisfied with the Administrator's action on State plan material under \u00a7\u2009457.150 may, within 60 days after receipt of the notice of final determination provided under \u00a7\u2009457.160(a), request that the Administrator reconsider whether the State plan or plan amendment conforms with the requirements for approval.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-203-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "203", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Notice of hearing.</E> Within 30 days after receipt of the request, the Administrator notifies the State of the time and place of a hearing to be held for the purpose of reconsideration.", 
+                                "text": "(b) Notice of hearing. Within 30 days after receipt of the request, the Administrator notifies the State of the time and place of a hearing to be held for the purpose of reconsideration.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-203-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "203", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) <E T=\"03\">Hearing procedures.</E> The hearing procedures set forth in part 430, subpart D of this chapter govern a hearing requested under this section.", 
+                                "text": "(c) Hearing procedures. The hearing procedures set forth in part 430, subpart D of this chapter govern a hearing requested under this section.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-203-d", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "203", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) <E T=\"03\">Effect of hearing decision.</E> HCFA does not delay the denial of Federal funds, if required by the Administrator's original determination, pending a hearing decision. If the Administrator determines that his or her original decision was incorrect, HCFA will pay the State a lump sum equal to any funds incorrectly denied.", 
+                                "text": "(d) Effect of hearing decision. HCFA does not delay the denial of Federal funds, if required by the Administrator's original determination, pending a hearing decision. If the Administrator determines that his or her original decision was incorrect, HCFA will pay the State a lump sum equal to any funds incorrectly denied.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-203", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [
+                                    "457-203-a", 
+                                    "457-203-b", 
+                                    "457-203-c", 
+                                    "457-203-d"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "203"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 457.203 Administrative and judicial review of action on State plan material."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "3. A new \u00a7\u2009457.203 is added to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-204-d-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "204", 
+                                    "d", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) <E T=\"03\">Opportunity for corrective action.</E> If enforcement actions are proposed, the State must submit evidence of corrective action related to the findings of noncompliance to the Administrator within 30 days from the date of the preliminary notification. Corrective action is action to ensure that the plan is, and will be, administered consistent with applicable law and regulations, to ameliorate past deficiencies in plan administration, or to ensure that enrollees will be treated equitably.", 
+                                "text": "(2) Opportunity for corrective action. If enforcement actions are proposed, the State must submit evidence of corrective action related to the findings of noncompliance to the Administrator within 30 days from the date of the preliminary notification. Corrective action is action to ensure that the plan is, and will be, administered consistent with applicable law and regulations, to ameliorate past deficiencies in plan administration, or to ensure that enrollees will be treated equitably.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "4. Paragraph (d)(2) of \u00a7\u2009457.204 is revised to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-208-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "208", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) <E T=\"03\">Right to judicial review.</E> Any State dissatisfied with the Administrator's final determination on approvability of plan material (\u00a7\u2009457.203) or compliance with Federal requirements (\u00a7\u2009457.204) has a right to judicial review.", 
+                                "text": "(a) Right to judicial review. Any State dissatisfied with the Administrator's final determination on approvability of plan material (\u00a7\u2009457.203) or compliance with Federal requirements (\u00a7\u2009457.204) has a right to judicial review.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. Paragraph (a) of \u00a7\u2009457.208 is revised to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-234", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "6. Section 457.234 is removed. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "7. New subparts C, D, and E are added to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-624", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "8. Section 457.624 is removed."
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "9. New subparts G, H, I, J, and K are added to read as follows: "
+        }
+    ], 
+    "cfr_parts": [
+        "431", 
+        "433", 
+        "435", 
+        "436", 
+        "457"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "HCFA-2006-F"
+    ], 
+    "document_number": "01-607", 
+    "effective_on": "2001-04-11", 
+    "footnotes": {}, 
+    "fr_citation": "66 FR 2489", 
+    "fr_url": "https://www.federalregister.gov/documents/2001/01/11/01-607/state-child-health-implementing-regulations-for-the-state-childrens-health-insurance-program", 
+    "fr_volume": 66, 
+    "meta": {
+        "start_page": 2489
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES ", 
+    "primary_docket": null, 
+    "publication_date": "2001-01-11", 
+    "regulation_id_numbers": [
+        "0938-AI28"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "State Child Health; Implementing Regulations for the State Children's Health Insurance Program ", 
+    "versions": {
+        "433": {
+            "left": "01-14733", 
+            "right": "01-607"
+        }
+    }
+}

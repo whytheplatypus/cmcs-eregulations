@@ -1,0 +1,65 @@
+{
+    "amendments": [], 
+    "cfr_parts": [
+        "431", 
+        "433", 
+        "438", 
+        "440", 
+        "457", 
+        "495"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2390-F"
+    ], 
+    "document_number": "2016-09581", 
+    "effective_on": "2016-07-05", 
+    "footnotes": {
+        "1": "CMS, 2013 Medicaid Managed Care Enrollment Report, <em data-original=\"E-03\">available at</em>\n              <em data-original=\"E-03\">https://www.medicaid.gov/medicaid-chip-program-information/by-topics/data-and-systems/medicaid-managed-care/medicaid-managed-care-enrollment-report.html.</em>", 
+        "10": "<em data-original=\"E-03\">http://www.medicaid.gov/medicaid-chip-program-information/by-topics/delivery-systems/downloads/1115-and-1915b-mltss-guidance.pdf.</em>", 
+        "11": "Bell, KM., Jencks, SF., Kambric, RT., Lynn, J., & Straube BM. (2007, June). <em data-original=\"E-03\">Using population segmentation to provide better health care for all: the \u201cBridges to Health\u201d model. The Milbank Quarterly.</em> Retrieved 21 July 2015, from <em data-original=\"E-03\">http://www.ncbi.nlm.nih.gov/pubmed/17517112.</em>", 
+        "12": "<em data-original=\"E-03\">http://www.medicaid.gov/Federal-Policy-Guidance/Downloads/SMD-13-004.pdf.</em>", 
+        "13": "<em data-original=\"E-03\">https://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-Topics/Quality-of-Care/Quality-of-Care-External-Quality-Review.html.</em>", 
+        "14": "<em data-original=\"E-03\">http://www.medicaid.gov/medicaid-chip-program-information/by-topics/financing-and-reimbursement/downloads/medicaid-actuarial-report-2014.pdf.</em>", 
+        "15": "CMS, Financial Management Report\u2014Base Payments, 2013.", 
+        "16": "<em data-original=\"E-03\">http://www.medicaid.gov/medicaid-chip-program-information/by-topics/financing-and-reimbursement/downloads/medicaid-actuarial-report-2013.pdf.</em>", 
+        "17": "Genevieve M. Kenney, Nathaniel Anderson, Victoria Lynch. Medicaid/CHIP Participation Rates Among Children: An Update. September 2013. Available at <em data-original=\"E-03\">http://www.urban.org/sites/default/files/alfresco/publication-pdfs/412901-Medicaid-CHIP-Participation-Rates-Among-Children-An-Update.pdf.</em>", 
+        "18": "CMS, CMS-64 (Financial Management Report)\u2014Base Payments, 2013. <em data-original=\"E-03\">https://www.medicaid.gov/medicaid-chip-program-information/by-topics/financing-and-reimbursement/expenditure-reports-mbes-cbes.html.</em>", 
+        "19": "Data was used for individuals aged 22-64 to remove utilization for individuals that were age 20 when services began, and therefore, would not be subject to the statutory prohibition of FFP for patients in an IMD aged 21-64.", 
+        "2": "<em data-original=\"E-03\">https://www.medicaid.gov/federal-policy-guidance/federal-policy-guidance.html.</em>", 
+        "20": "\u201cMedicaid Risk-Based Managed Care: Analysis of Financial Results for 2011,\u201d Palmer and Pettit, July 2012; \u201cMedicaid Risk-Based Managed Care: Analysis of Financial Results for 2012,\u201d Palmer and Pettit, June 2013; \u201cMedicaid Risk-Based Managed Care: Analysis of Financial Results for 2013,\u201d Palmer and Pettit, June 2014; and \u201cMedicaid Risk-Based Managed Care: Analysis of Financial Results for 2014,\u201d Palmer, Pettit, and McCulla.", 
+        "21": "(\u201dEstimated Federal Savings Associated with Care Coordination Models for Medicare-Medicaid Dual Eligibles,\u201d Thorpe 2011.", 
+        "22": "(\u201cEffects of Primary Care Coordination on Public Hospital Patients,\u201d Schillinger, Bibbins-Domingo, Vranizan, Bacchetti, Luce, and Bindman, Journal of General Internal Medicine, December 2001.", 
+        "23": "(\u201cEffects of Care Coordination on Hospitalization, Quality of Care, and Health Care Expenditures Among Medicare Beneficiaries,\u201d Peikes, Chen, Schore, and Brown, <em data-original=\"E-03\">The Journal of the American Medical Association,</em> February 2009; \u201cSix Features of Medicare Coordinated Care Demonstration Programs That Cut Hospital Readmissions of High-Risk Patients,\u201d Brown, Peikes, Peterson, Schore, and Razafindrakoto, <em data-original=\"E-03\">Health Affairs,</em> June 2012.", 
+        "24": "(\u201cEffects of Care Coordination on Hospitalization, Quality of Care, and Health Care Expenditures Among Medicare Beneficiaries,\u201d Peikes, Chen, Schore, and Brown, The Journal of the American Medical Association, February 2009.", 
+        "25": "Small Business Administration (SBA), <em data-original=\"E-03\">https://www.sba.gov/contracting/getting-started-contractor/make-sure-you-meet-sba-size-standards/summary-size-standards-industry-sector.</em>", 
+        "3": "We note that in Medicaid and Children's Health Insurance Programs; Mental Health Parity and Addiction Equity Act of 2008; the Application of Mental Health Parity Requirements to Coverage Offered by Medicaid Managed Care Organizations, the Children's Health Insurance Program (CHIP), and Alternative Benefit Plans final rule published March 30, 2016 (81 FR 18390), we clarified that certain additional costs could also be used to develop capitation rates. That provision would be codified as part of \u00a7\u2009438.6(e) and redesignated through this final rule as \u00a7\u2009438.3(e)).", 
+        "4": "<em data-original=\"E-03\">http://innovation.cms.gov/Files/reports/MEPD_RTC.pdf</em>, page 12.", 
+        "5": "In that guidance, we provided that the state may modify the rate setting process to account for the expected cost as well as utilization of in lieu of services as a proxy for the cost of approved state plan services in a contract.", 
+        "6": "We note that the waiver of comparability also supports a managed care plan's provision of services in addition to those in the state plan through savings.", 
+        "7": "CMS, \u201cReport to Congress on the Evaluation of the Medicaid Emergency Psychiatric Demonstration\u201d (December 1, 2013), at pg. 11, <em data-original=\"E-03\">available at https://innovation.cms.gov/Files/reports/MEPD_RTC.pdf.</em>", 
+        "8": "MACPAC, \u201cMACfacts Key Findings on Medicaid and CHIP: Medical UPL Supplemental Payments\u201d (Nov 2012), <em data-original=\"E-03\">available at https://www.macpac.gov/wp-content/uploads/2015/01/MACFacts-UPL-Payments_2012-11.pdf.</em>", 
+        "9": "AHRQ Web site: <em data-original=\"E-03\">http://www.ahrq.gov/professionals/prevention-chronic-care/improve/coordination/index.html.</em>"
+    }, 
+    "fr_citation": "81 FR 27497", 
+    "fr_url": "https://www.federalregister.gov/documents/2016/05/06/2016-09581/medicaid-and-childrens-health-insurance-program-chip-programs-medicaid-managed-care-chip-delivered", 
+    "fr_volume": 81, 
+    "meta": {
+        "start_page": 27497
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES", 
+    "primary_docket": null, 
+    "publication_date": "2016-05-06", 
+    "regulation_id_numbers": [
+        "0938-AS25"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid and Children's Health Insurance Program (CHIP) Programs; Medicaid Managed Care, CHIP Delivered in Managed Care, and Revisions Related to Third Party Liability", 
+    "versions": {
+        "433": {
+            "left": "2015-30591", 
+            "right": "2016-09581"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "433", 
+            "instruction": "Accordingly, the interim final rule amending 42 CFR part 433, which was published at 71 FR 25085 on April 28, 2006, is adopted as final."
+        }
+    ], 
+    "cfr_parts": [
+        "433"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2231-F"
+    ], 
+    "document_number": "E6-17033", 
+    "effective_on": "2006-11-15", 
+    "footnotes": {}, 
+    "fr_citation": "71 FR 60663", 
+    "fr_url": "https://www.federalregister.gov/documents/2006/10/16/E6-17033/medicaid-program-state-allotments-for-payment-of-medicare-part-b-premiums-for-qualifying-individuals", 
+    "fr_volume": 71, 
+    "meta": {
+        "start_page": 60663
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES ", 
+    "primary_docket": null, 
+    "publication_date": "2006-10-16", 
+    "regulation_id_numbers": [
+        "0938-A031"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; State Allotments for Payment of Medicare Part B Premiums for Qualifying Individuals: Federal Fiscal Year 2006 and Fiscal Year 2007 ", 
+    "versions": {
+        "433": {
+            "left": "03-1294", 
+            "right": "E6-17033"
+        }
+    }
+}

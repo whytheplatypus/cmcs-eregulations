@@ -1,0 +1,290 @@
+{
+    "433-110-a-1": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "75"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 75", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=75&titlenum=45&year=mostrecent"
+        }, 
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "95"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 95", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=95&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-111-a": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "95"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 95", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=95&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-112-b-12": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "170"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 170", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=170&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-112-b-7": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "75"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR 75", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=75&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-116-a": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "p1": "a", 
+                "part": "95", 
+                "section": "611"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR 95.611(a)", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=95&section=611&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-121-a": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "16"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 16", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=16&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-121-b": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "16"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 16", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=16&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-147-c-1": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "232"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 232", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=232&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-147-d": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "232"
+            }, 
+            "locations": [
+                0, 
+                1
+            ], 
+            "text": "45 CFR part 232", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=232&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-15-b-2": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "42", 
+                "p1": "b", 
+                "p2": "5", 
+                "part": "432", 
+                "section": "50"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "42 CFR 432.50(b)(5)", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=432&section=50&titlenum=42&year=mostrecent"
+        }
+    ], 
+    "433-15-b-5": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "42", 
+                "p1": "b", 
+                "p2": "1", 
+                "part": "432", 
+                "section": "50"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "42 CFR 432.50(b)(1)", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=432&section=50&titlenum=42&year=mostrecent"
+        }
+    ], 
+    "433-15-b-9": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "42", 
+                "part": "483"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "42 CFR part 483", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=483&titlenum=42&year=mostrecent"
+        }
+    ], 
+    "433-152-b-1": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "306"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 306", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=306&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-322": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "75", 
+                "section": "361"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR 75.361", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=75&section=361&titlenum=45&year=mostrecent"
+        }, 
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "75", 
+                "section": "370"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "75.370", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=75&section=370&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-34": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "95"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 95", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=95&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-35": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "95"
+            }, 
+            "locations": [
+                0, 
+                1
+            ], 
+            "text": "45 CFR part 95", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=95&titlenum=45&year=mostrecent"
+        }
+    ], 
+    "433-37-c": [
+        {
+            "citation_type": "USC", 
+            "components": {
+                "section": "6041", 
+                "title": "26"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "26 U.S.C. 6041", 
+            "url": "http://api.fdsys.gov/link?collection=uscode&section=6041&title=26&year=mostrecent"
+        }
+    ], 
+    "433-38-b-1-iv": [
+        {
+            "citation_type": "CFR", 
+            "components": {
+                "cfr_title": "45", 
+                "part": "16"
+            }, 
+            "locations": [
+                0
+            ], 
+            "text": "45 CFR part 16", 
+            "url": "http://api.fdsys.gov/link?collection=cfr&partnum=16&titlenum=45&year=mostrecent"
+        }
+    ]
+}

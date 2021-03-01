@@ -1,0 +1,68 @@
+{
+    "433-10-c-5-v": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-10-c-5-v-p1"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-c-5-v-p1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "c", 
+                "5", 
+                "v", 
+                "p1"
+            ], 
+            "node_type": "extract", 
+            "tagged_text": "(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program)", 
+            "text": "(Catalog of Federal Domestic Assistance Program No. 93.778, Medical Assistance Program)", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-20": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "20"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "\n         Federal financial participation under Medicaid is not available for expenditures for administrative activities by school employees, school contractors, or anyone under the control of a public or private educational institution.", 
+            "text": "Federal financial participation under Medicaid is not available for expenditures for administrative activities by school employees, school contractors, or anyone under the control of a public or private educational institution.", 
+            "title": "\u00a7 433.20 Rates of FFP for administration: Reimbursement for school-based administrative expenditures."
+        }, 
+        "op": "added"
+    }, 
+    "433-Subpart-A": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                4
+            ], 
+            [
+                "insert", 
+                4, 
+                [
+                    "433-20"
+                ]
+            ], 
+            [
+                "equal", 
+                4, 
+                11
+            ]
+        ], 
+        "op": "modified"
+    }
+}

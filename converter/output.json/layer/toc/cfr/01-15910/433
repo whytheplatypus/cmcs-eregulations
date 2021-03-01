@@ -1,0 +1,553 @@
+{
+    "433": [
+        {
+            "index": [
+                "433", 
+                "1"
+            ], 
+            "title": "\u00a7 433.1 Purpose."
+        }, 
+        {
+            "index": [
+                "433", 
+                "Subpart", 
+                "A"
+            ], 
+            "title": "Federal Matching and General Administration Provisions"
+        }, 
+        {
+            "index": [
+                "433", 
+                "Subpart", 
+                "B"
+            ], 
+            "title": "General Administrative Requirements State Financial Participation"
+        }, 
+        {
+            "index": [
+                "433", 
+                "Subpart", 
+                "C"
+            ], 
+            "title": "Mechanized Claims Processing and Information Retrieval Systems"
+        }, 
+        {
+            "index": [
+                "433", 
+                "Subpart", 
+                "D"
+            ], 
+            "title": "Third Party Liability"
+        }, 
+        {
+            "index": [
+                "433", 
+                "Subpart", 
+                "E"
+            ], 
+            "title": "[Reserved]"
+        }, 
+        {
+            "index": [
+                "433", 
+                "Subpart", 
+                "F"
+            ], 
+            "title": "Refunding of Federal Share of Medicaid Overpayments to Providers"
+        }
+    ], 
+    "433-Subjgrp-AoRtB": [
+        {
+            "index": [
+                "433", 
+                "145"
+            ], 
+            "title": "\u00a7 433.145 Assignment of rights to benefits\u2014State plan requirements."
+        }, 
+        {
+            "index": [
+                "433", 
+                "146"
+            ], 
+            "title": "\u00a7 433.146 Rights assigned; assignment method."
+        }, 
+        {
+            "index": [
+                "433", 
+                "147"
+            ], 
+            "title": "\u00a7 433.147 Cooperation in establishing paternity and in obtaining medical support and payments and in identifying and providing information to assist in pursuing third parties who may be liable to pay."
+        }, 
+        {
+            "index": [
+                "433", 
+                "148"
+            ], 
+            "title": "\u00a7 433.148 Denial or termination of eligibility."
+        }
+    ], 
+    "433-Subjgrp-CAaIP": [
+        {
+            "index": [
+                "433", 
+                "151"
+            ], 
+            "title": "\u00a7 433.151 Cooperative agreements and incentive payments\u2014State plan requirements."
+        }, 
+        {
+            "index": [
+                "433", 
+                "152"
+            ], 
+            "title": "\u00a7 433.152 Requirements for cooperative agreements for third party collections."
+        }, 
+        {
+            "index": [
+                "433", 
+                "153"
+            ], 
+            "title": "\u00a7 433.153 Incentive payments to States and political subdivisions."
+        }, 
+        {
+            "index": [
+                "433", 
+                "154"
+            ], 
+            "title": "\u00a7 433.154 Distribution of collections."
+        }
+    ], 
+    "433-Subpart": [
+        {
+            "index": [
+                "433", 
+                "1"
+            ], 
+            "title": "\u00a7 433.1 Purpose."
+        }
+    ], 
+    "433-Subpart-A": [
+        {
+            "index": [
+                "433", 
+                "8"
+            ], 
+            "title": "\u00a7 433.8 [Reserved]"
+        }, 
+        {
+            "index": [
+                "433", 
+                "10"
+            ], 
+            "title": "\u00a7 433.10 Rates of FFP for program services."
+        }, 
+        {
+            "index": [
+                "433", 
+                "11"
+            ], 
+            "title": "\u00a7 433.11 Enhanced FMAP rate for children."
+        }, 
+        {
+            "index": [
+                "433", 
+                "15"
+            ], 
+            "title": "\u00a7 433.15 Rates of FFP for administration."
+        }, 
+        {
+            "index": [
+                "433", 
+                "32"
+            ], 
+            "title": "\u00a7 433.32 Fiscal policies and accountability."
+        }, 
+        {
+            "index": [
+                "433", 
+                "34"
+            ], 
+            "title": "\u00a7 433.34 Cost allocation."
+        }, 
+        {
+            "index": [
+                "433", 
+                "35"
+            ], 
+            "title": "\u00a7 433.35 Equipment\u2014Federal financial participation."
+        }, 
+        {
+            "index": [
+                "433", 
+                "36"
+            ], 
+            "title": "\u00a7 433.36 Liens and recoveries."
+        }, 
+        {
+            "index": [
+                "433", 
+                "37"
+            ], 
+            "title": "\u00a7 433.37 Reporting provider payments to Internal Revenue Service."
+        }, 
+        {
+            "index": [
+                "433", 
+                "38"
+            ], 
+            "title": "\u00a7 433.38 Interest charge on disallowed claims for FFP."
+        }, 
+        {
+            "index": [
+                "433", 
+                "40"
+            ], 
+            "title": "\u00a7 433.40 Treatment of uncashed or cancelled (voided) Medicaid checks."
+        }
+    ], 
+    "433-Subpart-B": [
+        {
+            "index": [
+                "433", 
+                "50"
+            ], 
+            "title": "\u00a7 433.50 Basis, scope, and applicability."
+        }, 
+        {
+            "index": [
+                "433", 
+                "51"
+            ], 
+            "title": "\u00a7 433.51 Public funds as the State share of financial participation."
+        }, 
+        {
+            "index": [
+                "433", 
+                "52"
+            ], 
+            "title": "\u00a7 433.52 General definitions."
+        }, 
+        {
+            "index": [
+                "433", 
+                "53"
+            ], 
+            "title": "\u00a7 433.53 State plan requirements."
+        }, 
+        {
+            "index": [
+                "433", 
+                "54"
+            ], 
+            "title": "\u00a7 433.54 Bona fide donations."
+        }, 
+        {
+            "index": [
+                "433", 
+                "55"
+            ], 
+            "title": "\u00a7 433.55 Health care-related taxes defined."
+        }, 
+        {
+            "index": [
+                "433", 
+                "56"
+            ], 
+            "title": "\u00a7 433.56 Classes of health care services and providers defined."
+        }, 
+        {
+            "index": [
+                "433", 
+                "57"
+            ], 
+            "title": "\u00a7 433.57 General rules regarding revenues from provider-related donations and health care-related taxes."
+        }, 
+        {
+            "index": [
+                "433", 
+                "58"
+            ], 
+            "title": "\u00a7 433.58 Provider-related donations and health care-related taxes during a State's transition period."
+        }, 
+        {
+            "index": [
+                "433", 
+                "60"
+            ], 
+            "title": "\u00a7 433.60 Limitations on level of FFP in State expenditures from provider-related donations and health care-related taxes during the transition period."
+        }, 
+        {
+            "index": [
+                "433", 
+                "66"
+            ], 
+            "title": "\u00a7 433.66 Permissible provider-related donations after the transition period."
+        }, 
+        {
+            "index": [
+                "433", 
+                "67"
+            ], 
+            "title": "\u00a7 433.67 Limitations on level of FFP for permissible provider-related donations."
+        }, 
+        {
+            "index": [
+                "433", 
+                "68"
+            ], 
+            "title": "\u00a7 433.68 Permissible health care-related taxes after the transition period."
+        }, 
+        {
+            "index": [
+                "433", 
+                "70"
+            ], 
+            "title": "\u00a7 433.70 Limitations on level of FFP for revenues from health care-related taxes after the transition period."
+        }, 
+        {
+            "index": [
+                "433", 
+                "72"
+            ], 
+            "title": "\u00a7 433.72 Waiver provisions applicable to health care-related taxes."
+        }, 
+        {
+            "index": [
+                "433", 
+                "74"
+            ], 
+            "title": "\u00a7 433.74 Reporting requirements."
+        }
+    ], 
+    "433-Subpart-C": [
+        {
+            "index": [
+                "433", 
+                "110"
+            ], 
+            "title": "\u00a7 433.110 Basis, purpose, and applicability."
+        }, 
+        {
+            "index": [
+                "433", 
+                "111"
+            ], 
+            "title": "\u00a7 433.111 Definitions."
+        }, 
+        {
+            "index": [
+                "433", 
+                "112"
+            ], 
+            "title": "\u00a7 433.112 FFP for design, development, installation or enhancement of mechanized claims processing and information retrieval systems."
+        }, 
+        {
+            "index": [
+                "433", 
+                "113"
+            ], 
+            "title": "\u00a7 433.113 Reduction of FFP for failure to operate a system and obtain initial approval."
+        }, 
+        {
+            "index": [
+                "433", 
+                "114"
+            ], 
+            "title": "\u00a7 433.114 Procedures for obtaining initial approval; notice of decision."
+        }, 
+        {
+            "index": [
+                "433", 
+                "116"
+            ], 
+            "title": "\u00a7 433.116 FFP for operation of mechanized claims processing and information retrieval systems."
+        }, 
+        {
+            "index": [
+                "433", 
+                "117"
+            ], 
+            "title": "\u00a7 433.117 Initial approval of replacement systems."
+        }, 
+        {
+            "index": [
+                "433", 
+                "119"
+            ], 
+            "title": "\u00a7 433.119 Conditions for reapproval; notice of decision."
+        }, 
+        {
+            "index": [
+                "433", 
+                "120"
+            ], 
+            "title": "\u00a7 433.120 Procedures for reduction of FFP after reapproval review."
+        }, 
+        {
+            "index": [
+                "433", 
+                "121"
+            ], 
+            "title": "\u00a7 433.121 Reconsideration of the decision to reduce FFP after reapproval review."
+        }, 
+        {
+            "index": [
+                "433", 
+                "122"
+            ], 
+            "title": "\u00a7 433.122 Reapproval of a disapproved system."
+        }, 
+        {
+            "index": [
+                "433", 
+                "123"
+            ], 
+            "title": "\u00a7 433.123 Notification of changes in system requirements, performance standards or other conditions for approval or reapproval."
+        }, 
+        {
+            "index": [
+                "433", 
+                "127"
+            ], 
+            "title": "\u00a7 433.127 Termination of FFP for failure to provide access to claims processing and information retrieval systems."
+        }, 
+        {
+            "index": [
+                "433", 
+                "130"
+            ], 
+            "title": "\u00a7 433.130 Waiver of conditions of initial operation and approval."
+        }, 
+        {
+            "index": [
+                "433", 
+                "131"
+            ], 
+            "title": "\u00a7 433.131 Waiver for noncompliance with conditions of approval and reapproval."
+        }
+    ], 
+    "433-Subpart-D": [
+        {
+            "index": [
+                "433", 
+                "135"
+            ], 
+            "title": "\u00a7 433.135 Basis and purpose."
+        }, 
+        {
+            "index": [
+                "433", 
+                "136"
+            ], 
+            "title": "\u00a7 433.136 Definitions."
+        }, 
+        {
+            "index": [
+                "433", 
+                "137"
+            ], 
+            "title": "\u00a7 433.137 State plan requirements."
+        }, 
+        {
+            "index": [
+                "433", 
+                "138"
+            ], 
+            "title": "\u00a7 433.138 Identifying liable third parties."
+        }, 
+        {
+            "index": [
+                "433", 
+                "139"
+            ], 
+            "title": "\u00a7 433.139 Payment of claims."
+        }, 
+        {
+            "index": [
+                "433", 
+                "140"
+            ], 
+            "title": "\u00a7 433.140 FFP and repayment of Federal share."
+        }, 
+        {
+            "index": [
+                "433", 
+                "Subjgrp", 
+                "AoRtB"
+            ], 
+            "title": "Assignment of Rights to Benefits"
+        }, 
+        {
+            "index": [
+                "433", 
+                "Subjgrp", 
+                "CAaIP"
+            ], 
+            "title": "Cooperative Agreements and Incentive Payments"
+        }
+    ], 
+    "433-Subpart-F": [
+        {
+            "index": [
+                "433", 
+                "300"
+            ], 
+            "title": "\u00a7 433.300 Basis."
+        }, 
+        {
+            "index": [
+                "433", 
+                "302"
+            ], 
+            "title": "\u00a7 433.302 Scope of subpart."
+        }, 
+        {
+            "index": [
+                "433", 
+                "304"
+            ], 
+            "title": "\u00a7 433.304 Definitions."
+        }, 
+        {
+            "index": [
+                "433", 
+                "310"
+            ], 
+            "title": "\u00a7 433.310 Applicability of requirements."
+        }, 
+        {
+            "index": [
+                "433", 
+                "312"
+            ], 
+            "title": "\u00a7 433.312 Basic requirements for refunds."
+        }, 
+        {
+            "index": [
+                "433", 
+                "316"
+            ], 
+            "title": "\u00a7 433.316 When discovery of overpayment occurs and its significance."
+        }, 
+        {
+            "index": [
+                "433", 
+                "318"
+            ], 
+            "title": "\u00a7 433.318 Overpayments involving providers who are bankrupt or out of business."
+        }, 
+        {
+            "index": [
+                "433", 
+                "320"
+            ], 
+            "title": "\u00a7 433.320 Procedures for refunds to CMS."
+        }, 
+        {
+            "index": [
+                "433", 
+                "322"
+            ], 
+            "title": "\u00a7 433.322 Maintenance of records."
+        }
+    ]
+}

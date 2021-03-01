@@ -1,0 +1,37 @@
+{
+    "amendments": [], 
+    "cfr_parts": [
+        "433", 
+        "438"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2015-F"
+    ], 
+    "document_number": "03-1294", 
+    "effective_on": "2003-03-25", 
+    "footnotes": {
+        "1": "In the Medicaid managed care final rule under \u00a7\u2009438.240(c)(2) we permit States to calculate performance measures on the MCO's/PIHP's behalf in place of the MCO/PIHP calculating and reporting performance measures to the State. Under this circumstance, the validation of MCO/PIHP performance measures is not required as a mandatory activity but the State must submit the State-calculated performance measures to the EQRO for the EQR function as specified under \u00a7\u2009438.358(b)(2). This issue is addressed later in the preamble in response to a comment."
+    }, 
+    "fr_citation": "68 FR 3585", 
+    "fr_url": "https://www.federalregister.gov/documents/2003/01/24/03-1294/medicaid-program-external-quality-review-of-medicaid-managed-care-organizations", 
+    "fr_volume": 68, 
+    "meta": {
+        "start_page": 3585
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES ", 
+    "primary_docket": null, 
+    "publication_date": "2003-01-24", 
+    "regulation_id_numbers": [
+        "0938-AJ06"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; External Quality Review of Medicaid Managed Care Organizations ", 
+    "versions": {
+        "433": {
+            "left": "01-15910", 
+            "right": "03-1294"
+        }
+    }
+}

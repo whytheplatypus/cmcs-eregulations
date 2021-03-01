@@ -1,0 +1,374 @@
+{
+    "433-10-b-p1-p2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    8, 
+                    17
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "share = 100"
+                ]
+            ]
+        ]
+    }, 
+    "433-110": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-110-a", 
+                    "433-110-b"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-110-a": {
+        "node": {
+            "child_labels": [
+                "433-110-a-1", 
+                "433-110-a-2"
+            ], 
+            "label": [
+                "433", 
+                "110", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) This subpart implements the following sections of the Act:", 
+            "text": "(a) This subpart implements the following sections of the Act:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Section 1903(a)(3) of the Act, which provides for FFP in State expenditures for the design, development, or installation of mechanized claims processing and information retrieval systems and for the operation of certain systems. Additional HHS regulations and CMS procedures for implementing these regulations are in 45 CFR part 75, 45 CFR part 95, subpart F, and part 11, State Medicaid Manual; and", 
+            "text": "(1) Section 1903(a)(3) of the Act, which provides for FFP in State expenditures for the design, development, or installation of mechanized claims processing and information retrieval systems and for the operation of certain systems. Additional HHS regulations and CMS procedures for implementing these regulations are in 45 CFR part 75, 45 CFR part 95, subpart F, and part 11, State Medicaid Manual; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Section 1903(r) of the Act, which imposes certain standards and conditions on mechanized claims processing and information retrieval systems (including eligibility determination systems) in order for these systems to be eligible for Federal funding under section 1903(a) of the Act.", 
+            "text": "(2) Section 1903(r) of the Act, which imposes certain standards and conditions on mechanized claims processing and information retrieval systems (including eligibility determination systems) in order for these systems to be eligible for Federal funding under section 1903(a) of the Act.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-b": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) [Reserved]", 
+            "text": "(b) [Reserved]", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-112-b-7": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    69, 
+                    78
+                ], 
+                [
+                    "insert", 
+                    69, 
+                    "75, subpart E."
+                ]
+            ]
+        ]
+    }, 
+    "433-120-b": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                1
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-120-b-p1": {
+        "op": "deleted"
+    }, 
+    "433-121-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    89, 
+                    93
+                ], 
+                [
+                    "insert", 
+                    89, 
+                    "part"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-e": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                36, 
+                " Except as specified under paragraph (l) of this section, the agency must take action to identify those paid claims for Medicaid beneficiaries that contain diagnosis codes that are indicative of trauma, or injury, poisoning, and other consequences of external causes, for the purpose of determining the legal liability of third parties so that the agency may process claims under the third party liability payment procedures specified in \u00a7 433.139(b) through (f)."
+            ]
+        ]
+    }, 
+    "433-138-e-1": {
+        "op": "deleted"
+    }, 
+    "433-138-e-2": {
+        "op": "deleted"
+    }, 
+    "433-15-b-10": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    132, 
+                    212
+                ], 
+                [
+                    "insert", 
+                    132, 
+                    "consistent with"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    215, 
+                    222
+                ], 
+                [
+                    "insert", 
+                    215, 
+                    "438.370(a)"
+                ]
+            ], 
+            [
+                "insert", 
+                243, 
+                "percent; consistent with \u00a7 438.370(b): 50 "
+            ]
+        ]
+    }, 
+    "433-152-b-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    109, 
+                    113
+                ], 
+                [
+                    "insert", 
+                    109, 
+                    "part"
+                ]
+            ]
+        ]
+    }, 
+    "433-206-d": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    37, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "adjustment\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-206-e": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    20, 
+                    31
+                ], 
+                [
+                    "insert", 
+                    20, 
+                    "adjustment\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-206-f": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    58
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "criteria\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-206-h": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    127, 
+                    129
+                ], 
+                [
+                    "insert", 
+                    127, 
+                    " "
+                ]
+            ]
+        ]
+    }, 
+    "433-322": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    175, 
+                    181
+                ], 
+                [
+                    "insert", 
+                    175, 
+                    "75.361 through 75.370."
+                ]
+            ]
+        ]
+    }, 
+    "433-38-b-1-iv": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    93, 
+                    97
+                ], 
+                [
+                    "insert", 
+                    93, 
+                    "part"
+                ]
+            ]
+        ]
+    }, 
+    "433-50-a-1": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-50-a-1-i": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-A": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-B": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-C": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p2": {
+        "op": "deleted"
+    }, 
+    "433-56-a-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    350, 
+                    365
+                ], 
+                [
+                    "insert", 
+                    350, 
+                    "ICF/IIDs"
+                ]
+            ]
+        ]
+    }
+}

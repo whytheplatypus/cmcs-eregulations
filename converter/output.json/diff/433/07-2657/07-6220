@@ -1,0 +1,33 @@
+{
+    "433-20": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "20"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "\n             Federal financial participation under Medicaid is not available for expenditures for administrative activities by school employees, school contractors, or anyone under the control of a public or private educational institution.", 
+            "text": "Federal financial participation under Medicaid is not available for expenditures for administrative activities by school employees, school contractors, or anyone under the control of a public or private educational institution.", 
+            "title": "\u00a7 433.20 Rates of FFP for Administration: Reimbursement for School-Based Administrative Expenditures."
+        }, 
+        "op": "added"
+    }, 
+    "433-Subpart": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                1
+            ], 
+            [
+                "insert", 
+                1, 
+                [
+                    "433-20"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }
+}

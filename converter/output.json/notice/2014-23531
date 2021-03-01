@@ -1,0 +1,34 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "430", 
+            "instruction": "In Title 42 of the Code of Federal Regulations, Parts 430 to 481, revised as of October 1, 2013, in parts 430, 431, 433, 435, 436, and 440, make the following changes:"
+        }
+    ], 
+    "cfr_parts": [
+        "430", 
+        "431", 
+        "433", 
+        "435", 
+        "436", 
+        "440"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [], 
+    "document_number": "2014-23531", 
+    "footnotes": {}, 
+    "fr_citation": "79 FR 59123", 
+    "fr_url": "https://www.federalregister.gov/documents/2014/10/01/2014-23531/medicare-and-medicaid-program-regulatory-provisions-to-promote-program-efficiency-transparency-and", 
+    "fr_volume": 79, 
+    "meta": {
+        "start_page": 59123
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES", 
+    "primary_docket": null, 
+    "publication_date": "2014-10-01", 
+    "regulation_id_numbers": [], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicare and Medicaid Program; Regulatory Provisions To Promote Program Efficiency, Transparency, and Burden Reduction", 
+    "versions": {}
+}

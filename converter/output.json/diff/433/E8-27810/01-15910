@@ -1,0 +1,2070 @@
+{
+    "433-10-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "insert", 
+                2, 
+                [
+                    "433-10-b-p3"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-b-p1": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                0, 
+                "State Share = [(State per capita income) ^{2}/(National per capita income)^{2}] \u00d7 45 percent"
+            ]
+        ]
+    }, 
+    "433-10-b-p1-p1": {
+        "op": "deleted"
+    }, 
+    "433-10-b-p1-p2": {
+        "op": "deleted"
+    }, 
+    "433-10-b-p2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    0, 
+                    38
+                ], 
+                [
+                    "insert", 
+                    0, 
+                    "Federal share=100 percent minus"
+                ]
+            ], 
+            [
+                "insert", 
+                49, 
+                "share (with a minimum of 50 percent "
+            ], 
+            [
+                [
+                    "delete", 
+                    53, 
+                    548
+                ], 
+                [
+                    "insert", 
+                    53, 
+                    "a maximum"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    552, 
+                    560
+                ], 
+                [
+                    "insert", 
+                    552, 
+                    "83 percent)"
+                ]
+            ]
+        ]
+    }, 
+    "433-10-b-p3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "10", 
+                "b", 
+                "p3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "The formula provides for squaring both the State and national average per capita incomes; this procedure magnifies any difference between the State's income and the national average. Consequently, Federal matching to lower income States is increased, and Federal matching to higher income States is decreased, within the statutory 50-83 percent limits. The FMAP for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa is set by statute at 50 percent and is subject to dollar limitations specified in section 1108 of the Act.", 
+            "text": "The formula provides for squaring both the State and national average per capita incomes; this procedure magnifies any difference between the State's income and the national average. Consequently, Federal matching to lower income States is increased, and Federal matching to higher income States is decreased, within the statutory 50-83 percent limits. The FMAP for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa is set by statute at 50 percent and is subject to dollar limitations specified in section 1108 of the Act.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-10-c": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                4
+            ], 
+            [
+                "delete", 
+                4, 
+                5
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-c-5": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-i": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-ii": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-iii": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-iii-A": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-iii-B": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-iii-C": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-iii-D": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-iii-E": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-iv": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-v": {
+        "op": "deleted"
+    }, 
+    "433-10-c-5-v-p1": {
+        "op": "deleted"
+    }, 
+    "433-112-b-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    68
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "peer review"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-d-4-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    15, 
+                    23
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "Workers\u2019"
+                ]
+            ]
+        ]
+    }, 
+    "433-138-g-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    37, 
+                    45
+                ], 
+                [
+                    "insert", 
+                    37, 
+                    "workers\u2019"
+                ]
+            ]
+        ]
+    }, 
+    "433-15-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "delete", 
+                9, 
+                10
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-15-b-10": {
+        "op": "deleted"
+    }, 
+    "433-15-b-6-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    78, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "PRO"
+                ]
+            ]
+        ]
+    }, 
+    "433-20": {
+        "op": "deleted"
+    }, 
+    "433-36-g-2-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    206, 
+                    217
+                ], 
+                [
+                    "insert", 
+                    206, 
+                    "\u00a7\u00a7435.725,"
+                ]
+            ]
+        ]
+    }, 
+    "433-50-a-1": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                23, 
+                "of the Act, which requires States to share in the cost of medical assistance expenditures "
+            ], 
+            [
+                [
+                    "delete", 
+                    27, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    27, 
+                    "permits both State and local governments to participate in the financing"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    56, 
+                    102
+                ], 
+                [
+                    "insert", 
+                    56, 
+                    "non-Federal portion"
+                ]
+            ], 
+            [
+                "delete", 
+                125, 
+                266
+            ]
+        ]
+    }, 
+    "433-50-a-1-i": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-A": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-B": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-C": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p2": {
+        "op": "deleted"
+    }, 
+    "433-51": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    25
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "Public funds as the State share"
+                ]
+            ], 
+            [
+                "delete", 
+                29, 
+                62
+            ]
+        ]
+    }, 
+    "433-51-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Public funds may be considered as the State's share in claiming FFP if they meet the conditions specified in paragraphs (b) and (c)"
+                ]
+            ], 
+            [
+                "delete", 
+                24, 
+                157
+            ]
+        ]
+    }, 
+    "433-51-b": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                4
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "public "
+            ], 
+            [
+                "insert", 
+                14, 
+                "are appropriated directly to the State or local Medicaid agency, or transferred "
+            ], 
+            [
+                [
+                    "delete", 
+                    19, 
+                    64
+                ], 
+                [
+                    "insert", 
+                    19, 
+                    "other public agencies (including Indian tribes)"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    87, 
+                    103
+                ], 
+                [
+                    "insert", 
+                    87, 
+                    "agency and under its administrative control,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    107, 
+                    182
+                ], 
+                [
+                    "insert", 
+                    107, 
+                    "certified by"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    187, 
+                    201
+                ], 
+                [
+                    "insert", 
+                    187, 
+                    "contributing public"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    209, 
+                    216
+                ], 
+                [
+                    "insert", 
+                    209, 
+                    "as representing expenditures eligible for FFP"
+                ]
+            ], 
+            [
+                "delete", 
+                223, 
+                359
+            ], 
+            [
+                "delete", 
+                372, 
+                560
+            ]
+        ]
+    }, 
+    "433-51-b-1": {
+        "op": "deleted"
+    }, 
+    "433-51-b-2": {
+        "op": "deleted"
+    }, 
+    "433-51-b-3": {
+        "op": "deleted"
+    }, 
+    "433-51-b-4": {
+        "op": "deleted"
+    }, 
+    "433-51-c": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "public "
+            ], 
+            [
+                "delete", 
+                14, 
+                39
+            ]
+        ]
+    }, 
+    "433-54-c-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                8, 
+                "amount of the payment received (other than under title XIX of the Act) is positively correlated either to the amount of the donation or to the difference between the amount of the donation and the amount of the payment received under the "
+            ], 
+            [
+                [
+                    "delete", 
+                    14, 
+                    351
+                ], 
+                [
+                    "insert", 
+                    14, 
+                    "plan;"
+                ]
+            ]
+        ]
+    }, 
+    "433-54-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                30, 
+                "payment made under "
+            ], 
+            [
+                "delete", 
+                39, 
+                47
+            ], 
+            [
+                "insert", 
+                61, 
+                "the "
+            ], 
+            [
+                "insert", 
+                80, 
+                "any "
+            ], 
+            [
+                [
+                    "delete", 
+                    135, 
+                    220
+                ], 
+                [
+                    "insert", 
+                    135, 
+                    "total donation received; or"
+                ]
+            ]
+        ]
+    }, 
+    "433-54-c-3": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    14, 
+                    17
+                ], 
+                [
+                    "insert", 
+                    14, 
+                    "or"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    32, 
+                    43
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "local government"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    84, 
+                    90
+                ], 
+                [
+                    "insert", 
+                    84, 
+                    "payment, offset,"
+                ]
+            ], 
+            [
+                "delete", 
+                94, 
+                123
+            ], 
+            [
+                "delete", 
+                130, 
+                135
+            ], 
+            [
+                "insert", 
+                140, 
+                "guarantees to return any portion of "
+            ], 
+            [
+                [
+                    "delete", 
+                    144, 
+                    222
+                ], 
+                [
+                    "insert", 
+                    144, 
+                    "donation"
+                ]
+            ], 
+            [
+                "delete", 
+                226, 
+                248
+            ], 
+            [
+                [
+                    "delete", 
+                    252, 
+                    325
+                ], 
+                [
+                    "insert", 
+                    252, 
+                    "provider."
+                ]
+            ]
+        ]
+    }, 
+    "433-56-a-8": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    16, 
+                    28
+                ], 
+                [
+                    "insert", 
+                    16, 
+                    "health maintenance"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    43, 
+                    53
+                ], 
+                [
+                    "insert", 
+                    43, 
+                    "and"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    61, 
+                    122
+                ], 
+                [
+                    "insert", 
+                    61, 
+                    "insuring organizations;"
+                ]
+            ]
+        ]
+    }, 
+    "433-57": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "insert", 
+                2, 
+                [
+                    "433-57-c"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-57-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    46
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Donations and taxes that meet the requirements"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    62, 
+                    75
+                ], 
+                [
+                    "insert", 
+                    62, 
+                    "433.58, except for certain revenue received during a specified transition period;"
+                ]
+            ]
+        ]
+    }, 
+    "433-57-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    30
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Permissible provider-related donations,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    49, 
+                    59
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "433.66(b); or"
+                ]
+            ]
+        ]
+    }, 
+    "433-57-c": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "57", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) Health care-related taxes, as specified in \u00a7 433.68(b).", 
+            "text": "(c) Health care-related taxes, as specified in \u00a7 433.68(b).", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-58-a", 
+                    "433-58-b", 
+                    "433-58-c", 
+                    "433-58-d", 
+                    "433-58-e", 
+                    "433-58-f", 
+                    "433-58-g"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    19
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "Provider-related donations and health care-related taxes during a State's transition period."
+                ]
+            ]
+        ]
+    }, 
+    "433-58-a": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) <E T=\"03\">General rule.</E> During the State's transition period specified in paragraph (b) of this section, a State may receive certain provider-related donations and health care-related taxes without a reduction in FFP. These provider-related donations and health care-related taxes must meet the conditions specified in this section and are subject to limitations specified in \u00a7 433.60.", 
+            "text": "(a) General rule. During the State's transition period specified in paragraph (b) of this section, a State may receive certain provider-related donations and health care-related taxes without a reduction in FFP. These provider-related donations and health care-related taxes must meet the conditions specified in this section and are subject to limitations specified in \u00a7 433.60.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-b": {
+        "node": {
+            "child_labels": [
+                "433-58-b-1", 
+                "433-58-b-2"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) <E T=\"03\">Transition periods for States.</E>", 
+            "text": "(b) Transition periods for States.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-b-1": {
+        "node": {
+            "child_labels": [
+                "433-58-b-1-i", 
+                "433-58-b-1-ii"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "b", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Except as provided in paragraph (b)(2) of this section, the provisions of this section apply for the period beginning January 1, 1992 and ending\u2014", 
+            "text": "(1) Except as provided in paragraph (b)(2) of this section, the provisions of this section apply for the period beginning January 1, 1992 and ending\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-b-1-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "b", 
+                "1", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) September 30, 1992, for States whose State fiscal year begins on or before July 1, 1992; or", 
+            "text": "(i) September 30, 1992, for States whose State fiscal year begins on or before July 1, 1992; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-b-1-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "b", 
+                "1", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) December 31, 1992, for States whose State fiscal year begins after July 1, 1992.", 
+            "text": "(ii) December 31, 1992, for States whose State fiscal year begins after July 1, 1992.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-b-2": {
+        "node": {
+            "child_labels": [
+                "433-58-b-2-i", 
+                "433-58-b-2-ii", 
+                "433-58-b-2-iii"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "b", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) The provisions of this section apply for the period beginning January 1, 1992 and ending June 30, 1993 for States that\u2014", 
+            "text": "(2) The provisions of this section apply for the period beginning January 1, 1992 and ending June 30, 1993 for States that\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-b-2-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "b", 
+                "2", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) Are not scheduled to have a regular legislative session in calendar year 1992;", 
+            "text": "(i) Are not scheduled to have a regular legislative session in calendar year 1992;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-b-2-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "b", 
+                "2", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) Are not scheduled to have a regular legislative session in calendar year 1993; or", 
+            "text": "(ii) Are not scheduled to have a regular legislative session in calendar year 1993; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-b-2-iii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "b", 
+                "2", 
+                "iii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(iii) Had enacted a health care-related tax program on November 4, 1991.", 
+            "text": "(iii) Had enacted a health care-related tax program on November 4, 1991.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-c": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) <E T=\"03\">Provider-related donations during the transition period.</E> Subject to the limitations specified in \u00a7 433.60, a State may receive, without a reduction in FFP, provider-related donations described in paragraph (d)(3) of this section during the applicable transition period.", 
+            "text": "(c) Provider-related donations during the transition period. Subject to the limitations specified in \u00a7 433.60, a State may receive, without a reduction in FFP, provider-related donations described in paragraph (d)(3) of this section during the applicable transition period.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-d": {
+        "node": {
+            "child_labels": [
+                "433-58-d-1", 
+                "433-58-d-2", 
+                "433-58-d-3"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "d"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(d) <E T=\"03\">Permissible donations.</E> To be permissible donations, the donations must be\u2014", 
+            "text": "(d) Permissible donations. To be permissible donations, the donations must be\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-d-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "d", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Bona fide donations, as defined in \u00a7 433.54;", 
+            "text": "(1) Bona fide donations, as defined in \u00a7 433.54;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-d-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "d", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Donations made by a hospital, clinic, or similar entity (such as a Federally-qualified health center) for the direct costs of State or local agency personnel who are stationed at that facility to determine the eligibility (including eligibility redeterminations) of individuals for Medicaid and/or to provide outreach services to eligible (or potentially eligible) Medicaid individuals. Direct costs of outstationed eligibility workers refers to the costs of training, salaries and fringe benefits associated with each outstationed worker and similar allocated costs of State or local agency support staff, and a prorated cost of outreach activities applicable to the outstationed workers at these sites. The prorated costs of outreach activities will be calculated taking the percent of State outstationed eligibility workers at a facility to total outstationed eligibility workers in the State, and multiplying the percent by the total cost of outreach activities in the State. Costs for such items as State agency overhead and provider office space are not allowable for this purpose; or", 
+            "text": "(2) Donations made by a hospital, clinic, or similar entity (such as a Federally-qualified health center) for the direct costs of State or local agency personnel who are stationed at that facility to determine the eligibility (including eligibility redeterminations) of individuals for Medicaid and/or to provide outreach services to eligible (or potentially eligible) Medicaid individuals. Direct costs of outstationed eligibility workers refers to the costs of training, salaries and fringe benefits associated with each outstationed worker and similar allocated costs of State or local agency support staff, and a prorated cost of outreach activities applicable to the outstationed workers at these sites. The prorated costs of outreach activities will be calculated taking the percent of State outstationed eligibility workers at a facility to total outstationed eligibility workers in the State, and multiplying the percent by the total cost of outreach activities in the State. Costs for such items as State agency overhead and provider office space are not allowable for this purpose; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-d-3": {
+        "node": {
+            "child_labels": [
+                "433-58-d-3-i", 
+                "433-58-d-3-ii"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "d", 
+                "3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(3) Provider-related donations, even if the donations do not qualify under the provisions of paragraph (d) (1) or (2) of this section, that meet the following conditions:", 
+            "text": "(3) Provider-related donations, even if the donations do not qualify under the provisions of paragraph (d) (1) or (2) of this section, that meet the following conditions:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-d-3-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "d", 
+                "3", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) The donation program was in effect on September 30, 1991, described in State plan amendments or related documents submitted to CMS by that date, or substantiated by written documentary evidence (as described in paragraph (e) of this section) that was in existence as of that date; and", 
+            "text": "(i) The donation program was in effect on September 30, 1991, described in State plan amendments or related documents submitted to CMS by that date, or substantiated by written documentary evidence (as described in paragraph (e) of this section) that was in existence as of that date; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-d-3-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "d", 
+                "3", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) The donation program is applicable to the State's fiscal year 1992, as demonstrated by written documentary evidence as described in paragraph (e) of this section.", 
+            "text": "(ii) The donation program is applicable to the State's fiscal year 1992, as demonstrated by written documentary evidence as described in paragraph (e) of this section.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-e": {
+        "node": {
+            "child_labels": [
+                "433-58-e-1", 
+                "433-58-e-2", 
+                "433-58-e-3", 
+                "433-58-e-4"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "e"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(e) <E T=\"03\">Written documentary evidence.</E> The State must have written documentation, which was in existence on September 30, 1991, of a donation program described in paragraph (d)(3) of this section that includes the dollar amounts it received in State fiscal year 1992 and the amounts it intended to receive, as evidenced by one or more of the following:", 
+            "text": "(e) Written documentary evidence. The State must have written documentation, which was in existence on September 30, 1991, of a donation program described in paragraph (d)(3) of this section that includes the dollar amounts it received in State fiscal year 1992 and the amounts it intended to receive, as evidenced by one or more of the following:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-e-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "e", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Reference to a donation program in a State plan amendment or related documents, including a satisfactory response, as determined by CMS, to a CMS request for additional information;", 
+            "text": "(1) Reference to a donation program in a State plan amendment or related documents, including a satisfactory response, as determined by CMS, to a CMS request for additional information;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-e-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "e", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) State budget documents identifying the amounts States expected to be received in donations;", 
+            "text": "(2) State budget documents identifying the amounts States expected to be received in donations;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-e-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "e", 
+                "3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(3) Written agreements with the parties donating the funds; and/or", 
+            "text": "(3) Written agreements with the parties donating the funds; and/or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-e-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "e", 
+                "4"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(4) Other written documents that identify amounts that the States planned to receive in donations from specified organizations during that period.", 
+            "text": "(4) Other written documents that identify amounts that the States planned to receive in donations from specified organizations during that period.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-f": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "f"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(f) <E T=\"03\">Application of rules to State fiscal year 1993.</E> For any portion of a State's fiscal year 1993 that occurs during the transition period, the State may receive, without a reduction in FFP, the amount of provider-related donations that it received in the corresponding period in State fiscal year 1992, including the 5 days after the end of that period, subject to the limitations specified in \u00a7 433.60(a).", 
+            "text": "(f) Application of rules to State fiscal year 1993. For any portion of a State's fiscal year 1993 that occurs during the transition period, the State may receive, without a reduction in FFP, the amount of provider-related donations that it received in the corresponding period in State fiscal year 1992, including the 5 days after the end of that period, subject to the limitations specified in \u00a7 433.60(a).", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g": {
+        "node": {
+            "child_labels": [
+                "433-58-g-1", 
+                "433-58-g-2"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "g"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(g) <E T=\"03\">Health care-related taxes during the transition period.</E>", 
+            "text": "(g) Health care-related taxes during the transition period.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-1": {
+        "node": {
+            "child_labels": [
+                "433-58-g-1-i", 
+                "433-58-g-1-ii"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Subject to the limitations specified in \u00a7 433.60, States may receive, without a reduction in FFP, health care-related taxes during the State's transition period if:", 
+            "text": "(1) Subject to the limitations specified in \u00a7 433.60, States may receive, without a reduction in FFP, health care-related taxes during the State's transition period if:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-1-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "1", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) The health care-related taxes are broad-based and uniformly imposed, and the taxpayer will not be held harmless, as specified in \u00a7 433.68; or", 
+            "text": "(i) The health care-related taxes are broad-based and uniformly imposed, and the taxpayer will not be held harmless, as specified in \u00a7 433.68; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-1-ii": {
+        "node": {
+            "child_labels": [
+                "433-58-g-1-ii-A", 
+                "433-58-g-1-ii-B"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "1", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) The health care-related taxes are imposed under\u2014", 
+            "text": "(ii) The health care-related taxes are imposed under\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-1-ii-A": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "1", 
+                "ii", 
+                "A"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(A) A tax program that was in effect as of November 22, 1991; or", 
+            "text": "(A) A tax program that was in effect as of November 22, 1991; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-1-ii-B": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "1", 
+                "ii", 
+                "B"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(B) Legislation or regulations that were enacted or adopted as of November 22, 1991.", 
+            "text": "(B) Legislation or regulations that were enacted or adopted as of November 22, 1991.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-2": {
+        "node": {
+            "child_labels": [
+                "433-58-g-2-i", 
+                "433-58-g-2-ii", 
+                "433-58-g-2-iii", 
+                "433-58-g-2-iv"
+            ], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) A State may not modify health care-related taxes in existence as of November 22, 1991, without a reduction of FFP, unless the modification only\u2014", 
+            "text": "(2) A State may not modify health care-related taxes in existence as of November 22, 1991, without a reduction of FFP, unless the modification only\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-2-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "2", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) Extends a tax program that was scheduled to expire before the end of the State's transition period;", 
+            "text": "(i) Extends a tax program that was scheduled to expire before the end of the State's transition period;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-2-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "2", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) Makes technical changes that do not alter the rate of the tax or the base of the tax (for example, the providers on which the tax is imposed) and do not otherwise increase the proceeds of the tax;", 
+            "text": "(ii) Makes technical changes that do not alter the rate of the tax or the base of the tax (for example, the providers on which the tax is imposed) and do not otherwise increase the proceeds of the tax;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-2-iii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "2", 
+                "iii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(iii) Decreases the rate of the tax, without altering the base of the tax; or", 
+            "text": "(iii) Decreases the rate of the tax, without altering the base of the tax; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-58-g-2-iv": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "58", 
+                "g", 
+                "2", 
+                "iv"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(iv) Modifies the tax program to bring it into compliance with \u00a7 433.68(f).", 
+            "text": "(iv) Modifies the tax program to bring it into compliance with \u00a7 433.68(f).", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-59": {
+        "op": "deleted"
+    }, 
+    "433-60": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-60-a", 
+                    "433-60-b", 
+                    "433-60-c"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    19
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "Limitations on level of FFP in State expenditures from provider-related donations and health care-related taxes during the transition period."
+                ]
+            ]
+        ]
+    }, 
+    "433-60-a": {
+        "node": {
+            "child_labels": [
+                "433-60-a-1", 
+                "433-60-a-2"
+            ], 
+            "label": [
+                "433", 
+                "60", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) <E T=\"03\">Maximum amounts.</E> The maximum amount of total provider-related donations, as specified in \u00a7 433.58(d)(3), and health care-related taxes that a State may receive without a reduction in FFP during a State fiscal year in the State's transition period specified in \u00a7 433.58(b) is calculated by multiplying\u2014", 
+            "text": "(a) Maximum amounts. The maximum amount of total provider-related donations, as specified in \u00a7 433.58(d)(3), and health care-related taxes that a State may receive without a reduction in FFP during a State fiscal year in the State's transition period specified in \u00a7 433.58(b) is calculated by multiplying\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-60-a-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "60", 
+                "a", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) The State's total medical assistance expenditures for the fiscal year; by", 
+            "text": "(1) The State's total medical assistance expenditures for the fiscal year; by", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-60-a-2": {
+        "node": {
+            "child_labels": [
+                "433-60-a-2-i", 
+                "433-60-a-2-ii"
+            ], 
+            "label": [
+                "433", 
+                "60", 
+                "a", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) The greater of:", 
+            "text": "(2) The greater of:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-60-a-2-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "60", 
+                "a", 
+                "2", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) 25 percent; or", 
+            "text": "(i) 25 percent; or", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-60-a-2-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "60", 
+                "a", 
+                "2", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) The \u201cState base percentage\u201d (as described in paragraph (b) of this section).", 
+            "text": "(ii) The \u201cState base percentage\u201d (as described in paragraph (b) of this section).", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-60-b": {
+        "node": {
+            "child_labels": [
+                "433-60-b-1", 
+                "433-60-b-2"
+            ], 
+            "label": [
+                "433", 
+                "60", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) <E T=\"03\">State base percentage.</E>", 
+            "text": "(b) State base percentage.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-60-b-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "60", 
+                "b", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) The State's base percentage is calculated by dividing the amount of the provider-related donations and health care-related taxes identified in \u00a7 433.58 and estimated by CMS to be received in the State's fiscal year 1992 by the total non-Federal share of medical assistance expenditures (including administrative costs) in that fiscal year based on the best available CMS data.", 
+            "text": "(1) The State's base percentage is calculated by dividing the amount of the provider-related donations and health care-related taxes identified in \u00a7 433.58 and estimated by CMS to be received in the State's fiscal year 1992 by the total non-Federal share of medical assistance expenditures (including administrative costs) in that fiscal year based on the best available CMS data.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-60-b-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "60", 
+                "b", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) In calculating the amount of taxes specified in paragraph (b)(1) of this section, taxes (including the tax rate or base) that were not in effect for the entire State fiscal year, but for which legislation or regulations imposing such taxes were enacted or adopted as of November 22, 1991, will be estimated as if they were in effect for the entire fiscal year.", 
+            "text": "(2) In calculating the amount of taxes specified in paragraph (b)(1) of this section, taxes (including the tax rate or base) that were not in effect for the entire State fiscal year, but for which legislation or regulations imposing such taxes were enacted or adopted as of November 22, 1991, will be estimated as if they were in effect for the entire fiscal year.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-60-c": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "60", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) <E T=\"03\">Deductions before calculating FFP.</E> Before calculating FFP, CMS will deduct from a State's medical assistance expenditures the total amount of any provider-related donations described in \u00a7 433.58(d)(3), and health care-related taxes in excess of the limit calculated under paragraph (a) of this section.", 
+            "text": "(c) Deductions before calculating FFP. Before calculating FFP, CMS will deduct from a State's medical assistance expenditures the total amount of any provider-related donations described in \u00a7 433.58(d)(3), and health care-related taxes in excess of the limit calculated under paragraph (a) of this section.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-66": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    38, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    38, 
+                    "donations after the transition period."
+                ]
+            ]
+        ]
+    }, 
+    "433-66-a-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                61, 
+                "subsequent to the end of "
+            ], 
+            [
+                "insert", 
+                63, 
+                "State's transition period, as defined in \u00a7 433.58(b), a "
+            ]
+        ]
+    }, 
+    "433-66-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    139, 
+                    144
+                ], 
+                [
+                    "insert", 
+                    139, 
+                    "1992, whether or not the State's transition period continues beyond that date."
+                ]
+            ]
+        ]
+    }, 
+    "433-67-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    94, 
+                    97
+                ], 
+                [
+                    "insert", 
+                    94, 
+                    "regardless of when a State's transition period ends, the"
+                ]
+            ], 
+            [
+                "insert", 
+                146, 
+                " oustationed eligibility workers, as described in \u00a7 433.66(b)(2), that a State may receive without a reduction in FFP may not exceed 10 percent of a State's medical assistance administrative costs (both the Federal and State share), excluding the costs of family planning activities. The 10 percent limit for provider-related donations for"
+            ], 
+            [
+                [
+                    "delete", 
+                    172, 
+                    180
+                ], 
+                [
+                    "insert", 
+                    172, 
+                    "workers is not included in the limit in effect through September 30, 1995, for health care-related taxes"
+                ]
+            ], 
+            [
+                "delete", 
+                199, 
+                635
+            ]
+        ]
+    }, 
+    "433-68": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    41, 
+                    47
+                ], 
+                [
+                    "insert", 
+                    41, 
+                    "taxes after the transition period."
+                ]
+            ]
+        ]
+    }, 
+    "433-68-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    18, 
+                    19
+                ], 
+                [
+                    "insert", 
+                    18, 
+                    "Beginning on the day after a State's transition period, as defined in \u00a7 433.58(b), ends, a"
+                ]
+            ]
+        ]
+    }, 
+    "433-68-f-1": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                70, 
+                "directly or indirectly "
+            ], 
+            [
+                [
+                    "delete", 
+                    76, 
+                    82
+                ], 
+                [
+                    "insert", 
+                    76, 
+                    "non-Medicaid payment to those providers"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    86, 
+                    107
+                ], 
+                [
+                    "insert", 
+                    86, 
+                    "others paying the tax and the amount of the"
+                ]
+            ], 
+            [
+                "insert", 
+                116, 
+                "is positively correlated "
+            ], 
+            [
+                [
+                    "delete", 
+                    119, 
+                    134
+                ], 
+                [
+                    "insert", 
+                    119, 
+                    "either the amount of the tax"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    138, 
+                    151
+                ], 
+                [
+                    "insert", 
+                    138, 
+                    "to"
+                ]
+            ], 
+            [
+                "insert", 
+                156, 
+                "difference between the Medicaid payment and the total "
+            ], 
+            [
+                [
+                    "delete", 
+                    160, 
+                    419
+                ], 
+                [
+                    "insert", 
+                    160, 
+                    "cost."
+                ]
+            ]
+        ]
+    }, 
+    "433-68-f-2": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                88, 
+                "amount of the total "
+            ], 
+            [
+                [
+                    "delete", 
+                    92, 
+                    177
+                ], 
+                [
+                    "insert", 
+                    92, 
+                    "payment."
+                ]
+            ]
+        ]
+    }, 
+    "433-68-f-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                32, 
+                "local "
+            ], 
+            [
+                [
+                    "delete", 
+                    61, 
+                    69
+                ], 
+                [
+                    "insert", 
+                    61, 
+                    "provides, directly or indirectly,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    78, 
+                    84
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "payment, offset,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    88, 
+                    113
+                ], 
+                [
+                    "insert", 
+                    88, 
+                    "waiver that guarantees to hold taxpayers harmless for all"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    117, 
+                    133
+                ], 
+                [
+                    "insert", 
+                    117, 
+                    "a portion of"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    138, 
+                    285
+                ], 
+                [
+                    "insert", 
+                    138, 
+                    "tax."
+                ]
+            ]
+        ]
+    }, 
+    "433-68-f-3-i": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                3, 
+                " An indirect guarantee will be determined to exist under a two prong \u201cguarantee\u201d test. This specific hold harmless test is effective September 13, 1993. In this instance, if the health care-related tax or taxes on each health care class are applied at a rate that produces revenues less than or equal to 6 percent of the revenues received by the taxpayer, the tax or taxes are permissible under this test. When the tax or taxes are applied at a rate that produces revenues in excess of 6 percent of the revenue received by the taxpayer, CMS will consider a hold harmless provision to exist if 75 percent or more of the taxpayers in the class receive 75 percent or more of their total tax costs back in enhanced Medicaid payments or other State payments. The second prong of the hold harmless test is applied in the aggregate to all health care taxes applied to each class. If this standard is violated, the amount of tax revenue to be offset from medical assistance expenditures is the total amount of the taxpayers\u2019 revenues received by the State."
+            ]
+        ]
+    }, 
+    "433-68-f-3-i-A": {
+        "op": "deleted"
+    }, 
+    "433-68-f-3-i-B": {
+        "op": "deleted"
+    }, 
+    "433-68-f-3-ii": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    5, 
+                    15
+                ], 
+                [
+                    "insert", 
+                    5, 
+                    "If, as of August 13, 1993, a State has enacted a tax in excess of 6 percent that does not meet the requirements in paragraph (f)(3)(i) of this section, CMS will not disallow funds received by the State resulting from the tax if the State modifies the tax to comply with this requirement by September 13, 1993. If, by September 13, 1993, the tax is not modified, funds received by States on or after September 13, 1993 will be disallowed."
+                ]
+            ]
+        ]
+    }, 
+    "433-70": {
+        "op": "modified", 
+        "title": [
+            [
+                [
+                    "delete", 
+                    9, 
+                    19
+                ], 
+                [
+                    "insert", 
+                    9, 
+                    "Limitations"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    74, 
+                    80
+                ], 
+                [
+                    "insert", 
+                    74, 
+                    "taxes after the transition period."
+                ]
+            ]
+        ]
+    }, 
+    "433-70-a": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-70-a-1", 
+                    "433-70-a-2"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                16, 
+                248
+            ]
+        ]
+    }, 
+    "433-70-a-1": {
+        "node": {
+            "child_labels": [
+                "433-70-a-1-i", 
+                "433-70-a-1-ii"
+            ], 
+            "label": [
+                "433", 
+                "70", 
+                "a", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Subsequent to the end of a State's transition period (as defined in \u00a7 433.58(b)), and extending through September 30, 1995, the maximum amount of health care-related taxes specified in \u00a7 433.68 that a State may receive during a State fiscal year (or portion thereof), without a reduction in FFP, is limited to\u2014", 
+            "text": "(1) Subsequent to the end of a State's transition period (as defined in \u00a7 433.58(b)), and extending through September 30, 1995, the maximum amount of health care-related taxes specified in \u00a7 433.68 that a State may receive during a State fiscal year (or portion thereof), without a reduction in FFP, is limited to\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-70-a-1-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "70", 
+                "a", 
+                "1", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) The greater of 25 percent or the State base percentage as described in \u00a7 433.60(b); multiplied by", 
+            "text": "(i) The greater of 25 percent or the State base percentage as described in \u00a7 433.60(b); multiplied by", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-70-a-1-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "70", 
+                "a", 
+                "1", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) The State's share of total medical assistance expenditures for the State fiscal year, less all health care-related taxes other than those described in \u00a7 433.68 that are deducted separately pursuant to paragraph (b) of this section.", 
+            "text": "(ii) The State's share of total medical assistance expenditures for the State fiscal year, less all health care-related taxes other than those described in \u00a7 433.68 that are deducted separately pursuant to paragraph (b) of this section.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-70-a-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "70", 
+                "a", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Beginning October 1, 1995, there is no limitation on the amount of health care-related taxes that a State may receive without a reduction in FFP, as long as the health care-related taxes meet the requirements specified in \u00a7 433.68.", 
+            "text": "(2) Beginning October 1, 1995, there is no limitation on the amount of health care-related taxes that a State may receive without a reduction in FFP, as long as the health care-related taxes meet the requirements specified in \u00a7 433.68.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-74-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    510, 
+                    517
+                ], 
+                [
+                    "insert", 
+                    510, 
+                    "States\u2019"
+                ]
+            ]
+        ]
+    }, 
+    "433-Subpart-A": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                4
+            ], 
+            [
+                "delete", 
+                4, 
+                5
+            ], 
+            [
+                "equal", 
+                5, 
+                12
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-Subpart-B": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "delete", 
+                9, 
+                10
+            ], 
+            [
+                "equal", 
+                10, 
+                17
+            ]
+        ], 
+        "op": "modified"
+    }
+}

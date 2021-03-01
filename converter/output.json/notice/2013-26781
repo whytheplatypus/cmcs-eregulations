@@ -1,0 +1,47 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-50-a-1-i", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "433-50-a-1-ii", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "In Title 42 of the Code of Federal Regulations, Parts 430 to 481, revised as of October 1, 2012, on page 98, in \u00a7\u2009433.50, paragraphs (a)(1)(i) and (a)(1)(ii) are removed."
+        }
+    ], 
+    "cfr_parts": [
+        "433"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [], 
+    "document_number": "2013-26781", 
+    "footnotes": {}, 
+    "fr_citation": "78 FR 66852", 
+    "fr_url": "https://www.federalregister.gov/documents/2013/11/07/2013-26781/state-fiscal-administration", 
+    "fr_volume": 78, 
+    "meta": {
+        "start_page": 66852
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES", 
+    "primary_docket": null, 
+    "publication_date": "2013-11-07", 
+    "regulation_id_numbers": [], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "State Fiscal Administration", 
+    "versions": {}
+}

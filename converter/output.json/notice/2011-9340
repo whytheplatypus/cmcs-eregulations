@@ -1,0 +1,789 @@
+{
+    "amendments": [
+        {
+            "authority": "Section 1102 of the Social Security Act, (42 U.S.C. 1302).", 
+            "cfr_part": "433", 
+            "instruction": "1. The authority citation for part 433 continues to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-110-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "110", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Section 1903(r) of the Act, which imposes certain standards and conditions on mechanized claims processing and information retrieval systems (including eligibility determination systems) in order for these systems to be eligible for Federal funding under section 1903(a) of the Act.", 
+                                "text": "(2) Section 1903(r) of the Act, which imposes certain standards and conditions on mechanized claims processing and information retrieval systems (including eligibility determination systems) in order for these systems to be eligible for Federal funding under section 1903(a) of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "2. Section 433.110 is amended by revising paragraph (a)(2) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "3. Section 433.111 is amended by\u2014"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-111-b-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "b", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) Approved enhancements to the system.", 
+                                "text": "(3) Approved enhancements to the system.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Revising paragraph (b)(3)."
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-111-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "111", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) \u201cMedicaid Information Technology Architecture (MITA)\u201d is defined at \u00a7\u2009495.302 of this chapter.", 
+                                "text": "(c) \u201cMedicaid Information Technology Architecture (MITA)\u201d is defined at \u00a7\u2009495.302 of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Adding paragraph (c)."
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "4. Section 433.112 is amending by-"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-112-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Subject to paragraph (c) of this section, FFP is available at the 90 percent rate in State expenditures for the design, development, installation, or enhancement of a mechanized claims processing and information retrieval system only if the APD is approved by CMS prior to the State's expenditure of funds for these purposes.", 
+                                "text": "(a) Subject to paragraph (c) of this section, FFP is available at the 90 percent rate in State expenditures for the design, development, installation, or enhancement of a mechanized claims processing and information retrieval system only if the APD is approved by CMS prior to the State's expenditure of funds for these purposes.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) The system meets the system requirements, standards and conditions, and performance standards in Part 11 of the State Medicaid Manual, as periodically amended.", 
+                                "text": "(2) The system meets the system requirements, standards and conditions, and performance standards in Part 11 of the State Medicaid Manual, as periodically amended.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-112-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "112", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) FFP is available at 90 percent of a State's expenditures for the design, development, installation, or enhancement of an eligibility determination system that meets the requirements of this subpart and only for costs incurred for goods and services provided on or after April 19, 2011 and on or before December 31, 2015.", 
+                                "text": "(c) FFP is available at 90 percent of a State's expenditures for the design, development, installation, or enhancement of an eligibility determination system that meets the requirements of this subpart and only for costs incurred for goods and services provided on or after April 19, 2011 and on or before December 31, 2015.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Revising paragraphs (a), (b)(2), and (c)."
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "B. Amending paragraph (b)(7) by removing the reference \u201c45 CFR 74.171\u201d and adding in its place, the reference \u201c45 CFR 74.27(a)\u201d."
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-27-b-10", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "27", 
+                                    "b", 
+                                    "10"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(10) Use a modular, flexible approach to systems development, including the use of open interfaces and exposed application programming interfaces; the separation of business rules from core programming, available in both human and machine readable formats.", 
+                                "text": "(10) Use a modular, flexible approach to systems development, including the use of open interfaces and exposed application programming interfaces; the separation of business rules from core programming, available in both human and machine readable formats.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-27-b-11", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "27", 
+                                    "b", 
+                                    "11"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(11) Align to, and advance increasingly, in MITA maturity for business, architecture, and data.", 
+                                "text": "(11) Align to, and advance increasingly, in MITA maturity for business, architecture, and data.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-27-b-12", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "27", 
+                                    "b", 
+                                    "12"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(12) Ensure alignment with, and incorporation of, industry standards: The HIPAA privacy, security and transaction standards; accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards adopted by the Secretary under section 1104 of the Affordable Care Act; and standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.", 
+                                "text": "(12) Ensure alignment with, and incorporation of, industry standards: The HIPAA privacy, security and transaction standards; accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards adopted by the Secretary under section 1104 of the Affordable Care Act; and standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-27-b-13", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "27", 
+                                    "b", 
+                                    "13"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(13) Promote sharing, leverage, and reuse of Medicaid technologies and systems within and among States.", 
+                                "text": "(13) Promote sharing, leverage, and reuse of Medicaid technologies and systems within and among States.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-27-b-14", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "27", 
+                                    "b", 
+                                    "14"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(14) Support accurate and timely processing and adjudications/eligibility determinations and effective communications with providers, beneficiaries, and the public.", 
+                                "text": "(14) Support accurate and timely processing and adjudications/eligibility determinations and effective communications with providers, beneficiaries, and the public.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-27-b-15", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "27", 
+                                    "b", 
+                                    "15"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(15) Produce transaction data, reports, and performance information that would contribute to program evaluation, continuous improvement in business operations, and transparency and accountability.", 
+                                "text": "(15) Produce transaction data, reports, and performance information that would contribute to program evaluation, continuous improvement in business operations, and transparency and accountability.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-27-b-16", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "27", 
+                                    "b", 
+                                    "16"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(16) Ensure seamless coordination and integration with the Exchange, and allow interoperability with health information exchanges, public health agencies, human services programs, and community organizations providing outreach and enrollment assistance services.", 
+                                "text": "(16) Ensure seamless coordination and integration with the Exchange, and allow interoperability with health information exchanges, public health agencies, human services programs, and community organizations providing outreach and enrollment assistance services.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. Adding paragraphs (b)(10) through (b)(16)."
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-113", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. Section 433.113 is removed."
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "6. Section 433.114 is amended by\u2014"
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "A. Amending paragraph (a) by removing the reference \u201c(h)\u201d and by adding in its place the reference \u201c(i)\u201d."
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-114-b-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "114", 
+                                    "b", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) The findings of fact upon which the determination was made.", 
+                                "text": "(1) The findings of fact upon which the determination was made.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-114-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "114", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) The procedures for appeal of the determination in the context of a reconsideration of the resulting disallowance to the Departmental Appeals Board.", 
+                                "text": "(2) The procedures for appeal of the determination in the context of a reconsideration of the resulting disallowance to the Departmental Appeals Board.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-114-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-114-b-1", 
+                                    "433-114-b-2"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "114", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) If CMS disapproves the system, the notice will include all of the following information:", 
+                                "text": "(b) If CMS disapproves the system, the notice will include all of the following information:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Revising paragraph (b)."
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "7. Section 433.116 is amended by \u2014"
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "A. Amending paragraph (a) by removing the phrase \u201cSubject to 42 CFR 433.113(c),\u201d and by adding in its place \u201cSubject to paragraph (j) of this section,\u201d."
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "B. Amending paragraph (b) by removing the reference \u201c(h)\u201d and by adding in its place the reference \u201c(i)\u201d."
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-113-i", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "113", 
+                                    "i"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(i) The standards and conditions of \u00a7\u2009433.112(b)(10) through (b)(16) of this subpart must be met.", 
+                                "text": "(i) The standards and conditions of \u00a7\u2009433.112(b)(10) through (b)(16) of this subpart must be met.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. Adding new paragraphs (i) and (j)."
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "8. Section 433.117 is amended by\u2014"
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "A. Amending paragraph (a) by removing the phrase \u201call conditions\u201d and adding in its place the phrase \u201call standards and conditions\u201d."
+        }, 
+        {
+            "cfr_part": "433", 
+            "instruction": "B. Amending paragraph (c)(2) by removing the reference \u201c(h)\u201d and adding in its place the reference \u201c(j)\u201d."
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-119-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) The system meets the requirements of \u00a7\u2009433.112(b)(1), (3), (4), (7) through (16) of this subpart.", 
+                                "text": "(1) The system meets the requirements of \u00a7\u2009433.112(b)(1), (3), (4), (7) through (16) of this subpart.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-119-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) The system meets the conditions of \u00a7\u2009433.116 (d) through (j).", 
+                                "text": "(2) The system meets the conditions of \u00a7\u2009433.116 (d) through (j).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-119-a-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "a", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The system meets the standards, conditions, and performance standards for reapproval and the system requirements in part 11 of the State Medicaid Manual as periodically amended.", 
+                                "text": "(3) The system meets the standards, conditions, and performance standards for reapproval and the system requirements in part 11 of the State Medicaid Manual as periodically amended.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-119-a-4", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "a", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) A State system must meet all of the requirements of this subpart within the appropriate period CMS determines should apply as required by \u00a7\u2009433.123(b) of this subpart.", 
+                                "text": "(4) A State system must meet all of the requirements of this subpart within the appropriate period CMS determines should apply as required by \u00a7\u2009433.123(b) of this subpart.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-119-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-119-a-1", 
+                                    "433-119-a-2", 
+                                    "433-119-a-3", 
+                                    "433-119-a-4"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) CMS periodically reviews each system operation initially approved under \u00a7\u2009433.114 of this subpart and reapproves it for FFP at 75 percent of expenditures if the following standards and conditions are met:", 
+                                "text": "(a) CMS periodically reviews each system operation initially approved under \u00a7\u2009433.114 of this subpart and reapproves it for FFP at 75 percent of expenditures if the following standards and conditions are met:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-119-c-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "c", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) CMS's decision to reduce FFP for system operations from 75 percent to 50 percent of expenditures, beginning with the first day of the first calendar quarter after CMS issues the written notice to the State.", 
+                                "text": "(1) CMS's decision to reduce FFP for system operations from 75 percent to 50 percent of expenditures, beginning with the first day of the first calendar quarter after CMS issues the written notice to the State.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-119-c-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "c", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) The findings of fact upon which the determination was made.", 
+                                "text": "(2) The findings of fact upon which the determination was made.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-119-c-3", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "c", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) A statement that State claims in excess of the reduced FFP rate will be disallowed and that any such disallowance will be appealable to the Departmental Appeals Board.", 
+                                "text": "(3) A statement that State claims in excess of the reduced FFP rate will be disallowed and that any such disallowance will be appealable to the Departmental Appeals Board.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "433-119-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "433-119-c-1", 
+                                    "433-119-c-2", 
+                                    "433-119-c-3"
+                                ], 
+                                "label": [
+                                    "433", 
+                                    "119", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) After performing the review under paragraph (a) of this section, CMS will issue to the Medicaid agency a written notice informing the agency whether the system is reapproved or disapproved. If the system is disapproved, the notice will include the following information:", 
+                                "text": "(c) After performing the review under paragraph (a) of this section, CMS will issue to the Medicaid agency a written notice informing the agency whether the system is reapproved or disapproved. If the system is disapproved, the notice will include the following information:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "9. Section 433.119 is amended by revising paragraphs (a) and (c) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-120-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "120", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) CMS will reduce FFP in expenditures for system operations from 75 percent to 50 percent.", 
+                                "text": "(b) CMS will reduce FFP in expenditures for system operations from 75 percent to 50 percent.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "10. Section 433.120 is amended by revising paragraph (b) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-121-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "121", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) The State Medicaid agency may appeal (to the Departmental Appeals Board under 45 CFR Part 16) a disallowance concerning a reduction in FFP claimed for system operations caused by a disapproval of the State's system.", 
+                                "text": "(a) The State Medicaid agency may appeal (to the Departmental Appeals Board under 45 CFR Part 16) a disallowance concerning a reduction in FFP claimed for system operations caused by a disapproval of the State's system.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "11. Section 433.121 is amended by revising paragraph (a) to read as follows:"
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-130", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "12. Section 433.130 is removed."
+        }, 
+        {
+            "cfr_part": "433", 
+            "changes": [
+                [
+                    "433-131-c", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "433", 
+                                    "131", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) <E T=\"03\">Waiver of deadline.</E> In no case will CMS waive the December 31, 2015 deadlines referenced in \u00a7\u2009433.112(c) and \u00a7\u2009433.116(j).", 
+                                "text": "(c) Waiver of deadline. In no case will CMS waive the December 31, 2015 deadlines referenced in \u00a7\u2009433.112(c) and \u00a7\u2009433.116(j).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "13. Section 433.131 is amended by adding a new paragraph (c) to read as follows:"
+        }
+    ], 
+    "cfr_parts": [
+        "433"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "CMS-2346-F"
+    ], 
+    "document_number": "2011-9340", 
+    "effective_on": "2011-04-19", 
+    "footnotes": {}, 
+    "fr_citation": "76 FR 21949", 
+    "fr_url": "https://www.federalregister.gov/documents/2011/04/19/2011-9340/medicaid-program-federal-funding-for-medicaid-eligibility-determination-and-enrollment-activities", 
+    "fr_volume": 76, 
+    "meta": {
+        "start_page": 21949
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES", 
+    "primary_docket": null, 
+    "publication_date": "2011-04-19", 
+    "regulation_id_numbers": [
+        "0938-AQ53"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "Medicaid Program; Federal Funding for Medicaid Eligibility Determination and Enrollment Activities", 
+    "versions": {
+        "433": {
+            "left": "2010-30066", 
+            "right": "2011-9340"
+        }
+    }
+}

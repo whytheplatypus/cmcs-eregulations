@@ -1,0 +1,38 @@
+{
+    "433-10-c-5-v": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                1
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-10-c-5-v-p1": {
+        "op": "deleted"
+    }, 
+    "433-20": {
+        "op": "deleted"
+    }, 
+    "433-Subpart-A": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                4
+            ], 
+            [
+                "delete", 
+                4, 
+                5
+            ], 
+            [
+                "equal", 
+                5, 
+                12
+            ]
+        ], 
+        "op": "modified"
+    }
+}

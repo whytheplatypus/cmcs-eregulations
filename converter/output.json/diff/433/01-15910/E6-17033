@@ -1,0 +1,69 @@
+{
+    "433-112-b-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    49, 
+                    60
+                ], 
+                [
+                    "insert", 
+                    49, 
+                    "quality improvement"
+                ]
+            ]
+        ]
+    }, 
+    "433-15-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "insert", 
+                9, 
+                [
+                    "433-15-b-10"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-15-b-10": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "15", 
+                "b", 
+                "10"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(10) Funds expended for the performance of external quality review or the related activities described in \u00a7 438.358 of this chapter when they are performed by an external quality review organization as defined in \u00a7 438.320 of this chapter: 75 percent.", 
+            "text": "(10) Funds expended for the performance of external quality review or the related activities described in \u00a7 438.358 of this chapter when they are performed by an external quality review organization as defined in \u00a7 438.320 of this chapter: 75 percent.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-15-b-6-i": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    78, 
+                    81
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "QIO"
+                ]
+            ]
+        ]
+    }
+}

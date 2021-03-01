@@ -1,0 +1,1343 @@
+{
+    "amendments": [
+        {
+            "cfr_part": "435", 
+            "instruction": "42 CFR chapter IV, amended at 66 FR 2490 January 11, 2001, is further amended as set forth below: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "instruction": "A. Part 435 is amended as follows: "
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "435", 
+            "instruction": "1. The authority citation for part 435 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "instruction": "2. In \u00a7\u2009435.1101, republish the introductory text of the definition of \u201cQualified entity\u201d and amend the definition as follows: "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-1101-p1546495789-8", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "9"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-9", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "10"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-10", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "9", 
+                                "i"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-9-i", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "9", 
+                                "ii"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-9-ii", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "9", 
+                                "iii"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Redesignate paragraphs (8), (9), and (10) as paragraphs (9)(i), (9)(ii), and (9)(iii), respectively. "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-1101-p1546495789-5", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "6"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-6", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "7"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "435-1101-p1546495789-7", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "6"
+                            ]
+                        }, 
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "p1546495789", 
+                                "8"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Redesignate paragraphs (5) through (7) as paragraphs (6) through (8). "
+        }, 
+        {
+            "cfr_part": "435", 
+            "instruction": "C. Add a new paragraph (5). "
+        }, 
+        {
+            "cfr_part": "435", 
+            "instruction": "D. Revise newly redesignated paragraph (9). "
+        }, 
+        {
+            "cfr_part": "435", 
+            "changes": [
+                [
+                    "435-1101-11-Interp", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "435", 
+                                "1101", 
+                                "10", 
+                                "Interp"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "E. Redesignate paragraph (11) as paragraph (10). "
+        }, 
+        {
+            "cfr_part": "436", 
+            "instruction": "B. Part 436 is amended as follows: "
+        }, 
+        {
+            "authority": "Sec. 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "436", 
+            "instruction": "1. The authority citation for part 436 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "436", 
+            "instruction": "2. In \u00a7\u2009436.1101, republish the introductory text of the definition of \u201cQualified entity\u201d and amend the definition as follows: "
+        }, 
+        {
+            "cfr_part": "436", 
+            "changes": [
+                [
+                    "436-1101-p1546495789-8", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "9"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-9", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "10"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-10", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "9", 
+                                "i"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-9-i", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "9", 
+                                "ii"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-9-ii", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "9", 
+                                "iii"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Redesignate paragraphs (8), (9), and (10) as paragraphs (9)(i), (9)(ii) and (9)(iii), respectively. "
+        }, 
+        {
+            "cfr_part": "436", 
+            "changes": [
+                [
+                    "436-1101-p1546495789-5", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "6"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-6", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "7"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "436-1101-p1546495789-7", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "6"
+                            ]
+                        }, 
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "p1546495789", 
+                                "8"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Redesignate paragraphs (5) through (7) as paragraphs (6) through (8), respectively. "
+        }, 
+        {
+            "cfr_part": "436", 
+            "instruction": "C. Add a new paragraph (5). "
+        }, 
+        {
+            "cfr_part": "436", 
+            "instruction": "D. Revise newly redesignated paragraph (9). "
+        }, 
+        {
+            "cfr_part": "436", 
+            "changes": [
+                [
+                    "436-1101-11-Interp", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "436", 
+                                "1101", 
+                                "10", 
+                                "Interp"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "E. Redesignate paragraph (11) as paragraph (10). "
+        }, 
+        {
+            "cfr_part": "436", 
+            "instruction": "The addition and revision read as follows: "
+        }, 
+        {
+            "cfr_part": "436", 
+            "instruction": "C. Part 457 is amended as follows: "
+        }, 
+        {
+            "authority": "Section 1102 of the Social Security Act (42 U.S.C. 1302).", 
+            "cfr_part": "436", 
+            "instruction": "1. The authority citation for part 457 continues to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "2. Amend \u00a7\u2009457.60 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-60-b-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "60", 
+                                    "b", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) Procedures to prevent substitution of private coverage as described in \u00a7\u2009457.805, and in \u00a7\u2009457.810 for premium assistance programs.", 
+                                "text": "(2) Procedures to prevent substitution of private coverage as described in \u00a7\u2009457.805, and in \u00a7\u2009457.810 for premium assistance programs.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Revise paragraph (b)(2). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "B. In paragraph (b)(7) remove \u201cand 457.353\u201d. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-1130", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "457-1160", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "457-1170", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "457-1180", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "457-1190", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. In paragraph (b)(8) remove \u201c\u00a7\u00a7\u2009457.1130, 457.1160, 457.1170, 457.1180 and 457.1190\u201d and add in its place \u201c\u00a7\u2009457.1120\u201d. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "3. Amend \u00a7\u2009457.301 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "A. Republish the introductory text of the definition of \u201cQualified entity\u201d and amend the definition as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-301-p4129477912", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "301", 
+                                    "p4129477912"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "<E T=\"03\">State health benefits plan</E> means a health insurance coverage plan that is offered or organized by the State government on behalf of State employees or other public agency employees within the State. The term does not include a plan in which the State provides no contribution toward the cost of coverage and in which no State employees participate, or a plan that provides coverage only for a specific type of care, such as dental or vision care.", 
+                                "text": "State health benefits plan means a health insurance coverage plan that is offered or organized by the State government on behalf of State employees or other public agency employees within the State. The term does not include a plan in which the State provides no contribution toward the cost of coverage and in which no State employees participate, or a plan that provides coverage only for a specific type of care, such as dental or vision care.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Add a definition of \u201cState health benefits plan,\u201d in alphabetical order. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-320-b-4", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "320", 
+                                    "b", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) Require any family member who is not requesting services to provide a social security number (including those family members whose income or resources might be used in making the child's eligibility determination);", 
+                                "text": "(4) Require any family member who is not requesting services to provide a social security number (including those family members whose income or resources might be used in making the child's eligibility determination);", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "4. Amend \u00a7\u2009457.320 by revising paragraph (b)(4) to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-340-b", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "457", 
+                                "340", 
+                                "c"
+                            ]
+                        }, 
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "340", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Use of social security number.</E> A State may require a social security number for each individual requesting services consistent with the requirements at \u00a7\u2009435.910(b), (e), (f), and (g) of this chapter.", 
+                                "text": "(b) Use of social security number. A State may require a social security number for each individual requesting services consistent with the requirements at \u00a7\u2009435.910(b), (e), (f), and (g) of this chapter.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-340-c", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "457", 
+                                "340", 
+                                "d"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "457-340-d", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "457", 
+                                "340", 
+                                "e"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "5. Amend \u00a7\u2009457.340 by redesignating paragraphs (b) through (e) as (c) through (f) and adding a new paragraph (b) to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "6. Amend \u00a7\u2009457.350 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-350-e-4", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "350", 
+                                    "e", 
+                                    "4"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(4) The State will determine the written format and timing of the information regarding Medicaid eligibility, benefits, and the application process required under this paragraph (e).", 
+                                "text": "(4) The State will determine the written format and timing of the information regarding Medicaid eligibility, benefits, and the application process required under this paragraph (e).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-350-g-3", 
+                    [
+                        {
+                            "action": "POST", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "350", 
+                                    "g", 
+                                    "3"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(3) The State will determine the written format and timing of the information regarding Medicaid eligibility, benefits, and the application process required under this paragraph (g).", 
+                                "text": "(3) The State will determine the written format and timing of the information regarding Medicaid eligibility, benefits, and the application process required under this paragraph (g).", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Add paragraphs (e)(4) and (g)(3). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-350-f-5-iii", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Remove paragraph (f)(5)(iii). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "7. Amend \u00a7\u2009457.355 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-355-a", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "457", 
+                                "355", 
+                                "b"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Redesignate paragraph (a) as paragraph (b). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-355-b", 
+                    [
+                        {
+                            "action": "POST", 
+                            "field": "[title]", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "355", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Expenditures for coverage during a period of presumptive eligibility.</E> Expenditures for coverage during a period of presumptive eligibility implemented in accordance with \u00a7\u2009435.1102 of this chapter may be considered as expenditures for child health assistance under the plan.", 
+                                "text": "(b) Expenditures for coverage during a period of presumptive eligibility. Expenditures for coverage during a period of presumptive eligibility implemented in accordance with \u00a7\u2009435.1102 of this chapter may be considered as expenditures for child health assistance under the plan.", 
+                                "title": null
+                            }
+                        }, 
+                        {
+                            "action": "PUT", 
+                            "field": "[text]", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "355", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Expenditures for coverage during a period of presumptive eligibility.</E> Expenditures for coverage during a period of presumptive eligibility implemented in accordance with \u00a7\u2009435.1102 of this chapter may be considered as expenditures for child health assistance under the plan.", 
+                                "text": "(b) Expenditures for coverage during a period of presumptive eligibility. Expenditures for coverage during a period of presumptive eligibility implemented in accordance with \u00a7\u2009435.1102 of this chapter may be considered as expenditures for child health assistance under the plan.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Add paragraph designation (a) and paragraph heading to the introductory text. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-355-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "355", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) <E T=\"03\">Expenditures for coverage during a period of presumptive eligibility.</E> Expenditures for coverage during a period of presumptive eligibility implemented in accordance with \u00a7\u2009435.1102 of this chapter may be considered as expenditures for child health assistance under the plan.", 
+                                "text": "(b) Expenditures for coverage during a period of presumptive eligibility. Expenditures for coverage during a period of presumptive eligibility implemented in accordance with \u00a7\u2009435.1102 of this chapter may be considered as expenditures for child health assistance under the plan.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. Revise newly redesignated paragraph (b). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "The revisions read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-450-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "450", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) Coverage that is the same as the coverage provided to children under the Medicaid State plan.", 
+                                "text": "(a) Coverage that is the same as the coverage provided to children under the Medicaid State plan.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-450-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "450", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) Comprehensive coverage for children offered by the State under a Medicaid demonstration project approved by the Secretary under section 1115 of the Act.", 
+                                "text": "(b) Comprehensive coverage for children offered by the State under a Medicaid demonstration project approved by the Secretary under section 1115 of the Act.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-450-c", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "450", 
+                                    "c"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(c) Coverage that either includes the full Early and Periodic Screening, Diagnosis, and Treatment (EPSDT) benefit or that the State has extended to the entire Medicaid population in the State.", 
+                                "text": "(c) Coverage that either includes the full Early and Periodic Screening, Diagnosis, and Treatment (EPSDT) benefit or that the State has extended to the entire Medicaid population in the State.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-450-d", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "450", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) Coverage that includes benchmark health benefits coverage, as specified in \u00a7\u2009457.420, plus any additional coverage.", 
+                                "text": "(d) Coverage that includes benchmark health benefits coverage, as specified in \u00a7\u2009457.420, plus any additional coverage.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-450-e", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "450", 
+                                    "e"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(e) Coverage that is the same as the coverage provided under \u00a7\u2009457.440.", 
+                                "text": "(e) Coverage that is the same as the coverage provided under \u00a7\u2009457.440.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-450-f", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "450", 
+                                    "f"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(f) Coverage, including coverage under a group health plan purchased by the State, that the State demonstrates to be substantially equivalent to or greater than coverage under a benchmark health benefits plan, as specified in \u00a7\u2009457.420, through use of a benefit-by-benefit comparison which demonstrates that coverage for each benefit meets or exceeds the corresponding coverage under the benchmark health benefits plan.", 
+                                "text": "(f) Coverage, including coverage under a group health plan purchased by the State, that the State demonstrates to be substantially equivalent to or greater than coverage under a benchmark health benefits plan, as specified in \u00a7\u2009457.420, through use of a benefit-by-benefit comparison which demonstrates that coverage for each benefit meets or exceeds the corresponding coverage under the benchmark health benefits plan.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-450", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "457-450-a", 
+                                    "457-450-b", 
+                                    "457-450-c", 
+                                    "457-450-d", 
+                                    "457-450-e", 
+                                    "457-450-f"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "450"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n               Secretary-approved coverage is health benefits coverage that, in the determination of the Secretary, provides appropriate coverage for the population of targeted low-income children covered under the program. Secretary-approved coverage, for which no actuarial analysis is required, may include, but is not limited to the following:", 
+                                "text": "Secretary-approved coverage is health benefits coverage that, in the determination of the Secretary, provides appropriate coverage for the population of targeted low-income children covered under the program. Secretary-approved coverage, for which no actuarial analysis is required, may include, but is not limited to the following:", 
+                                "title": "\u00a7 457.450 Secretary-approved coverage."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "8. Revise \u00a7\u2009457.450 to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-495-d-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "495", 
+                                    "d", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) In accordance with the medical needs of the patient, within 14 days after receipt of a request for services. A possible extension of up to 14 days may be permitted if the enrollee requests the extension or if the physician or health plan determines that additional information is needed; or", 
+                                "text": "(1) In accordance with the medical needs of the patient, within 14 days after receipt of a request for services. A possible extension of up to 14 days may be permitted if the enrollee requests the extension or if the physician or health plan determines that additional information is needed; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-495-d-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "495", 
+                                    "d", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) In accordance with existing State law regarding prior authorization of health services.", 
+                                "text": "(2) In accordance with existing State law regarding prior authorization of health services.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-495-d", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "457-495-d-1", 
+                                    "457-495-d-2"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "495", 
+                                    "d"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(d) That decisions related to the prior authorization of health services are completed as follows:", 
+                                "text": "(d) That decisions related to the prior authorization of health services are completed as follows:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "9. Revise \u00a7\u2009457.495(d) to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "10. Amend \u00a7\u2009457.505 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "A. In paragraph (d)(1) remove \u201cenrollees\u201d and add \u201celigible children\u201d in its place. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "B. In paragraph (d)(3) remove \u201cenrollees\u201d and add \u201celigible children\u201d in its place. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "C. In paragraph (e) remove \u201cby an enrollee\u201d and add \u201con behalf of an eligible child\u201d in its place. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-560-b", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "11. Amend \u00a7\u2009457.540(f) by removing \u201c\u00a7\u2009457.560(b)\u201d and adding \u201c\u00a7\u2009457.560(a)\u201d in its place. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "12. Amend \u00a7\u2009457.560 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-560-a", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ], 
+                [
+                    "457-560-b", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Remove paragraphs (a) and (b). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-560-c", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "457", 
+                                "560", 
+                                "d"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "457-560-d", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "457", 
+                                "560", 
+                                "a"
+                            ]
+                        }
+                    ]
+                ], 
+                [
+                    "457-560-a", 
+                    [
+                        {
+                            "action": "MOVE", 
+                            "destination": [
+                                "457", 
+                                "560", 
+                                "b"
+                            ]
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "B. Redesignate paragraphs (c) and (d) as paragraphs (a) and (b). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-560-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "560", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) A State may not impose premiums, enrollment fees, copayments, coinsurance, deductibles, or similar cost-sharing charges that, in the aggregate, exceed 5 percent of a family's total income for the length of a child's eligibility period in the State.", 
+                                "text": "(a) A State may not impose premiums, enrollment fees, copayments, coinsurance, deductibles, or similar cost-sharing charges that, in the aggregate, exceed 5 percent of a family's total income for the length of a child's eligibility period in the State.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "C. Revise newly redesignated paragraph (a) to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-750-b-7", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "13. In \u00a7\u2009457.750 remove paragraph (b)(7) and redesignate paragraph (b)(8) as (b)(7). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "14. Amend \u00a7\u2009457.940 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "A. In paragraph (b)(1), remove \u201c45 CFR 74.43\u201d and add in its place \u201c45 CFR 74.43 or 45 CFR 92.36, as applicable\u201d. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "B. In paragraph (d) remove \u201c45 CFR part 74\u201d and add in its place \u201c45 CFR part 74 or 45 CFR part 92, as applicable\u201d. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "15. Amend \u00a7\u2009457.980 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-980-a", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "A. Remove paragraph (a); and "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "B. Remove paragraph designation (b). "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "16. Amend \u00a7\u2009457.1000 as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "A. In paragraph (a)(1) remove the phrase \u201cfor a waiver\u201d. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "B. In paragraph (a)(2) remove the phrase \u201ca waiver for\u201d. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-1005", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "17. Amend \u00a7\u2009457.1005 by removing \u201cWaiver for\u201d from the section heading. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-1010", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "18. Amend \u00a7\u2009457.1010 by removing \u201cWaiver for\u201d from the section heading. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-1120-a-1", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "1120", 
+                                    "a", 
+                                    "1"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(1) <E T=\"03\">Program specific review.</E> A process that meets the requirements of \u00a7\u00a7\u2009457.1130, 457.1140, 457.1150, 457.1160, 457.1170, and 457.1180; or", 
+                                "text": "(1) Program specific review. A process that meets the requirements of \u00a7\u00a7\u2009457.1130, 457.1140, 457.1150, 457.1160, 457.1170, and 457.1180; or", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-1120-a-2", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "1120", 
+                                    "a", 
+                                    "2"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(2) <E T=\"03\">Statewide Standard Review.</E> A process that complies with State review requirements currently in effect for all health insurance issuers (as defined in section 2791 of the Public Health Service Act) in the State.", 
+                                "text": "(2) Statewide Standard Review. A process that complies with State review requirements currently in effect for all health insurance issuers (as defined in section 2791 of the Public Health Service Act) in the State.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-1120-a", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "457-1120-a-1", 
+                                    "457-1120-a-2"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "1120", 
+                                    "a"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(a) The State must have one of the following review processes:", 
+                                "text": "(a) The State must have one of the following review processes:", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-1120-b", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [], 
+                                "label": [
+                                    "457", 
+                                    "1120", 
+                                    "b"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "(b) The State plan must include a description of the State's review process.", 
+                                "text": "(b) The State plan must include a description of the State's review process.", 
+                                "title": null
+                            }
+                        }
+                    ]
+                ], 
+                [
+                    "457-1120", 
+                    [
+                        {
+                            "action": "PUT", 
+                            "node": {
+                                "child_labels": [
+                                    "457-1120-a", 
+                                    "457-1120-b"
+                                ], 
+                                "label": [
+                                    "457", 
+                                    "1120"
+                                ], 
+                                "node_type": "regtext", 
+                                "tagged_text": "\n              ", 
+                                "text": "", 
+                                "title": "\u00a7 457.1120 State plan requirement: Description of review process."
+                            }
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "19. Section 457.1120 is revised to read as follows: "
+        }, 
+        {
+            "cfr_part": "457", 
+            "instruction": "20. Amend \u00a7\u00a7\u2009457.1130, 457.1140, 457.1150, 457.1160, 457.1170, and 457.1180 by adding \u201cProgram specific review process:\u201d at the beginning of each section heading. "
+        }, 
+        {
+            "cfr_part": "457", 
+            "changes": [
+                [
+                    "457-1130-b", 
+                    [
+                        {
+                            "action": "DELETE"
+                        }
+                    ]
+                ]
+            ], 
+            "instruction": "21. In \u00a7\u2009457.1190, remove \u201c\u00a7\u00a7\u2009457.1130(b), 457.1140, 457.1150(b), 457.1160(b), and 457.1180\u201d and add \u201ca program specific review or a Statewide standard review, as described in \u00a7\u2009457.1120,\u201d in its place."
+        }
+    ], 
+    "cfr_parts": [
+        "431", 
+        "433", 
+        "435", 
+        "436", 
+        "457"
+    ], 
+    "cfr_title": 42, 
+    "dockets": [
+        "HCFA-2006-IFC"
+    ], 
+    "document_number": "01-15910", 
+    "effective_on": "2001-08-24", 
+    "footnotes": {}, 
+    "fr_citation": "66 FR 33809", 
+    "fr_url": "https://www.federalregister.gov/documents/2001/06/25/01-15910/state-child-health-revisions-to-the-regulations-implementing-the-state-childrens-health-insurance", 
+    "fr_volume": 66, 
+    "meta": {
+        "start_page": 33809
+    }, 
+    "primary_agency": "DEPARTMENT OF HEALTH AND HUMAN SERVICES ", 
+    "primary_docket": null, 
+    "publication_date": "2001-06-25", 
+    "regulation_id_numbers": [
+        "0938-AL00"
+    ], 
+    "section_by_section": [], 
+    "supporting_documents": [], 
+    "title": "State Child Health; Revisions to the Regulations Implementing the State Children's Health Insurance Program ", 
+    "versions": {
+        "433": {
+            "left": "01-607", 
+            "right": "01-15910"
+        }
+    }
+}

@@ -1,0 +1,1283 @@
+{
+    "433-110": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-110-a", 
+                    "433-110-b"
+                ]
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-110-a": {
+        "node": {
+            "child_labels": [
+                "433-110-a-1", 
+                "433-110-a-2"
+            ], 
+            "label": [
+                "433", 
+                "110", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) This subpart implements the following sections of the Act:", 
+            "text": "(a) This subpart implements the following sections of the Act:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Section 1903(a)(3) of the Act, which provides for FFP in State expenditures for the design, development, or installation of mechanized claims processing and information retrieval systems and for the operation of certain systems. Additional HHS regulations and CMS procedures for implementing these regulations are in 45 CFR part 74, 45 CFR part 95, subpart F, and part 11, State Medicaid Manual; and", 
+            "text": "(1) Section 1903(a)(3) of the Act, which provides for FFP in State expenditures for the design, development, or installation of mechanized claims processing and information retrieval systems and for the operation of certain systems. Additional HHS regulations and CMS procedures for implementing these regulations are in 45 CFR part 74, 45 CFR part 95, subpart F, and part 11, State Medicaid Manual; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2": {
+        "node": {
+            "child_labels": [
+                "433-110-a-2-i", 
+                "433-110-a-2-ii", 
+                "433-110-a-2-iii"
+            ], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) Section 1903(r) of the Act, which\u2014", 
+            "text": "(2) Section 1903(r) of the Act, which\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2-i": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2", 
+                "i"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(i) Requires reductions in FFP otherwise due a State under section 1903(a) if a State fails to meet certain deadlines for operating a mechanized claims processing and information retrieval system or if the system fails to meet certain conditions of approval or conditions of reapproval;", 
+            "text": "(i) Requires reductions in FFP otherwise due a State under section 1903(a) if a State fails to meet certain deadlines for operating a mechanized claims processing and information retrieval system or if the system fails to meet certain conditions of approval or conditions of reapproval;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2-ii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2", 
+                "ii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(ii) Requires a Federal performance review at least every three years of the mechanized claims processing and information retrieval systems; and", 
+            "text": "(ii) Requires a Federal performance review at least every three years of the mechanized claims processing and information retrieval systems; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-a-2-iii": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "a", 
+                "2", 
+                "iii"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(iii) Allows waivers of conditions of approval, conditions of reapproval, and FFP reductions under certain circumstances.", 
+            "text": "(iii) Allows waivers of conditions of approval, conditions of reapproval, and FFP reductions under certain circumstances.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-110-b": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "110", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) The requirements under section 1903(r) of the Act do not apply to Puerto Rico, Guam, the Virgin Islands, American Samoa and the Northern Mariana Islands.", 
+            "text": "(b) The requirements under section 1903(r) of the Act do not apply to Puerto Rico, Guam, the Virgin Islands, American Samoa and the Northern Mariana Islands.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-111": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "delete", 
+                2, 
+                3
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-111-b-3": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                40, 
+                " Eligibility determination systems are not part of mechanized claims processing and information retrieval systems or enhancements to those systems."
+            ]
+        ]
+    }, 
+    "433-111-c": {
+        "op": "deleted"
+    }, 
+    "433-112-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    11
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "FFP is available at the 90 percent rate in State expenditures for the design, development, installation, or enhancement of a mechanized claims processing and information retrieval system only if the APD is approved by CMS prior"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    15, 
+                    28
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "the State's expenditure"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    32, 
+                    107
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "funds"
+                ]
+            ], 
+            [
+                "delete", 
+                112, 
+                314
+            ]
+        ]
+    }, 
+    "433-112-b": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                9
+            ], 
+            [
+                "delete", 
+                9, 
+                16
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-112-b-10": {
+        "op": "deleted"
+    }, 
+    "433-112-b-11": {
+        "op": "deleted"
+    }, 
+    "433-112-b-12": {
+        "op": "deleted"
+    }, 
+    "433-112-b-13": {
+        "op": "deleted"
+    }, 
+    "433-112-b-14": {
+        "op": "deleted"
+    }, 
+    "433-112-b-15": {
+        "op": "deleted"
+    }, 
+    "433-112-b-16": {
+        "op": "deleted"
+    }, 
+    "433-112-b-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    32, 
+                    45
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "requirements and performance"
+                ]
+            ], 
+            [
+                "delete", 
+                56, 
+                98
+            ]
+        ]
+    }, 
+    "433-112-b-7": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    69, 
+                    78
+                ], 
+                [
+                    "insert", 
+                    69, 
+                    "74.171."
+                ]
+            ]
+        ]
+    }, 
+    "433-112-c": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                4, 
+                "Eligibility determination systems are not part of mechanized claims processing and information retrieval systems and are not eligible for 75 percent "
+            ], 
+            [
+                [
+                    "delete", 
+                    8, 
+                    23
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "under this subpart. These systems are also not eligible for"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    35, 
+                    60
+                ], 
+                [
+                    "insert", 
+                    35, 
+                    "FFP"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    65, 
+                    267
+                ], 
+                [
+                    "insert", 
+                    65, 
+                    "any APD approved"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    274, 
+                    324
+                ], 
+                [
+                    "insert", 
+                    274, 
+                    "November 13, 1989."
+                ]
+            ]
+        ]
+    }, 
+    "433-113": {
+        "node": {
+            "child_labels": [
+                "433-113-a", 
+                "433-113-b", 
+                "433-113-c"
+            ], 
+            "label": [
+                "433", 
+                "113"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "\n        ", 
+            "text": "", 
+            "title": "\u00a7 433.113 Reduction of FFP for failure to operate a system and obtain initial approval."
+        }, 
+        "op": "added"
+    }, 
+    "433-113-a": {
+        "node": {
+            "child_labels": [
+                "433-113-a-1", 
+                "433-113-a-2", 
+                "433-113-a-3"
+            ], 
+            "label": [
+                "433", 
+                "113", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) Except as waived under \u00a7 433.130 or 433.131, FFP will be reduced as specified in paragraph (b) of this section unless the Medicaid agency has in continuous operation a mechanized claims processing and information retrieval system that meets the following conditions:", 
+            "text": "(a) Except as waived under \u00a7 433.130 or 433.131, FFP will be reduced as specified in paragraph (b) of this section unless the Medicaid agency has in continuous operation a mechanized claims processing and information retrieval system that meets the following conditions:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-a-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "a", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) The APD for the system was approved by CMS;", 
+            "text": "(1) The APD for the system was approved by CMS;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-a-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "a", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) The system is operational by September 30, 1985; and", 
+            "text": "(2) The system is operational by September 30, 1985; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-a-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "a", 
+                "3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(3) The system is initially approved by the last day of the fourth quarter that begins after the date the system became operational as determined by CMS.", 
+            "text": "(3) The system is initially approved by the last day of the fourth quarter that begins after the date the system became operational as determined by CMS.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-b": {
+        "node": {
+            "child_labels": [
+                "433-113-b-1", 
+                "433-113-b-2"
+            ], 
+            "label": [
+                "433", 
+                "113", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) CMS will reduce FFP in expenditures for compensation and training of skilled professional medical personnel and support staff under section 1903(a)(2) of the Act, and for general administration under section 1903(a)(7) of the Act, by the following increments applied separately to those two categories of expenditures:", 
+            "text": "(b) CMS will reduce FFP in expenditures for compensation and training of skilled professional medical personnel and support staff under section 1903(a)(2) of the Act, and for general administration under section 1903(a)(7) of the Act, by the following increments applied separately to those two categories of expenditures:", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-b-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "b", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) Five percentage points for the first two quarters beginning after a deadline in paragraph (a) of this section;", 
+            "text": "(1) Five percentage points for the first two quarters beginning after a deadline in paragraph (a) of this section;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-b-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "b", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) An additional five percentage points during each additional two-quarter period, through the quarter in which the State achieves compliance with the conditions for initial operation or initial approval of an operating system. FFP reductions will not exceed 25 percentage points for each type of reduction.", 
+            "text": "(2) An additional five percentage points during each additional two-quarter period, through the quarter in which the State achieves compliance with the conditions for initial operation or initial approval of an operating system. FFP reductions will not exceed 25 percentage points for each type of reduction.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-113-c": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "113", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) The amount of FFP (determined under section 1903(a)(3)(B)) that would be available retroactively for operating a system that later receives initial approval will be reduced by CMS by the same percentage points for the identical periods of time described in subparagraph (b)(1) of this section, until the system is initially approved. No reduction will be made after the first quarter during which the system is initially approved.", 
+            "text": "(c) The amount of FFP (determined under section 1903(a)(3)(B)) that would be available retroactively for operating a system that later receives initial approval will be reduced by CMS by the same percentage points for the identical periods of time described in subparagraph (b)(1) of this section, until the system is initially approved. No reduction will be made after the first quarter during which the system is initially approved.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-114-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    150, 
+                    154
+                ], 
+                [
+                    "insert", 
+                    150, 
+                    "(h)."
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b": {
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                35, 
+                "or determines that "
+            ], 
+            [
+                "insert", 
+                39, 
+                "system met requirements for initial approval on a date later than the date required under \u00a7 433.113(a)(3), the "
+            ], 
+            [
+                [
+                    "delete", 
+                    51, 
+                    92
+                ], 
+                [
+                    "insert", 
+                    51, 
+                    "include\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    58, 
+                    63
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "made; and"
+                ]
+            ]
+        ]
+    }, 
+    "433-114-b-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    104, 
+                    116
+                ], 
+                [
+                    "insert", 
+                    104, 
+                    "disallowance,"
+                ]
+            ]
+        ]
+    }, 
+    "433-116": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                8
+            ], 
+            [
+                "delete", 
+                8, 
+                10
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-116-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    15, 
+                    45
+                ], 
+                [
+                    "insert", 
+                    15, 
+                    "42 CFR 433.113(c),"
+                ]
+            ]
+        ]
+    }, 
+    "433-116-b": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    96, 
+                    99
+                ], 
+                [
+                    "insert", 
+                    96, 
+                    "(h)"
+                ]
+            ]
+        ]
+    }, 
+    "433-116-i": {
+        "op": "deleted"
+    }, 
+    "433-116-j": {
+        "op": "deleted"
+    }, 
+    "433-117-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    39, 
+                    48
+                ], 
+                [
+                    "insert", 
+                    39, 
+                    "conditions of initial approval of a mechanized claims processing"
+                ]
+            ], 
+            [
+                "delete", 
+                53, 
+                122
+            ]
+        ]
+    }, 
+    "433-117-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    137, 
+                    141
+                ], 
+                [
+                    "insert", 
+                    137, 
+                    "(h),"
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    8, 
+                    28
+                ], 
+                [
+                    "insert", 
+                    8, 
+                    "will review at least once every three years"
+                ]
+            ], 
+            [
+                "insert", 
+                86, 
+                "and reapprove it for FFP at 75 percent "
+            ], 
+            [
+                "delete", 
+                89, 
+                145
+            ], 
+            [
+                "delete", 
+                175, 
+                189
+            ]
+        ]
+    }, 
+    "433-119-a-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    37
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "conditions"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    43, 
+                    57
+                ], 
+                [
+                    "insert", 
+                    43, 
+                    "433.112(b) (1),"
+                ]
+            ], 
+            [
+                "insert", 
+                68, 
+                "and "
+            ], 
+            [
+                [
+                    "delete", 
+                    80, 
+                    101
+                ], 
+                [
+                    "insert", 
+                    80, 
+                    "(9)."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    61, 
+                    65
+                ], 
+                [
+                    "insert", 
+                    61, 
+                    "(h)."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-a-3": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    25, 
+                    47
+                ], 
+                [
+                    "insert", 
+                    25, 
+                    "performance standards for reapproval"
+                ]
+            ], 
+            [
+                "delete", 
+                52, 
+                93
+            ]
+        ]
+    }, 
+    "433-119-a-4": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    32
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "Automated eligibility determination systems approved or operating on or before November 13, 1989, will not qualify for FFP at 75 percent"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    36, 
+                    171
+                ], 
+                [
+                    "insert", 
+                    36, 
+                    "expenditures after November 13, 1989."
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    4, 
+                    20
+                ], 
+                [
+                    "insert", 
+                    4, 
+                    "CMS will issue to each Medicaid agency, by"
+                ]
+            ], 
+            [
+                "insert", 
+                25, 
+                "end of the first quarter after the "
+            ], 
+            [
+                [
+                    "delete", 
+                    32, 
+                    72
+                ], 
+                [
+                    "insert", 
+                    32, 
+                    "period, a written notice informing the agency whether its system is reapproved or disapproved. If the system is disapproved, the notice"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    78, 
+                    274
+                ], 
+                [
+                    "insert", 
+                    78, 
+                    "also include\u2014"
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c-1": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    44, 
+                    70
+                ], 
+                [
+                    "insert", 
+                    44, 
+                    "operations, and the percentage"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    74, 
+                    101
+                ], 
+                [
+                    "insert", 
+                    74, 
+                    "which it is reduced,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    121, 
+                    210
+                ], 
+                [
+                    "insert", 
+                    121, 
+                    "next calender quarter;"
+                ]
+            ]
+        ]
+    }, 
+    "433-119-c-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    58, 
+                    63
+                ], 
+                [
+                    "insert", 
+                    58, 
+                    "made; and"
+                ]
+            ]
+        ]
+    }, 
+    "433-120-b": {
+        "child_ops": [
+            [
+                "insert", 
+                0, 
+                [
+                    "433-120-b-1", 
+                    "433-120-b-2", 
+                    "433-120-b-3", 
+                    "433-120-b-4"
+                ]
+            ]
+        ], 
+        "op": "modified", 
+        "text": [
+            [
+                "insert", 
+                81, 
+                "no more than 70 percent and no less than "
+            ], 
+            [
+                [
+                    "delete", 
+                    84, 
+                    92
+                ], 
+                [
+                    "insert", 
+                    84, 
+                    "percent; however, CMS will not reduce FFP by more than 10 percentage points in any four-quarter period. The percentage to which the FFP is reduced will depend primarily on the following criteria:"
+                ]
+            ]
+        ]
+    }, 
+    "433-120-b-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "120", 
+                "b", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) The number of conditions judged unsatisfactory;", 
+            "text": "(1) The number of conditions judged unsatisfactory;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-120-b-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "120", 
+                "b", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) The extent to which conditions were not met;", 
+            "text": "(2) The extent to which conditions were not met;", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-120-b-3": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "120", 
+                "b", 
+                "3"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(3) The significance of the unsatisfactory conditions in overall mechanized claims processing and information retrieval system operations; and", 
+            "text": "(3) The significance of the unsatisfactory conditions in overall mechanized claims processing and information retrieval system operations; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-120-b-4": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "120", 
+                "b", 
+                "4"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(4) The actual and potential program impact attributable to the unsatisfactory conditions.", 
+            "text": "(4) The actual and potential program impact attributable to the unsatisfactory conditions.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-121-a": {
+        "op": "modified", 
+        "text": [
+            [
+                "delete", 
+                8, 
+                23
+            ], 
+            [
+                [
+                    "delete", 
+                    41, 
+                    44
+                ], 
+                [
+                    "insert", 
+                    41, 
+                    "to"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    89, 
+                    97
+                ], 
+                [
+                    "insert", 
+                    89, 
+                    "part 16,"
+                ]
+            ], 
+            [
+                [
+                    "delete", 
+                    162, 
+                    172
+                ], 
+                [
+                    "insert", 
+                    162, 
+                    "operation"
+                ]
+            ], 
+            [
+                "insert", 
+                219, 
+                " If the Board finds such a disallowance to be appropriate, the discretionary determination to reduce FFP by a particular percentage amount (instead of by a lesser percentage) is not subject to review by the Board unless the percentage reduction exceeds the range authorized by section 1903(r)(4)(B) of the Act."
+            ]
+        ]
+    }, 
+    "433-130": {
+        "node": {
+            "child_labels": [
+                "433-130-a", 
+                "433-130-b", 
+                "433-130-c", 
+                "433-130-d"
+            ], 
+            "label": [
+                "433", 
+                "130"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "\n        ", 
+            "text": "", 
+            "title": "\u00a7 433.130 Waiver of conditions of initial operation and approval."
+        }, 
+        "op": "added"
+    }, 
+    "433-130-a": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "a"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(a) CMS will waive requirements for initial operation and approval of systems under \u00a7 433.113 for a State meeting the requirements of paragraph (b) of this section and that had a 1976 population of less than one million and made total Federal and State Medicaid expenditures of less than $100 million in fiscal year 1976. Population figures are those reported by the Bureau of the Census. Expenditures for fiscal year 1976 are those reported by the State for that year.", 
+            "text": "(a) CMS will waive requirements for initial operation and approval of systems under \u00a7 433.113 for a State meeting the requirements of paragraph (b) of this section and that had a 1976 population of less than one million and made total Federal and State Medicaid expenditures of less than $100 million in fiscal year 1976. Population figures are those reported by the Bureau of the Census. Expenditures for fiscal year 1976 are those reported by the State for that year.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-b": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "b"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(b) To be eligible for this waiver, the agency must submit its reasons to CMS in writing and demonstrate to CMS's satisfaction that a system will not significantly improve the efficiency of the administration of the State plan.", 
+            "text": "(b) To be eligible for this waiver, the agency must submit its reasons to CMS in writing and demonstrate to CMS's satisfaction that a system will not significantly improve the efficiency of the administration of the State plan.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-c": {
+        "node": {
+            "child_labels": [
+                "433-130-c-1", 
+                "433-130-c-2"
+            ], 
+            "label": [
+                "433", 
+                "130", 
+                "c"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(c) If CMS denies the waiver request, the notice of denial will include\u2014", 
+            "text": "(c) If CMS denies the waiver request, the notice of denial will include\u2014", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-c-1": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "c", 
+                "1"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(1) The findings of fact upon which the denial was made; and", 
+            "text": "(1) The findings of fact upon which the denial was made; and", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-c-2": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "c", 
+                "2"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(2) The procedures for appeal of the denial.", 
+            "text": "(2) The procedures for appeal of the denial.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-130-d": {
+        "node": {
+            "child_labels": [], 
+            "label": [
+                "433", 
+                "130", 
+                "d"
+            ], 
+            "node_type": "regtext", 
+            "tagged_text": "(d) If CMS determines, after granting a waiver, that a system would significantly improve the administration of the State Medicaid program, CMS may withdraw the waiver and require that a State obtain initial approval of a system within two years of the date of waiver withdrawal.", 
+            "text": "(d) If CMS determines, after granting a waiver, that a system would significantly improve the administration of the State Medicaid program, CMS may withdraw the waiver and require that a State obtain initial approval of a system within two years of the date of waiver withdrawal.", 
+            "title": null
+        }, 
+        "op": "added"
+    }, 
+    "433-131": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                2
+            ], 
+            [
+                "delete", 
+                2, 
+                3
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-131-c": {
+        "op": "deleted"
+    }, 
+    "433-36-g-2": {
+        "op": "modified", 
+        "text": [
+            [
+                [
+                    "delete", 
+                    250, 
+                    255
+                ], 
+                [
+                    "insert", 
+                    250, 
+                    "when--"
+                ]
+            ]
+        ]
+    }, 
+    "433-50-a-1": {
+        "child_ops": [
+            [
+                "delete", 
+                0, 
+                2
+            ]
+        ], 
+        "op": "modified"
+    }, 
+    "433-50-a-1-i": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-A": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-B": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-C": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p1": {
+        "op": "deleted"
+    }, 
+    "433-50-a-1-ii-D-1-p2": {
+        "op": "deleted"
+    }, 
+    "433-Subpart-C": {
+        "child_ops": [
+            [
+                "equal", 
+                0, 
+                3
+            ], 
+            [
+                "insert", 
+                3, 
+                [
+                    "433-113"
+                ]
+            ], 
+            [
+                "equal", 
+                3, 
+                12
+            ], 
+            [
+                "insert", 
+                12, 
+                [
+                    "433-130"
+                ]
+            ], 
+            [
+                "equal", 
+                12, 
+                13
+            ]
+        ], 
+        "op": "modified"
+    }
+}
