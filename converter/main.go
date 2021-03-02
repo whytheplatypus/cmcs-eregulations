@@ -11,33 +11,43 @@ import (
 )
 
 type CFRDoc struct {
-	XMLName xml.Name `xml:"CFRDOC"`
-	Title   Title    `xml:"TITLE"`
+	XMLName xml.Name `xml:"CFRDOC" json:"meta"`
+	Title   *Title   `xml:"TITLE"`
 }
 
 type Title struct {
-	Chapters []Chapter `xml:"CHAPTER"`
+	Chapters []*Chapter `xml:"CHAPTER"`
 }
 
 type Chapter struct {
-	Subchaps []Subchapter `xml:"SUBCHAP"`
+	Subchaps []*Subchapter `xml:"SUBCHAP"`
 }
 
 type Subchapter struct {
-	Parts  []Part `xml:"PART"`
-	Header string `xml:"HD"`
+	Parts  []*Part `xml:"PART"`
+	Header string  `xml:"HD"`
+}
+
+type NodeType string
+
+func (nt *NodeType) MarshalText() (text []byte, err error) {
+	return []byte("reg_text"), nil
 }
 
 type Part struct {
 	//Sections []Section `xml:"SECTION"`
 	//Subparts []Subpart `xml:"SUBPART"`
 	Children *Children `xml:",any" json:"children"`
-	Header   string    `xml:"HD"`
+	Header   string    `xml:"HD" json:"title"`
+	Text     string    `xml:",chardata" json:"text"`
+	NodeType NodeType  `json:"node_type"`
+	Label    []string  `json:"label"`
 }
 
 type Subpart struct {
 	Header   string    `xml:"HD"`
 	Children *Children `xml:",any" json:"children"`
+	Label    []string
 }
 
 type Children struct {
@@ -47,26 +57,26 @@ type Children struct {
 func (c *Children) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	switch start.Name.Local {
 	case "SUBPART":
-		child := Subpart{}
-		if err := d.DecodeElement(&child, &start); err != nil {
+		child := &Subpart{}
+		if err := d.DecodeElement(child, &start); err != nil {
 			return err
 		}
 		c.Kids = append(c.Kids, child)
 	case "SUBJGRP":
-		child := SubjectGroup{}
-		if err := d.DecodeElement(&child, &start); err != nil {
+		child := &SubjectGroup{}
+		if err := d.DecodeElement(child, &start); err != nil {
 			return err
 		}
 		c.Kids = append(c.Kids, child)
 	case "SECTION":
-		child := Section{}
-		if err := d.DecodeElement(&child, &start); err != nil {
+		child := &Section{}
+		if err := d.DecodeElement(child, &start); err != nil {
 			return err
 		}
 		c.Kids = append(c.Kids, child)
 	default:
-		child := Node{}
-		if err := d.DecodeElement(&child, &start); err != nil {
+		child := &Node{}
+		if err := d.DecodeElement(child, &start); err != nil {
 			return err
 		}
 		c.Kids = append(c.Kids, child)
@@ -80,26 +90,26 @@ func (c *Children) MarshalJSON() ([]byte, error) {
 }
 
 type SubjectGroup struct {
-	XMLName  xml.Name
+	XMLName  xml.Name  `json:"meta"`
 	Sections []Section `xml:"SECTION" json:"children"`
 	Header   string    `xml:"HD"`
 }
 
 type Section struct {
-	XMLName    xml.Name
+	XMLName    xml.Name    `json:"meta"`
 	Number     string      `xml:"SECTNO"`
 	Subject    string      `xml:"SUBJECT"`
 	Paragraphs []Paragraph `xml:",any" json:"children"`
 }
 
 type Paragraph struct {
-	XMLName xml.Name
-	Content string `xml:",innerxml" json:"text"`
+	XMLName xml.Name `json:"meta"`
+	Content string   `xml:",innerxml" json:"text"`
 }
 
 type Node struct {
-	Name     xml.StartElement
-	Children []*Node
+	Name     xml.StartElement `json:"meta"`
+	Children []*Node          `json:"children"`
 	Content  []string
 }
 
@@ -139,19 +149,46 @@ func main() {
 	if err := d.Decode(doc); err != nil {
 		log.Fatal(err)
 	}
+	doc.FillLabels()
+	part := doc.Part("433")
+	json, err := json.MarshalIndent(part, "", "    ")
+	if err != nil {
+		log.Fatal(err)
+	}
 
+	fmt.Println(string(json))
+}
+
+type Labeled interface {
+	SetLabel([]string)
+	Label() []string
+}
+
+func (doc *CFRDoc) FillLabels() {
 	for _, chap := range doc.Title.Chapters {
 		for _, subchap := range chap.Subchaps {
 			for _, part := range subchap.Parts {
-				if strings.Contains(part.Header, "433") {
-					json, err := json.MarshalIndent(part, "", "    ")
-					if err != nil {
-						log.Fatal(err)
+				part.Label = []string{part.Header}
+				for _, child := range part.Children.Kids {
+					subpart, ok := child.(*Subpart)
+					if ok {
+						subpart.Label = append(part.Label, subpart.Header)
 					}
-
-					fmt.Println(string(json))
 				}
 			}
 		}
 	}
+}
+
+func (doc *CFRDoc) Part(num string) *Part {
+	for _, chap := range doc.Title.Chapters {
+		for _, subchap := range chap.Subchaps {
+			for _, part := range subchap.Parts {
+				if strings.Contains(part.Header, num) {
+					return part
+				}
+			}
+		}
+	}
+	return nil
 }
