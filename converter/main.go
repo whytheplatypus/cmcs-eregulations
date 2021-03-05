@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"regexp"
 	"strings"
 )
 
@@ -47,11 +48,12 @@ type Part struct {
 type Subpart struct {
 	Header   string    `xml:"HD"`
 	Children *Children `xml:",any" json:"children"`
-	Label    []string
+	Label    []string  `json:"label"`
 }
 
 type Children struct {
-	Kids []interface{}
+	Parent interface{}
+	Kids   []interface{}
 }
 
 func (c *Children) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
@@ -74,6 +76,14 @@ func (c *Children) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 			return err
 		}
 		c.Kids = append(c.Kids, child)
+	case "P":
+		child := &Paragraph{}
+		if err := d.DecodeElement(child, &start); err != nil {
+			return err
+		}
+		child.Parent = c.Parent
+		child.Siblings = c.Kids
+		c.Kids = append(c.Kids, child)
 	default:
 		child := &Node{}
 		if err := d.DecodeElement(child, &start); err != nil {
@@ -90,21 +100,77 @@ func (c *Children) MarshalJSON() ([]byte, error) {
 }
 
 type SubjectGroup struct {
-	XMLName  xml.Name  `json:"meta"`
-	Sections []Section `xml:"SECTION" json:"children"`
-	Header   string    `xml:"HD"`
+	XMLName  xml.Name   `json:"meta"`
+	Sections []*Section `xml:"SECTION" json:"children"`
+	Header   string     `xml:"HD"`
 }
 
 type Section struct {
-	XMLName    xml.Name    `json:"meta"`
-	Number     string      `xml:"SECTNO"`
-	Subject    string      `xml:"SUBJECT"`
-	Paragraphs []Paragraph `xml:",any" json:"children"`
+	XMLName  xml.Name  `json:"meta"`
+	Number   string    `xml:"SECTNO"`
+	Subject  string    `xml:"SUBJECT"`
+	Children *Children `xml:",any" json:"children"`
+}
+
+func (s *Section) Label() []string {
+	ref := strings.TrimSpace(strings.TrimPrefix(s.Number, "§"))
+	return strings.Split(ref, ".")
+}
+
+func (s *Section) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
+	type section2 Section
+	p := (*section2)(s)
+	p.Children = &Children{}
+	p.Children.Parent = s
+	if err := d.DecodeElement(p, &start); err != nil {
+		return err
+	}
+	return nil
 }
 
 type Paragraph struct {
-	XMLName xml.Name `json:"meta"`
-	Content string   `xml:",innerxml" json:"text"`
+	XMLName  xml.Name      `json:"meta"`
+	Content  string        `xml:",innerxml" json:"text"`
+	Parent   interface{}   `json:"-"`
+	Siblings []interface{} `json:"-"`
+}
+
+// a, 1, roman, upper, italic int, italic roman
+var alpha = regexp.MustCompile(`\(([a-z]+)\)`)
+var num = regexp.MustCompile(`\((\d+)\)`)
+var upper = regexp.MustCompile(`\(([A-Z]+)\)`)
+var roman = regexp.MustCompile(`\((ix|iv|v?i{0,3})\)`)
+
+func (p *Paragraph) Label() []string {
+	re := regexp.MustCompile(`^([\(\w+\)]+)`)
+	pLabel := re.FindStringSubmatch(p.Content)
+	if len(pLabel) < 2 {
+		return nil
+	}
+	parent, ok := p.Parent.(Labeled)
+	if !ok {
+		return pLabel
+	}
+	l := parent.Label()
+	return append(l, pLabel...)
+}
+
+func (p *Paragraph) MarshalJSON() ([]byte, error) {
+	type p2 struct {
+		XMLName xml.Name `json:"meta"`
+		Content string   `xml:",innerxml" json:"text"`
+		Label   []string `json:"label"`
+	}
+	toMarshal := &p2{
+		p.XMLName,
+		p.Content,
+		p.Label(),
+	}
+	b, err := json.Marshal(toMarshal)
+	if err != nil {
+		return b, err
+	}
+	return b, nil
 }
 
 type Node struct {
@@ -149,7 +215,6 @@ func main() {
 	if err := d.Decode(doc); err != nil {
 		log.Fatal(err)
 	}
-	doc.FillLabels()
 	part := doc.Part("433")
 	json, err := json.MarshalIndent(part, "", "    ")
 	if err != nil {
@@ -160,7 +225,6 @@ func main() {
 }
 
 type Labeled interface {
-	SetLabel([]string)
 	Label() []string
 }
 
