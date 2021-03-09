@@ -142,17 +142,20 @@ var upper = regexp.MustCompile(`\(([A-Z]+)\)`)
 var roman = regexp.MustCompile(`\((ix|iv|v?i{0,3})\)`)
 
 func (p *Paragraph) Label() []string {
-	re := regexp.MustCompile(`^([\(\w+\)]+)`)
+	re := regexp.MustCompile(`^\((\w+)\)(?:\((\w+)\))?`)
 	pLabel := re.FindStringSubmatch(p.Content)
-	if len(pLabel) < 2 {
+	if len(pLabel) < 2 || len(pLabel) > 3 {
 		return nil
+	}
+	if pLabel[2] == "" {
+		pLabel = pLabel[:2]
 	}
 	parent, ok := p.Parent.(Labeled)
 	if !ok {
 		return pLabel
 	}
 	l := parent.Label()
-	return append(l, pLabel...)
+	return append(l, pLabel[1:]...)
 }
 
 func (p *Paragraph) MarshalJSON() ([]byte, error) {
