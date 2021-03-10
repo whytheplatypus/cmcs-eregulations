@@ -82,8 +82,9 @@ func (c *Children) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 			return err
 		}
 		child.Parent = c.Parent
-		child.Siblings = c.Kids
+		child.Siblings = c
 		c.Kids = append(c.Kids, child)
+		child.Spot = len(c.Kids)
 	default:
 		child := &Node{}
 		if err := d.DecodeElement(child, &start); err != nil {
@@ -129,19 +130,47 @@ func (s *Section) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 }
 
 type Paragraph struct {
-	XMLName  xml.Name      `json:"meta"`
-	Content  string        `xml:",innerxml" json:"text"`
-	Parent   interface{}   `json:"-"`
-	Siblings []interface{} `json:"-"`
+	XMLName  xml.Name    `json:"meta"`
+	Content  string      `xml:",innerxml" json:"text"`
+	Parent   interface{} `json:"-"`
+	Siblings *Children   `json:"-"`
+	Spot     int         `json:"-"`
 }
 
 // a, 1, roman, upper, italic int, italic roman
-var alpha = regexp.MustCompile(`\(([a-z]+)\)`)
-var num = regexp.MustCompile(`\((\d+)\)`)
-var upper = regexp.MustCompile(`\(([A-Z]+)\)`)
-var roman = regexp.MustCompile(`\((ix|iv|v?i{0,3})\)`)
+var alpha = regexp.MustCompile(`([a-z]+)`)
+var num = regexp.MustCompile(`(\d+)`)
+var upper = regexp.MustCompile(`([A-Z]+)`)
+var roman = regexp.MustCompile(`(ix|iv|v|vi{1,3}|i{1,3})`)
 
-func (p *Paragraph) Label() []string {
+var paragraphHeirarchy = []*regexp.Regexp{
+	alpha,
+	num,
+	roman,
+	upper,
+}
+
+func matchLabelType(l string) int {
+	m := 0
+	for i, reg := range paragraphHeirarchy {
+		if reg.MatchString(l) {
+			m = i
+		}
+	}
+	return m
+}
+
+// could return a regexp instead?
+func (p *Paragraph) labelType() int {
+	l := p.label()
+	if l == nil {
+		return 0
+	}
+	first := l[0]
+	return matchLabelType(first)
+}
+
+func (p *Paragraph) label() []string {
 	re := regexp.MustCompile(`^\((\w+)\)(?:\((\w+)\))?`)
 	pLabel := re.FindStringSubmatch(p.Content)
 	if len(pLabel) < 2 || len(pLabel) > 3 {
@@ -150,12 +179,44 @@ func (p *Paragraph) Label() []string {
 	if pLabel[2] == "" {
 		pLabel = pLabel[:2]
 	}
-	parent, ok := p.Parent.(Labeled)
-	if !ok {
-		return pLabel
+	return pLabel[1:]
+}
+
+func (p *Paragraph) siblings() []*Paragraph {
+	sibs := []*Paragraph{}
+	for _, sib := range p.Siblings.Kids {
+		sibp, ok := sib.(*Paragraph)
+		if !ok {
+			continue
+		}
+		if p == sibp {
+			break
+		}
+		sibs = append([]*Paragraph{sibp}, sibs...)
 	}
-	l := parent.Label()
-	return append(l, pLabel[1:]...)
+	return sibs
+}
+
+func (p *Paragraph) Label() []string {
+	pLabel := p.label()
+	l := []string{}
+	if p.labelType() > 0 {
+		for _, sib := range p.siblings() {
+			// find the first sibling of a parent type
+			if sib.labelType() < p.labelType() {
+				sibl := sib.Label()
+				if len(sibl) > 0 {
+					if p.labelType() == matchLabelType(sibl[len(sibl)-1]) {
+						sibl = sibl[:len(sibl)-1]
+					}
+				}
+				l = append(sibl, l...)
+				break
+			}
+		}
+	}
+	l = append(l, pLabel...)
+	return l
 }
 
 func (p *Paragraph) MarshalJSON() ([]byte, error) {
@@ -164,10 +225,12 @@ func (p *Paragraph) MarshalJSON() ([]byte, error) {
 		Content string   `xml:",innerxml" json:"text"`
 		Label   []string `json:"label"`
 	}
+	l := append(p.Parent.(Labeled).Label(), p.Label()...)
 	toMarshal := &p2{
 		p.XMLName,
 		p.Content,
-		p.Label(),
+		// TODO append parent label
+		l,
 	}
 	b, err := json.Marshal(toMarshal)
 	if err != nil {
