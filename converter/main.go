@@ -131,7 +131,7 @@ func (s *Section) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 
 type Paragraph struct {
 	XMLName  xml.Name    `json:"meta"`
-	Content  string      `xml:",innerxml" json:"text"`
+	Content  string      `xml:",chardata" json:"text"`
 	Parent   interface{} `json:"-"`
 	Siblings *Children   `json:"-"`
 	Spot     int         `json:"-"`
