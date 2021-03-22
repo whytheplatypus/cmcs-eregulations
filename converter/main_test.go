@@ -37,7 +37,7 @@ func compareJSON(compare, expected interface{}) error {
 		}
 		want := expected.([]interface{})
 		if len(have) < len(want) {
-			return fmt.Errorf("Missing some elements of the array")
+			return fmt.Errorf("Missing some elements of the array %d %d", len(have), len(want))
 		}
 		for i, val := range want {
 			var notfound error
@@ -55,14 +55,15 @@ func compareJSON(compare, expected interface{}) error {
 		if !ok {
 			return fmt.Errorf("Types don't match")
 		}
-		for key, _ := range expected.(map[string]interface{}) {
-			_, ok := have[key]
+		for key, val := range expected.(map[string]interface{}) {
+			v, ok := have[key]
 			if !ok {
 				return fmt.Errorf("Missing key: %s", key)
 			}
-			//	if err := compareJSON(v, val); err != nil {
-			//	return fmt.Errorf("Failed for key %s: %s", key, err)
-			//}
+			if err := compareJSON(v, val); err != nil {
+				return fmt.Errorf("Failed for key %s: %s", key, err)
+			}
+
 		}
 	}
 	return nil

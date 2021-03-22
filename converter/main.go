@@ -48,7 +48,19 @@ type Part struct {
 type Subpart struct {
 	Header   string    `xml:"HD"`
 	Children *Children `xml:",any" json:"children"`
-	Label    []string  `json:"label"`
+	NodeType NodeType  `json:"node_type"`
+	L        []string  `json:"label"`
+}
+
+func (s *Subpart) Label() []string {
+	return strings.Split(strings.Split(s.Header, "—")[0], " ")
+}
+
+func (s *Subpart) MarshalJSON() ([]byte, error) {
+	type s2 Subpart
+	toMarshal := (*s2)(s)
+	toMarshal.L = s.Label()
+	return json.Marshal(toMarshal)
 }
 
 type Children struct {
@@ -103,6 +115,7 @@ func (c *Children) MarshalJSON() ([]byte, error) {
 type SubjectGroup struct {
 	XMLName  xml.Name   `json:"meta"`
 	Sections []*Section `xml:"SECTION" json:"children"`
+	NodeType NodeType   `json:"node_type"`
 	Header   string     `xml:"HD"`
 }
 
@@ -129,9 +142,33 @@ func (s *Section) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 	return nil
 }
 
+func (s *Section) MarshalJSON() ([]byte, error) {
+	type s2 struct {
+		XMLName  xml.Name `json:"meta"`
+		Number   string
+		Subject  string
+		Children *Children `json:"children"`
+		Label    []string  `json:"label"`
+		NodeType string    `json:"node_type"`
+		Text     string    `json:"text"`
+		Title    string    `json:"title"`
+	}
+	toMarshal := &s2{
+		s.XMLName,
+		s.Number,
+		s.Subject,
+		s.Children,
+		s.Label(),
+		"reg_text",
+		"",
+		fmt.Sprintf("%s %s", s.Number, s.Subject),
+	}
+	return json.Marshal(toMarshal)
+}
+
 type Paragraph struct {
 	XMLName  xml.Name    `json:"meta"`
-	Content  string      `xml:",chardata" json:"text"`
+	Content  string      `xml:",innerxml" json:"text"`
 	Parent   interface{} `json:"-"`
 	Siblings *Children   `json:"-"`
 	Spot     int         `json:"-"`
@@ -140,18 +177,22 @@ type Paragraph struct {
 // a, 1, roman, upper, italic int, italic roman
 var alpha = regexp.MustCompile(`([a-z]+)`)
 var num = regexp.MustCompile(`(\d+)`)
-var upper = regexp.MustCompile(`([A-Z]+)`)
 var roman = regexp.MustCompile(`(ix|iv|v|vi{1,3}|i{1,3})`)
+var upper = regexp.MustCompile(`([A-Z]+)`)
+var italic_num = regexp.MustCompile(`(<E T="03">\d+</E>)`)
+var italic_roman = regexp.MustCompile(`<E T="03">(ix|iv|v|vi{1,3}|i{1,3})</E>`)
 
 var paragraphHeirarchy = []*regexp.Regexp{
 	alpha,
 	num,
 	roman,
 	upper,
+	italic_num,
+	italic_roman,
 }
 
 func matchLabelType(l string) int {
-	m := 0
+	m := -1
 	for i, reg := range paragraphHeirarchy {
 		if reg.MatchString(l) {
 			m = i
@@ -171,12 +212,12 @@ func (p *Paragraph) labelType() int {
 }
 
 func (p *Paragraph) label() []string {
-	re := regexp.MustCompile(`^\((\w+)\)(?:\((\w+)\))?`)
+	re := regexp.MustCompile(`^\(([^\)]+)(?:\([^\)]+)?`)
 	pLabel := re.FindStringSubmatch(p.Content)
 	if len(pLabel) < 2 || len(pLabel) > 3 {
 		return nil
 	}
-	if pLabel[2] == "" {
+	if len(pLabel) > 2 && pLabel[2] == "" {
 		pLabel = pLabel[:2]
 	}
 	return pLabel[1:]
@@ -222,14 +263,13 @@ func (p *Paragraph) Label() []string {
 func (p *Paragraph) MarshalJSON() ([]byte, error) {
 	type p2 struct {
 		XMLName xml.Name `json:"meta"`
-		Content string   `xml:",innerxml" json:"text"`
+		Content string   `json:"text"`
 		Label   []string `json:"label"`
 	}
 	l := append(p.Parent.(Labeled).Label(), p.Label()...)
 	toMarshal := &p2{
 		p.XMLName,
 		p.Content,
-		// TODO append parent label
 		l,
 	}
 	b, err := json.Marshal(toMarshal)
@@ -294,7 +334,7 @@ type Labeled interface {
 	Label() []string
 }
 
-func (doc *CFRDoc) FillLabels() {
+/*func (doc *CFRDoc) FillLabels() {
 	for _, chap := range doc.Title.Chapters {
 		for _, subchap := range chap.Subchaps {
 			for _, part := range subchap.Parts {
@@ -308,7 +348,7 @@ func (doc *CFRDoc) FillLabels() {
 			}
 		}
 	}
-}
+}*/
 
 func (doc *CFRDoc) Part(num string) *Part {
 	for _, chap := range doc.Title.Chapters {
